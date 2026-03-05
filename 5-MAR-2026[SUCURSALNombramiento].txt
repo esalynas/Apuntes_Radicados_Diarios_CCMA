@@ -1,0 +1,119 @@
+5-MAR-2026[SUCURSALNombramiento]
+Radicado:29678701 Mat 608075-97
+JULIET ALEJANDRA MONTOYA BETANCUR
+
+DESIGNACION Y REMOCION REPRESENTANTES LEGALES Y REVISORES FISCALES SUCURSALES
+
+Nombran a Harvey - Albriso,Saenz Burgos como Jefe Enlace Administración de la Suairsal de Medellín de la Sociedad (Matricula No. 21-017866-02) en reemplazo de Farud Rojas Gómez.
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Jefe Enlace Administración
+OK----Label / Boletín
+
+Corrección Aboga@:
+
+¿cómo?
+Boletín, ingresar mat de la sucursal
+realizar nombramiento, realizar label manual  ver ejemplo al final.
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+608075-97 DesRemRiRf-----------OK
+Ajuste Cert al esquema---------NA
+
+
+
+Ejemplo de nombramiento LABEL Y BOLETÍN:
+
+SUCURSAL......017866-02 INDUSTRIA NACIONAL DE GASEOSAS S.A. SUCURSAL MEDELLÍN
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     JEFE ENLACE ADMINISTRACION
+Nombre:               HARVEY ALONSO SAENZ BURGOS
+Identificación:       73580547
+Tipo de Nombramiento: DESIGNACION
+
+
+
+
+
+
+
+
+texto viejo
+____________
+
+                   NOMBRAMIENTO DE REPRESENTANTE LEGAL
+
+Por  Acta  No.  1153  del  13  de agosto de 2024, de la Junta Directiva,
+inscrito(a)  en  esta Cámara de Comercio el 29 de agosto de 2024, con el
+No. 2781 del Libro VI, se designó a:
+
+CARGO                      NOMBRE                      IDENTIFICACION
+GERENTE TERRITORIAL DE     JUAN CARLOS GARCIA MONTAÑA   C.C. 9.399.127
+DISTRIBUCION               
+
+GERENTE DE MANUFACTURA     JOSE ALEJANDRO MELO          C.C. 79.385.813
+                           HERRERA
+
+Por  Documento  Privado  del  6  de agosto de 2019, de la Representantes
+Legales,  inscrito  en  esta cámara de comercio el 14 de agosto de 2019,
+con el No.2464 del libro VI, se designó a:                           
+
+GERENTE TERRITORIAL DE     JHON FERNANDO GIL         C.C. 78.698.801
+VENTAS                     ESCOBAR   
+
+Por  Acta  No.  1155 del 3 de septiembre de 2024, de la Junta Directiva,
+inscrito(a)  en esta Cámara de Comercio el 11 de octubre de 2024, con el
+No. 3173 del Libro VI, se designó a:
+
+GERENTE DE SECTOR DE LA    JULIO CESAR NIEVES SANCHEZ  C.C.  79.512.924
+SUCURSAL MEDELLIN          
+
+
+Por  Acta  No.  1153  del  13  de agosto de 2024, de la Junta Directiva,
+inscrito(a)  en  esta Cámara de Comercio el 29 de agosto de 2024, con el
+No. 2781 del Libro VI, se designó a:      
+
+JEFE DE RECURSOS HUMANOS   DANIEL  HENAO LOPERA      C.C. 1.128.277.781
+
+Por  Documento  Privado  del  6  de agosto de 2019, de la Representantes
+Legales,  inscrito  en  esta cámara de comercio el 14 de agosto de 2019,
+con el No.2464 del libro VI, se designó a: 
+
+JEFE ENLACE                FARUT  ROJAS GOMEZ        C.C. 12.121.347
+ADMINISTRACION             
+
+Por  Comunicación del 30 de julio de 2021, de los Representantes Legales
+Principales,  inscrita  en  esta  cámara  de comercio el 11 de agosto de
+2021, con el No.1854 del libro VI, se designó a:
+
+EJECUTIVO DE ASUNTOS       ROSANA MERCEDES DIAZ      C.C. 1.018.439.842
+LABORALES                  FRANCO                     
+
+Por  Documento  Privado  del  6  de agosto de 2019, de la Representantes
+Legales,  inscrito  en  esta cámara de comercio el 14 de agosto de 2019,
+con el No.2464 del libro VI, se designó a:
+
+EJECUTIVO DE ASUNTOS       MARIA ANGELICA LABORDE    C.C. 1.082.841.153
+JUDICIALES     
+
+Por  Acta  No.  1153  del  13  de agosto de 2024, de la Junta Directiva,
+inscrito(a)  en  esta Cámara de Comercio el 29 de agosto de 2024, con el
+No. 2781 del Libro VI, se designó a:            
+
+EJECUTIVO DE RELACIONES    MONICA BEATRIZ AMAYA LEON C.C. 1.020.767.517
+LABORALES                 
+
+Por  Acta  No.1176  del  15  de  octubre de 2025, de la Junta Directiva,
+inscrita  en  esta Cámara de Comercio el 19 de noviembre de 2025, con el
+No.2991 del Libro VI, se designó a:
+
+EJECUTIVO DE ASUNTOS       CLAUDIA LORENA PASTOR     C.C. 1.010.232.154
+JUDICIALES                 LUQUE 
+
+
