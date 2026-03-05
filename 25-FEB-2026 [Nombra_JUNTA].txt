@@ -1,0 +1,81 @@
+25-FEB-2026 [Nombra_JUNTA]
+Radicado:29611502 Mat 29470-12
+DANIELA RESTREPO VALLEJO
+
+
+SE REMUEVE A TAKESHI HIGUCHI COMO MIEMBRO PRINCIPAL DE JUNTA DIRECTIVA
+Y SE NOMBRA A SHIMOISHI KYOKO EN SU REEMPLAZO. OK ACEPT OK PASAPORTE VIGENTE.
+
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Miembro Junta Dir
+OK----Boletín
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+29470-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia doc
+
+
+
+TS1.587.703
+
+EJEMPLO MIEMBRO VIEJO (LABEL Y BOLETIN)
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               TAKESHI HIGUCHI   
+Identificación:       TM0079167
+Tipo de Nombramiento: DESIGNACION
+
+JUNTA VIEJA:
+
+                             JUNTA DIRECTIVA
+
+PRINCIPALES
+NOMBRE                                               IDENTIFICACION
+FRANCISCO JOSE SIERRA ARANGO                         C.C. 8.255.133
+SHIN  KATO                                           PAS. TR3.500.602
+TETSUO  KIKUCHI                                      PAS. TR8.007.436
+KOKI  KOYAMA                                         C.E. 7.789.168
+TAKESHI HIGUCHI                                      PAS. TM0079167
+    
+SUPLENTES                                    
+NOMBRE                                              IDENTIFICACION
+LUZ STELLA RODRIGUEZ DE SIERRA                      C.C. 32.403.028
+AMANE  KOJIMA                                       PAS. TZ2.040.861
+CARLOS ANDRES ANGEL ARANGO                          C.C. 10.142.100
+HISASHI ONISHI                                      PAS. TZ2.083.929
+ALFREDO HERNANDO OSUNA                              C.C. 8.274.392
+                       
+Por  Acta No.74 del 27 de marzo de 2025, de la Asamblea de Accionistas,
+inscrita  en  esta  Cámara de Comercio el 24 de abril de 2025, con el
+No.17353 del Libro IX, se designó a:
+
+PRINCIPALES
+NOMBRE                                              IDENTIFICACION
+FRANCISCO JOSE SIERRA ARANGO                        C.C. 8.255.133
+SHIN  KATO                                          PAS. TR3.500.602
+TETSUO  KIKUCHI                                     PAS. TR8.007.436
+KOKI  KOYAMA                                        C.E. 7.789.168
+    
+SUPLENTES                                    
+NOMBRE                                              IDENTIFICACION
+LUZ STELLA RODRIGUEZ DE SIERRA                      C.C. 32.403.028
+AMANE  KOJIMA                                       PAS. TZ2.040.861
+CARLOS ANDRES ANGEL ARANGO                          C.C. 10.142.100
+HISASHI ONISHI                                      PAS. TZ2.083.929
+
+Por Acta No.76 del 28 de octubre de 2025, de la Asamblea, inscrita en esta Cámara de Comercio el 05 de noviembre de 2025, con el No. 42577 del Libro IX, se designó a:
+                       
+PRINCIPAL
+NOMBRE                                              IDENTIFICACION
+TAKESHI HIGUCHI                                     PAS. TM0079167
+                       
+
+
+

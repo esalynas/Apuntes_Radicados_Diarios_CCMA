@@ -1,0 +1,58 @@
+3-MAR-2026[DonaMat98CancelaEspMan]
+Radicado:29654899 Mat 241985-1
+YULIANA MARCELA LOPEZ MEDINA
+
+registro parcial con devolución del documentos
+ok. donación establecimiento/can cte
+sin pendientes 
+rev 2025
+no. matricula comerciante
+
+Commit:
+OK---Actualizado ESF
+OK---Label Donación
+OK---Cancela-Cte
+OK---Boletín
+OK---ESP. DONACIÓN ESTABLECIMIENTO (528941-02)  MAT 241985-10
+Comerciante con Nit Informado a Wilmar
+
+Corrección Abogado: 
+
+Revisión:
+Donación LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Mat Alto impact 5360,9609? NO
+Comerciante Comprador activo?: NO
+Se cancela cte?:SI
+SI No se cancela hacer Esp. Compraventa --NA
+Cuantos establecimientos?  1
+Tiene multas? no
+
+Orden Trámites
+718122-98 NoMat-Pn Cesionario (recibe)-----ok
+241985-1 donacion-Est--------------------OK
+241985-1 Cancela-Cte---------------------
+ESP. DONACIÓN MANUAL---------------------
+
+trámite DONA
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+
+
+
+
+_______________________________________________
+EJEMPLO ESP DONACIÓN (con cancelación).
+     
+
+                           C E R T I F I C A
+
+Que según documento del 01 de Febrero de 2026, inscrito en esta Cámara de Comercio el 03 de Marzo de 2026, con el No.568 del Libro VI, la señora ROMERO DUQUE ANA LUCIA (241985-01) dona a título gratuito al señor ROMERO GUZMAN JOSE DAVID (718122-98) el establecimiento de comercio denominado PARQUEADERO PLAZA FLOREZ (528941-02)
+
+                           C E R T I F I C A
+
+Que por comunicación del 02 de Marzo de 2026, inscrito en esta Cámara de Comercio el 03 de Marzo de 2026, con el No.16416 del Libro XV, se canceló la Matrícula Mercantil No.241985-1, de la señora ROMERO DUQUE ANA LUCIA.
+
+RMT-ESF

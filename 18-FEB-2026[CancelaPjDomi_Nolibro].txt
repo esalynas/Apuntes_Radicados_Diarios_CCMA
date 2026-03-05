@@ -1,0 +1,77 @@
+18-FEB-2026[CancelaPjDomi_Nolibro]
+Radicado:29563619 Mat 782041-12
+CARLOS ANDRES RUIZ GUTIERREZ
+
+CANCELACION PERSONA JURIDICA POR CAMBIO DE DOMICILIO
+CAMBIA DOMICILIO PARA ENVIGADO. 
+ 
+Commit
+OK----Actualizado ESF
+OK----CancelaPjDomi
+OK----Boletín
+ESP. CANCELACIÓN PJ POR CAMBIO DOMICILIO Mat 782041-12
+ESP. No LIBROS Mat 782041-20
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+EstABLE está inactivo?: Hacer esp OP10: NA
+No se toca el certificado de existencia
+1RO: Hacer espe cambio domi (VER certific) mismo guión.
+Se entrega certificado de libros
+Si tiene libros: Sale Automa Op 8
+No tiene Libros = Hacerlo manual de No LibrosOp8
+Nota: Si es mas viejita la soc de 2002 debo revisar expediente porque puede tener libros no migrados y debo hacer especial manual.
+
+Orden Trámites
+782041-12 CancelaPjDomi-------OK
+Esp cambio Domi---------------OK
+Esp. NO Libros----------------OK
+
+
+EJEMPLO: ESP. CANCELACIÓN PJ POR CAMBIO DOMICILIO
+                           C E R T I F I C A
+
+Que  la sociedad ALIMENTACION INTELIGENTE S.M S.A.S identificada con  el NIT 901816270-3 fue  constituida  por Documento Privado del 21 de Marzo de 2024 del Único Accionista, inscrito en esta cámara de comercio el 26 de Marzo de  2024  con el No.11638 del libro IX y se encontraba matriculada en  el  Registro Mercantil bajo el No.  21-782041-12
+
+                           C E R T I F I C A
+
+Que según Acta No.2 del 02 de Enero de 2026, de la Asamblea General de Accionistas, inscrita en esta Cámara de  Comercio el 18 de Febrero de 2026, con el No.5345 del Libro IX, se aprobó el cambio de domicilio de la ciudad Medellín - Antioquia, a la ciudad de ENVIGADO.
+
+                           C E R T I F I C A
+
+Último año renovado:                 2025
+Fecha de renovación:                 27 de Marzo de 2025
+
+RMT-ESF
+
+---------------------------------------
+ESP. No LIBROS (SALE DE LA OPCIÓN 8)
+ 
+ 
+                               CERTIFICA
+
+NOMBRE                         ALIMENTACION INTELIGENTE S.M S.A.S
+SIGLA                          No reportó
+NIT                            N 901816270-3
+MATRICULA NUMERO               21-782041-12 de Marzo 26 de 2024
+ACTIVOS                       $1.100.000
+
+                                CERTIFICA
+ 
+Que a la fecha de expedición de este certificado no se encuentra inscrito en los registros públicos que administra la Cámara de Comercio ningún libro de a nombre de la persona jurídica.
+
+
+                               CERTIFICA
+
+========================================================================
+  Fecha de Renovación: Marzo 27 de 2025                                
+========================================================================
+
+        ACTIVIDAD ECONÓMICA CÓDIGO CIIU VERSIÓN 4.0 A.C.
+
+4755:  Comercio  al por menor de artículos y utensilios de uso doméstico
+en establecimientos especializados.
+
+RMT-ESF

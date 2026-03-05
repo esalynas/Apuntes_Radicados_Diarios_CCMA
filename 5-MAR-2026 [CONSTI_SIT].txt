@@ -1,0 +1,47 @@
+5-MAR-2026 [CONSTI_SIT]
+Radicado:29670561 Mat 840521-12 
+DANIELA RESTREPO VALLEJO
+
+CONSTITUCION SOCIEDAD COMERCIAL. DESIGNACION REPRESENTANTE LEGAL PRINCIPAL.
+MATRICULA COMERCIANTE PERSONA JURIDICA. SE LE ASIGNA NIT. NO ES BENEFICIARIO.
+SITUACION CONTROL ACCIONISTA UNICO CONSTITUCION SAS
+
+Commit
+OK---Actualizado ESF
+OK---Situación Control
+OK---Designación Rep Legal 
+OK---Boletín
+OK---Formato Enfoque diferencial Étnico
+OK---Actualizado Grupo Étnico
+Se asigna NIT
+No Beneficios Ley 1780
+
+Corrección abogad@: 
+
+Revisión:_______________________________
+Existe comerciante? no
+Existe Sit Control? no
+
+Orden Trámites__________________________
+840521 12 MAT-PJ  -----------OK
+718211 97 No-Mat-Pj----------ok
+718212 98 No-Mat-Pn ---------ok mod OK
+718211 97 Sitcon-con-sas-----OK
+840521 12 Constitución-------OK
+
+Naturaleza: Simple-Est (-98)
+
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 10 DE FEBRERO DE 2026
+
+
+Otros tipos de alojamientos para visitantes
+Actividades inmobiliarias realizadas con bienes propios o arrendados
+
+
+
+
+
+
+

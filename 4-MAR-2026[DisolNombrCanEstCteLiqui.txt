@@ -1,0 +1,43 @@
+4-MAR-2026[DisolNombrCanEstCteLiqui]
+Radicado:29667837 Mat 739027-12
+Maricela del Carmen Bernal
+
+CANCELACION MATRICULA ESTABLECIMIENTO
+DISOLUCION SOCIEDAD COMERCIAL
+NOMBRAMIENTO LIQUIDADOR
+LIQUIDACION SOCIEDAD COMERCIAL
+CANCELACION MATRICULA COMERCIANTE
+
+Commit:
+OK----Actualizado ESF
+OK----Disolución
+ok----Nombramiento Liquidador
+OK----Cancela Est
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+Esp. Liquidación Auto op15
+ESP. CANCELACIÓN ESTABLECIMIENTO (757670-02) Mat 739027-10
+
+Corrección Abogad@:
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: aporte-est
+Tiene Observacion Disolución?:La hago yo
+Tiene establecimiento: si activo
+Si inactivo o Cancel est = hacer esp op10 ok
+Renovado?:SI
+Tiene NIT:SI
+Aceptación:
+
+Orden Trámites
+739027-12 Disol-SocCom-------OK
+739027-12 DesRemRvSocCom-----OK
+739027-12 Cancela-Est--------OK
+Esp. Cancela Est-------------OK
+739027-12 Cancela-Cte--------OK
+739027-12 Liquida-SocCom-----OK
+Quitar palabra en LIQUIDA----NA
+
+La persona jurídica se disolvió y entró en estado de liquidación por Acta No.02 del 18 de febrero de 2026 de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 03 de marzo de 2026 con el No.7738, del Libro IX.

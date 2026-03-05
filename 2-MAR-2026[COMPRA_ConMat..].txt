@@ -1,0 +1,36 @@
+2-MAR-2026[COMPRA_ConMat..]
+Radicado:29651248 Mat 504799-1
+CARLOS ANDRES RUIZ GUTIERREZ
+
+CONTRATO DE COMPRAVENTA
+VENDEDOR: CASTRO CANO SERGIO ANDRES
+COMPRADORA:  MARTINEZ GIRALDO SANDRA MILENA
+
+NO TIENE MEDIDAS CAUTELARES VIGENTES. 
+
+Commit:
+OK---Actualizado ESF
+OK---Formato Enfoque diferencial Étnico
+OK---Actualizado Grupo Étnico
+OK---Boletín
+OK---ESP. CVTA (563397-02) Mat 694435-10
+Cte con NIT informado a Wilmar
+
+Corrección abogado:
+
+Revisión:
+COMPRAVENTA LIBRO 6? si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? NO
+Comerciante Comprador activo?: NO
+Se cancela cte?:NO
+SI No se cancela hacer Esp. Compraventa Op16 --OK
+Cuantos establecimientos?  1
+Tiene multas? no
+
+Orden Trámites
+840177-1  MAT-PN-------------ok
+504799-1 Compraventa---------OK
+ESP. CVTA Op16---------------OK
+
+

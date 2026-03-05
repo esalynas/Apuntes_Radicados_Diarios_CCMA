@@ -1,0 +1,97 @@
+5-MAR-2026 [ReforEncabNombraRetiraCargo]
+Radicado:29679971 Mat 758269-12
+ANGIE GOMEZ
+
+Reforma:
+REFORMA PARCIAL DE ESTATUTOS
+- ART 23 GERENTE Y REPRESENTANTE LEGAL (RTES LEGALES Y DOS SUPLENTES).
+- PARÁGRAFO 1 DEL ART 24 DEL RTE LEGAL SUPLENTE
+- PARÁGRAFO 2 DEL ART 24 DE LA SEGUNDA RTE LEGAL SUPLENTE
+
+Nombramientos:
+
+REMOCIÓN DE SUPLENTES:
+- HANS  ESPINOZA CASTRO       PAS. G316382
+- MONICA  UMAÑA VARGAS        PAS. F955175
+- JENNIFER MELISSA GONZALEZ   PAS. F067562
+- KARL JACOB KAPLAN           PAS. 96578396
+- AYSHA  SHEIKH               PAS. 36272271
+
+DESIGNACIÓN SUPLENTES:
+- PRIMER REPRESENTANTE LEGAL SUPLENTE: CMC ABOGADOS SAS
+- SEGUNDA REPRESENTANTE LEGAL SUPLENTE: AYSHA  SHEIKH PAS. 36272271
+
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Encabezado Rep Legal
+OK----Reforma Facultades Rep Legal
+OK----Label
+OK----Designación Rep Legal 1er y 2do Supl
+OK----Label /Boletín
+
+**Revisión:**
+Actividad azar 9200 libro 22?no
+Actividad Alto impact?si 
+Tiene alerta: si
+Aceptación? si
+sipref? si
+
+Orden Trámites
+758269-12 ReforSociedad------OK
+758269-12 DesRemRv-SocCom----OK
+
+Sólo mod 2-Lista Reformas.
+
+Label manual:
+
+MEDIANTE LA CUAL SE APROBÓ LA REFORMA DEL ENCABEZADO REPRESENTACIÓN LEGAL, QUEDANDO ASÍ:
+….
+
+(VER DOCUMENTO)
+
+
+
+OJO: Vivi:
+se hace como remoción a la persona que venía, se lleva a boletín como remoción y se borra todo del certificado, Y SE INACTIVAN
+
+
+Cargo:                REVISORIA FISCAL
+Nombre del Cargo:     REVISOR FISCAL PRINCIPAL
+Nombre:               ANTONIO JOSE TAMAYO
+Identificación:       98659954
+Tipo de Nombramiento: REMOCION
+
+
+
+
+
+
+
+
+texto encabezado viejo
+La representación legal y la gerencia de la Compañía está a cargo de los Representantes Legales principales y a falta de ellos por sus suplentes, quienes lo serán en juicio y fuera de juicio, serán elegidos por la Asamblea y podrán actuar dentro de las limitaciones que le impone la ley y estos estatutos. La Sociedad tendrá dos (2) Representantes Legales principales y cinco (5) suplentes.
+
+facultades (viejo)
+            FACULTADES Y LIMITACIONES DEL REPRESENTANTE LEGAL
+
+Son funciones y facultades de los representantes legales principales de la Sociedad las siguientes:
+
+a. Hacer Uso de la denominación social; Y representar a la Compañía y administrar Su patrimonio de acuerdo con las leyes y los estatutos. Cuando el Representante Legal sea una sociedad, todas las facultades atribuciones Y propias de aquel se ejercerán a través del Representante Legal de la Compañía representante. 
+b. Ejecutar las decisiones de la Asamblea General de Accionistas. 
+C. Designar y remover libremente los empleados de la Compañía que no dependen de la Asamblea General de Accionistas, y escoger, también libremente, al personal de trabajadores, determinar Su número, fijar el género de labores, remuneraciones, etc., y hacer los despidos del caso.
+d. Constituir los apoderados Y judiciales extrajudiciales que juzgue necesarios para la adecuada administración representación de y Sociedad, la otorgándoles facultades estime las que de conveniente, mismo goza. aquellas que él
+e. Ejecutar los actos y celebrar los contratos que tiendan al desarrollo del objeto social.
+f. la General Convocar a Asamblea de Accionistas de la Compañía sesiones extraordinarias, cada vez que lo juzgue conveniente necesario. 
+g. Presentar a la Asamblea General de Accionistas, en sus sesiones ordinarias, el balance de cada ejercicio, y un informe escrito sobre la forma como hubiere llevado a cabo su gestión y las medidas cuya adopción recomiende a la Asamblea. 
+h. Apremiar a los empleados y demás servidores de la Compañía a que se cumplan los deberes de su cargo, y vigilar continuamente la marcha de la empresa, específicamente su contabilidad documentos. 
+i. Y Cuidar que la recaudación o inversión de los fondos de la Sociedad se haga debidamente. De
+j. Establecer reglamentos carácter general sobre la política que debe seguir la Sociedad en las siguientes y materias: sistemas de trabajo división del mismo, procedimiento para la provisión de los cargos de previstos, regulación remuneraciones y prestaciones sociales del manejo que en cuestiones de esta índole debe observarse; y métodos oportunidades sobre compra de maquinaria y equipo; fijación de la política de precios de venta para los bienes y servicios Y. en general, todo lo relativo con sistemas de distribución de los mismos, incluyendo normas sobre otorgamiento de créditos, plazos, descuentos, contratación de seguros Y de asesorías similares. 
+k. ? Determinar las normas que han de servir para la organización de la contabilidad de la Compañía, siguiendo al efecto las bases indicadas por la ley y la técnica contable. 
+l. Decretar Y bonificaciones gratificaciones al de personal trabajadores de la empresa.
+m. Ejercer todas las facultades que directamente delegue en él la Asamblea General de Accionistas.
+
+PARÁGRAFO PRIMERO. ?? primer, segundo y tercer representante legal suplente podrán suscribir, firmar y gestionar toda clase de solicitudes de permisos, licencias, autorizaciones, 
+inscripciones, pólizas y registros cualquier ante institución pública o privada, incluyendo, pero sin limitarse cualquier alcaldía, gobernación, ministerio, órgano, agencia, dependencia, superintendencias, oficina gubernamental o institución pública centralizada descentralizada y/o ? institución privada Y en general todas y cualquier institución que sea requerida para cumplir con la normativa relacionada con la operación de la compañía, Incluyendo la posibilidad de presentar todo tipo de recursos en relación con las resoluciones de los trámites, revisar expedientes Y obtener copias, No obstante, no podrán firmar contratos de servicios que excedan el monto de 46 millones de pesos colombianos contratos de trabajo de posiciones que sean gerenciales, posiciones directivas o senior. Asimismo, tampoco podrán enajenar, prometer, ceder o traspasar, dar en garantía o gravar bienes inmuebles y/o muebles de la compañía, tramitar y/o firmar ningún tipo de endeudamiento con terceros, solicitud de préstamos hipotecarios, prendarios garantías mobiliarias. Paral todos estos actos deberán actuar dos de ellos en conjunto o podrán actuar individualmente si se tiene via autorización correo electrónico de uno de los representantes legales principales para cada acto en especifico. 
+
+PARÁGRAFO SEGUNDO. El cuarto y quinto, representante legal suplente están únicamente facultados para realizar los siguientes actos: A) gestionar la apertura y/o cierre de cuentas bancarias ante Sistema cualquier banco del Financiero colombiano y en cualquier moneda, así como para solicitar el acceso, usuario y contraseña para la banca en línea y/o plataformas digitales de los bancos en relación con las cuentas de la compañía y demás asuntos relacionados con las cuentas bancarias de la sociedad. Sin embargo, para realizar estos actos, el cuarto y quinto representante legal siempre deberán actuar o firmar en conjunto con el primer representante legal principal. 

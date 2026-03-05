@@ -1,0 +1,34 @@
+4-MAR-2026[Nombra_RevFiscal_FIRMA]
+Radicado:29666330 Mat 576821-12
+Simon Alejandro Bedoya Lopez
+
+NOMBRA REVISOR FISCAL, LA SOCIEDAD BTS CONSULTORES S.A.S - NIT 901442644-8
+ADRIANA GANDIA OCAMPO C.C 1007489928   T.p  340071-T  Principal
+BRAYAN STIVEN GARCIA, C.C 1000406382         T.p  342055-T  Suplente
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Firma Rev Fiscal 
+OK----Designación Rev Fiscal Ppal y Supl
+OK----Boletín
+
+
+Corrección Abogad@:
+Documento es Extracto de Acta No.6
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+576821-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+iNACTIVAR AL QUE VIENE, INGRESAR AL NUEVO.
+
+
+EJEMPLO FIRMA__________________________________
+
+CARGO                  NOMBRE                    IDENTIFICACION
+FIRMA REVISORA FISCAL  RUSSELL BEDFORD GCT S.A.S. NIT.811.044.406-8

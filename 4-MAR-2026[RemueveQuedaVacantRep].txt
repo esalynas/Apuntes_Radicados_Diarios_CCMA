@@ -1,0 +1,40 @@
+4-MAR-2026[RemueveQuedaVacantRep]
+Radicado:29668043 Mat 810078-12
+JULIET ALEJANDRA MONTOYA BETANCUR
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+nombramiento rperesentante legal
+suplente queda vacante
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Rep Legal Ppl
+OK----Remoción Rep Legal Sup. queda Vacante
+OK----Boletín
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+810078-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+
+EJEMPLO:
+___________________________________
+Estructurado: Ingreso vacancia, e inactivo al removido.
+
+En textos: Se deja el documento y el nombramiento viejo, y abajo se pone el nuevo documento con esto al final se removió del cargo a xxxxxxxx y se dejó vacante el cargo.
+
+se genera label y se quita la linea sobrante en la vacante en label y boletín
+
+etiqueta label y boletín.
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+
+se removió del cargo a LINA JANETH MUÑOZ CANO y se dejó vacante el cargo.

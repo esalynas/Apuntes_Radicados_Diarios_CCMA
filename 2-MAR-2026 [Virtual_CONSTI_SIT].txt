@@ -1,0 +1,52 @@
+2-MAR-2026 [Virtual_CONSTI_SIT]
+Radicado:29640610 Mat 839974-12
+DANIELA RESTREPO VALLEJO
+
+CONSTITUCION SOCIEDAD COMERCIAL. 
+DESIGNACION REPRESENTANTE LEGAL.
+MATRICULA COMERCIANTE PERSONA JURIDICA. 
+SE LE ASIGNA NIT. 
+ES BENEFICIARIO. 
+SITUACION CONTROL ACCIONISTA UNICO CONSTITUCION SAS
+
+Commit
+OK---Actualizado ESF
+OK---Situación Control
+OK---Designación Rep Legal
+OK---Boletín
+OK---Formato Enfoque diferencial Étnico
+OK---Actualizado Grupo Étnico
+Se asigna NIT
+Beneficios Ley 1780
+
+Corrección abogad@:
+
+Revisión:_______________________________
+Existe comerciante? no
+Existe Sit Control? no
+
+Orden Trámites__________________________
+839974 12 MAT-PJ  ----------OK
+718017 97 No-Mat-Pj---------OK
+718018 98 No-Mat-Pn---------OK
+718017 97 Sitcon-con-sas----OK
+839974 12 Constitución------OK
+
+Naturaleza Simple-Est
+ 
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 13 DE FEBRERO DE 2026
+
+FACULTADES Y LIMITACIONES DEL REPRESENTANTE LEGAL
+
+QUORUM.
+Deliberatorio: La Asamblea deliberará con dos o más accionistas que representen la mitad más una de las acciones suscritas
+Decisorio: La Ley
+Reformas: Las reformas estatutarias se aprobarán con el voto favorable de cuando menos la mitad más una de las acciones presentes de la respectiva reunión.
+ 
+ 
+CONVOCATORIA.
+Organo: Representante Legal Ord. Y representante legal o del revisor fiscal, o cuando a éstos se lo solicite un número de accionistas representantes de la quinta parte o más del capital suscrito Ext.
+Medio: La convocatoria para unas y otras se hará por medio de carta certificada dirigida a cada uno de los accionistas enviada a la dirección que éstos deben mantener registrada ante la Administración de la sociedad;  Por correo electrónico;  o por cualquier otro medio que permita establecer con certeza el recibo efectivo del aviso por su destinatario.
+Antelación: Se hará con una antelación mínima de cinco (5) días hábiles para las ordinarias y de cinco (5) días corrientes para las extraordinarias.

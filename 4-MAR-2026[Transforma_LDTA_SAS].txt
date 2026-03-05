@@ -1,0 +1,73 @@
+4-MAR-2026[Transforma_LDTA_SAS]
+Radicado:29658920 Mat 168871-3
+CAROLINA GÓMEZ JIMENEZ.
+
+TRANSFORMACION A SAS
+J.K.L. M REPRESENTACIONES SAS
+DESIGNA COMO REPRESENTANTE LEGAL A MARCELA LOPEZ MORA cc 1017142600
+SUPLENTE CAMILO LOPEZ MORA cc 1017174960
+
+Commit:
+OK----Actualizado ESF
+OK----Clave Transformación
+OK----Designación Rep Legal y Supl
+OK----Transformación
+OK----Boletín
+OK----Pasa Sit Control Automática.
+OK----Solicitud a TI traslado Expediente.
+
+
+Revisión
+GuiónAnterior
+Tiene SIT?= si
+Consti por Escritura, trans debe ser Escritura o Doc Privado
+si va -4, -7, del mismo doc de consti inicial.
+COMER L9, Civ L13, Azar L22, SI COMER
+Es ley 1014 2016, doc Pri o Acta
+Pagan derechos Cámara
+Tiene nombramientos? = si
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Conservar lo que tenían (SITcon,Prendas, Embargo)
+Si no pasan automá, hablar TI.
+OJO:crear primero la clave de transfor, con guión viejo, y se pone el nuevo nombre, sigla.
+CL-Transforma. (Ojo el guión antiguo queda inactivo.
+Si tiene rev fiscal= en transfoma No, indicar que pasa con ellos.
+listado refor y refor especiales. (Es el mismo del cabio de nombre, y después del libro, poner La sociedad se transformó de LTDA a Sociedad por Acciones Simplificada, denominándose xxxxxxxxxxx).
+ingreso otra info comple, si cambia vigencia, domi, y borrar lo que no esté en nuevo estatuto.
+VA Boletín:
+Tipo soc anterior y nuevo (correo etiquetas)
+Nombramientos si los hay
+Cambio de nombre si lo hay
+No van los aumentos de capi, pero a label si (Antiguo y Nuevo).
+
+trámite transfor:
+pest boletín ingresar tipo antes y nuevos
+nombre anterior, y nuevo nombre si aplica
+SOCIOS, BORRAR DEL Certificado si pasa a SAS
+
+
+Orden Trámites
+CL-Transforma-----------------------------OK
+168871-12 TransforSocCom------------------OK
+Crear Ticket a TI (Traslado Expediente)---
+mat viejita
+
+
+
+
+
+
+
+
+
+listado refor antes:
+
+REFORMAS:  Que  hasta  la fecha la sociedad ha sido  reformada  por las
+siguientes escrituras:
+
+No.751 del 16 de mayo de 2001, de la Notaría 8a.  de Medellín.
+
+No. 2.064 de agosto 27 de 2008, de la Notaría 8a. de Medellín.
+
+No. 2.251 de octubre 1 de 2013, de la Notaría 8a. de Medellin

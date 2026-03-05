@@ -1,0 +1,72 @@
+4-feb-2026[ReforCap_AporteEstNoCan]
+Radicado:29458109 Mat 684291-12
+ANGIE gÓMEZ GIL
+
+APORTE ESTABLECIMIENTO APORTANTE:819791-1 RECEPTOR:684291-12 EST:821357-2 SIN PENDIENTES
+
+REFORMA PARCIAL DE ESTATUTOS: ART 5 AUMENTO DE K AUTORIZADO, QUEDA EN $12.000.000  12.000 $1.000,00
+
+Commit:
+OK---Actualizado ESF
+OK---Reforma Capital Autorizado
+OK---Label Aporte
+OK---Boletín
+OK---ESP. APORTE ESTABLECIMIENTO (821357-02) Mat 819791-20
+Se asigna NIT
+Comerciante con NIT, informado a Wilmar
+
+Corrección Abogado:
+Aporte -est debe ser sobre la matricula del aportante.
+
+Revisión:
+Adjudica LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? no
+Comerciante adjudicatario activo?: si 
+Se cancela cte?:si
+SI No se cancela hacer Esp.cvta Op10 --NA
+Cuantos establecimientos?  1
+Tiene multas? no
+Existe comerciante? no
+Existe Sit Control? no
+Acpetación?si
+Sipref?:si
+Nota: Aporte-Est debe con la mat del aportante
+Comercial libro 9,civil 13,Azar 22? si, 9
+Tiene alerta: si
+
+Orden Trámites__________________________
+684291-12 ReforSociedad-------------------ok 
+819791-1  Aporte-Est----------------------
+Label manual(copio lo de BOLETÍN label)---
+ESP. Aporte EST---------------------------
+
+
+Trámite Aporte:
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+
+
+___________________________________
+ESPCIAL APORTE sin cancela cte.
+
+                           C E R T I F I C A
+
+Que la señora GALLEGO RODRIGUEZ MARIA ISABEL identificado con el Nit. 43.902.791-5, se encuentra matriculada en el Registro Mercantil bajo el No. 21-819791-1, desde el 25 de Junio de 2025.
+
+                           C E R T I F I C A
+
+Que según Documento Privado del 01 de Diciembre de 2025, inscrito en esta Cámara de Comercio el 03 de Febrero de 2026, con el No.251 del Libro VI, la señora GALLEGO RODRIGUEZ MARIA ISABEL (21-819791-01) aportó el establecimiento de comercio denominado LC Tanques y Radiadores (21-821357-02), a la sociedad TR TANQUES Y RADIADORES S.A.S. (21-684291-12).
+
+RMT-ESF 
+
+
+
+
+TR TANQUES Y RADIADORES S.A.S. Mat 684291-12
+
+
+
+

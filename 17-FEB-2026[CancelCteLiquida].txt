@@ -1,0 +1,33 @@
+17-FEB-2026[CancelCteLiquida]
+Radicado:29552492 Mat 793362-12
+LUISA FDA ROA
+
+REG
+LIQUIDACION SOCIEDAD COMERCIAL
+CANCELACION MATRICULA COMERCIANTE
+
+Commit:
+OK----Actualizado ESF
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+OK----Esp. Liquidación Auto op15
+
+
+
+Corrección Abogad@: Falta adicionar número de Acta 007
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: SI disol
+Tiene Observacion Disolución?: si 2025
+Renovado?:SI 2025
+Tiene NIT:SI
+Tiene establecimiento:NO
+Est inact hacer-verif especial op10----NA
+
+Orden Trámites
+793362-12 Cancela-Cte---------------OK
+793362-12 Liquida-SocCom------------OK
+mod palabra liquidación ------------NA
+ESP. CANCELACIÓN ESTABLECIMIENTO----NA

@@ -1,0 +1,36 @@
+24-FEB-2026[RetirarCargo_Revisor..]
+Radicado:29602508 Mat 771876-12
+LINA MARCELA VILLA
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES.
+MEDIANTE LA CUAL SE DESIGNA GERENTE: MARIA JOSE ARISTIZABAL JARAMILLO C.C.1.011.510.578.
+OK SIPREF
+
+MEDIANTE LA CUAL SE REVOCA REVISOR FISCAL EN VIRTUD DE LA LEY Y DEJA DE SER OBJETO DE CERTIFICACIÓN.
+
+Commit:
+OK----Actualizado ESF
+OK----Remover Cargo Rev Fiscal 
+OK----Boletín
+Ajuste Cert al esquema.
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+771876-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+
+
+Vivi:
+se hace como remoción a la persona que venía, se lleva a boletín como remoción y se borra todo del certificado
+
+EJEMPLO:____________________________
+Cargo:                REVISORIA FISCAL
+Nombre del Cargo:     REVISOR FISCAL PRINCIPAL
+Nombre:               ANTONIO JOSE TAMAYO
+Identificación:       98659954
+Tipo de Nombramiento: REMOCION

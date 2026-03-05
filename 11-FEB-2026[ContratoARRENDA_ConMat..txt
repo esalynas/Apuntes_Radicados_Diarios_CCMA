@@ -1,0 +1,63 @@
+11-FEB-2026[ContratoARRENDA_ConMat.]
+Radicado:29494509 Mat 837725-1
+Simon Alejandro Bedoya
+
+CONTRATO DE ARRENDAMIENTO ESTABLECIMIENTO
+ARRENDADOR:......744150-12
+ARRENDATARIO:....837725-1
+ESTABLECIMIENTO:.542839-2
+SIN DERECHOS DE TERCEROS
+MATRICULA COMERCIANTE PERSONA NATURAL
+HOMONIMIA OK
+TIENE NIT
+MULTAS PONAL OK
+NO ES BENEFICIARIA LEY 1780
+
+Commit:
+OK---Actualizado ESF
+OK---Contrato de Arrendamiento
+OK---Formato Enfoque diferencial Étnico
+OK---Actualizado Grupo Étnico
+OK---Label / Boletín
+Cte con NIT informado a Wilmar
+
+Corrección abogado:
+
+Revisión:
+Arrendamiento LIBRO 6? si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? SI 5630
+Comerciante Comprador activo?: NO
+Se cancela cte?:NO
+SI No se cancela hacer Esp. Compraventa Op16 --OK
+Cuantos establecimientos?  1
+Tiene multas? no
+
+Orden Trámites
+837725-1  MAT-PN-----------------OK
+744150-12 Contrato-Arrend--------OK
+Replicar datos a cada matrícula por mod módulos:
+para MAT-PN mod: 030 o 079-------ok
+para MAT-PJ mod: 079-------------ok
+para MAT.EST mod: 030------------ok
+Crear Trámi datos arrendatario regresar est al DUEÑO Original.
+Actualiza-Propi 50524636---------ok
+
+
+Ejemplo de lo que debo poner en el mod 030 Contrato-Arrend:
+
+CONTRATO DE ARRENDAMIENTO
+
+ACTO: CONTRATO DE ARRENDAMIENTO ESTABLECIMIENTO DE COMERCIO 
+DATOS DEL DOCUMENTO: PRIVADO DE DICIEMBRE 29 DE 2025
+ARRENDADOR........744150-12 GOMEZ DE MARINILLA S.A.S.
+ARRENDATARIO......837725-01 ANGEL GOMEZ LEIDY YOHANA
+ESTABLECIMIENTO...542839-02 LA PAMPA PARRILLA ARGENTINA MEDELLÍN
+DATOS  DE  INSCRIPCIÓN: 9 FEBRERO DE 2026, LIBRO VI, Nro.328.
+
+
+
+
+
+
+
