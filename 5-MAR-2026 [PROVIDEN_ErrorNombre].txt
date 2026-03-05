@@ -1,0 +1,46 @@
+5-MAR-2026 [PROVIDEN_ErrorNombre]
+Radicado:29676819 Mat 834653-12
+YULIANA MARCELA LOPEZ MEDINA
+
+ARTICULO PRIMERO: Corregir las inscripciones efectuadas en el Registro Público Mercantil el 30 de diciembre de 2025, en los Libros IX y XV bajo los números 49778 y 109126 respectivamente, en el sentido de publicitar correctamente la denominación de la sociedad CLUB DEPORTIVO VALORES DE LA MONTAÑA S.A.S, según consta en el Documento privado del 19 de diciembre de 2025 y formulario del 30 de diciembre de 2025. 
+ARTICULO SEGUNDO: Inscríbase la presente Resolución en el Registro Público Mercantil. 
+ARTICULO TERCERO: Actualizar el certificado de existencia y representación legalde lasociedad CLUB DEPORTIVO VALORES DE LA MONTAÑA S.A.S. 
+
+Quedó mal : DEPROTIVO en mat-pj y Consti  Radi 29288510 KLA
+
+Commit
+OK----Actualizado ESF
+OK----Providencia
+OK----Corrección Razón social
+OK----Aplica Label
+
+Revisión:
+No pagan
+A boletín, depende de trámite sujeto a boletín
+Ir al certificado y ver los recursos (206 borran los implicados si los hay)
+Modificar mod que requiero con la corrección.
+Finalmente en 206, pegar mismo label del abogado y pegar al inicio:
+
+MEDIANTE LA CUAL SE RESUELVE:
+y al final
+(Se certifica nuevamente el (Tramite error: Eje Mat-pj) 
+(VER DOC)
+RMT-ESF
+
+Ojo a veces toca hacer crear Mod Para
+mod de consti:poner nombre correcto
+
+Orden Trámites
+834653-12 Providen-SocCom------
+
+7980 L9
+
+
+ejemplo label Mat-pj (error nombre)
+NOMBRE PERSONA JURIDICA: CLUB DEPROTIVO VALORES DE LA MONTAÑA S.A.S.
+MATRICULA: 834653-12
+Usuario: RMT-KLA
+
+ejemplo label Consti (Error nombre)
+NOMBRE PERSONA JURIDICA: CLUB DEPROTIVO VALORES DE LA MONTAÑA S.A.S.
+SIGLA:
