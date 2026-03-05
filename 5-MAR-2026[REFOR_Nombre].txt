@@ -1,0 +1,47 @@
+5-MAR-2026[REFOR_Nombre]
+Radicado:29688146 Mat 786296-12
+EDENY
+
+
+REFORMAS SOCIEDAD COMERCIAL
+ARTICULO 1 DENOMINACIÓN SOCIAL ESTUDIO LIBERAL S.A.S SIN HOMONIMIA 
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Razón social
+OK----Label y Boletín
+
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+va en listado refo y 171 refor especiales
+
+En datos comple: ingresar nuevo nombre
+Va a Mod 2 y Mod 171.
+
+Orden Trámites
+786296-12 ReforSociedad------OK
+
+
+
+
+_____________________________________________
+MEDIANTE LA CUAL SE APROBÓ LA REFORMA DEL NOMBRE O RAZÓN SOCIAL, QUEDANDO ASÍ:
+
+
+Acta No.01 03/03/2026 de Asamblea     8190 del 05/03/2026 del Libro IX
+
+Reformas especiales mod 171
+EJEMPLO TEXTO CAMBIO NOMBRE:
+
+Por Acta No.01 del 03 de Marzo de 2026 de la Asamblea, inscrito(a) en esta Cámara de Comercio el 05 de Marzo de 2026, con el No.8190 del Libro IX, la sociedad cambió su denominación o razón social de ALMUERZO Y COMIDA S.A.S. a ESTUDIO LIBERAL S.A.S
+
+
+
+si quiero hacer label y boletín manual es así:
+
+Nombre Anterior Persona Jurídica ALMUERZO Y COMIDA S.A.S.
+Nuevo  Nombre   Persona Jurídica ESTUDIO LIBERAL S.A.S.
+
