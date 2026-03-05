@@ -1,0 +1,54 @@
+5-MAR-2026[NombraRep+Renuncia]
+Radicado:29679958 Mat 821484-12
+NATALIA HURTADO
+
+NOMBRAMIENTO REPRESENTANTE LEGAL PPAL, RENUNCIA DEL SUPLENTE
+OK ACP Y SIPREF.
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Rep Legal
+OK----Renuncia Rep Sup
+OK----Boletín
+
+Corrección Aboga@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+821484-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+
+
+
+
+RENUNCIAS:
+
+Si hay trámite de Nombramiento y renuncia a la vez.
+se hace sobre el DesRemSoCom (Prevalece Nombramiento)
+se Actualiza así:
+se lleva la etiqueta RENUNCIA ala persona + el texto el siguiente texto según el caso
+
+(a)si en Acta la asamblea aprueba la renuncia:
+el texto se pone : Se aceptó la renuncia de XXXXXXXXXXXXXXXXXXXX
+
+ EJEMPLO: EJEMPLO:
+Por Acta No.02 del 26 de febrero de 2026, de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 5 de marzo de 2026, con el No.8019 del Libro IX, Se aceptó la renuncia de LINA MARCELA MUÑOZ SERNA.
+
+(B)si la persona trae la renuncia
+A: persona: presentó renuncia, y sólo es una renuncia sin nombramiento se hace lo siguiente:
+
+DEYSI: Solo EN TRÁMITE Ins_Renuncia
+AL QUE RENUNCUA, modificar, me copio el detalle que traía, luego le doy en sugerido eso trae el detalle nuevo, encima de ese pego el detalle viejito, pongo tipo de nombra RENUNCIA. ir a textos y debajo del que renuncia poner el detalle nuevo junto con "DIANA CECILIA GONZALEZ PEREZ presentó la renuncia al cargo".
+
+generar label, tomar las 5 líneas renuncia, pegarlo en boletín, regresar e inactivar al que RENUNCIA
+
+
+
+
+
+
