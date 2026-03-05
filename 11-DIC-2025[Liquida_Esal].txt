@@ -1,0 +1,40 @@
+11-DIC-2025[Liquida_Esal]
+Radicado:29205822 Mat 16004-22
+Beatriz Eugenia
+
+MEDIANTE LA CUAL SE APRUEBA LA LIQUIDACION 
+ANEXAN  INFORME DONDE LA GOBERNACION AUTORIZA LA LIQUIDACION
+
+Commit:
+OK----Actualizado ESF
+OK----Aprobación Gobernación.
+OK----Liquidación
+OK----Label
+Esp. Liquidación Auto op15 --OK
+
+
+Corrección Abogad@:
+
+
+
+Revisión previa:
+Aprob Gobernación? si
+Actividad azar LIBRO22?:no
+Observaciones: SI disol
+Tiene Observacion Disolución?: si 2025
+Renovado?:SI 
+Tiene NIT:SI
+Tiene establecimiento: no
+Est inactiv hacer-verificar si hay especial op10----NA
+
+Orden Trámites
+Trámite Ret-Obs-Cte-----------------50520169 OK
+16004-22 Liquida-Esal---------------OK
+mod palabra liquidación ------------NA
+ESP. CANCELACIÓN ESTABLECIMIENTO----NA
+
+
+Pendiente acción de la abogada...… OK
+
+
+
