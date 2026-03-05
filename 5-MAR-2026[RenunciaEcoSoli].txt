@@ -1,0 +1,66 @@
+5-MAR-2026[RenunciaEcoSoli]
+Radicado:29678004 Mat 426-24
+CARLOS ANDRES RUIZ
+
+RENUNCIA ECONOMIA SOLIDARIA
+RENUNCIA DE LOS REVISORES FISCALES JAIRO HERNANDEZ PEREZ Y ANA ISABEL LÓPEZ. 
+
+DOCUMENTO CONSULTADO CON LUCAS HENAO SE TOMA LA CARTA REMISORIA 
+
+Commit:
+OK----Actualizado ESF
+OK----Renuncia Rev Fiscal Ppl y Sup
+OK----Boletín
+
+Corrección Aboga@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+426-24 Renuncia-Ecosoli--------OK
+Ajuste Cert al esquema---------NA
+
+
+ejemplo texto de la renuncia.
+Por Comunicación del 3 de marzo de 2026, de la Interesados, inscrito(a) en esta Cámara de Comercio el 5 de marzo de 2026, con el No.  67 del Libro III, JAIRO HERNANDEZ PEREZ presentó la renuncia al cargo. 
+
+ejemplo etiqueta:
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     SUBGERENTE
+Nombre:               DORIS ANDREA LOPEZ OSORIO
+Identificación:       39452520
+Tipo de Nombramiento: RENUNCIA
+
+
+RENUNCIAS:
+
+ESCENARIO (1)
+Si hay trámite de Nombramiento y renuncia a la vez.
+se hace sobre el DesRemSoCom (Prevalece Nombramiento)
+se Actualiza así:
+se lleva la etiqueta RENUNCIA ala persona + el texto el siguiente texto según el caso
+
+(a)si en Acta la asamblea aprueba la renuncia:
+el texto se pone : Se aceptó la renuncia de XXXXXXXXXXXXXXXXXXXX
+
+ EJEMPLO: EJEMPLO:
+Por Acta No.02 del 26 de febrero de 2026, de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 5 de marzo de 2026, con el No.8019 del Libro IX, Se aceptó la renuncia de LINA MARCELA MUÑOZ SERNA.
+
+ESCENARIO (2)
+(B)si la persona trae la renuncia
+A: persona: presentó renuncia, y sólo es una renuncia sin nombramiento se hace lo siguiente:
+
+DEYSI: Solo EN TRÁMITE Ins_Renuncia
+AL QUE RENUNCUA, modificar, me copio el detalle que traía, luego le doy en sugerido eso trae el detalle nuevo, encima de ese pego el detalle viejito, pongo tipo de nombra RENUNCIA. ir a textos y debajo del que renuncia poner el detalle nuevo junto con "DIANA CECILIA GONZALEZ PEREZ presentó la renuncia al cargo".
+
+generar label, tomar las 5 líneas renuncia, pegarlo en boletín, regresar e inactivar al que RENUNCIA
+
+
+
+
+
+
