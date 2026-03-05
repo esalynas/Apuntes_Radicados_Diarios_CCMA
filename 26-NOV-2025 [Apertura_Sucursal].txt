@@ -1,0 +1,145 @@
+26-NOV-2025 [Apertura_Sucursal]
+Radicado:29129792-asociado 29129793 Mat714531-97
+Carlos Andrés Ruiz
+
+Comentarios Radicado:29129792
+APERTURA AGENCIA O SUCURSAL
+LA SOCIEDAD SOLO TIENE ESTATUTOS, NO TIENE REFORMAS 
+DESIGNACION Y REMOCION REPRESENTANTES LEGALES Y REVISORES FISCALES SUCURSALES
+SE DESIGNA REP LEGAL A JUAN ESTEBAN CANO 
+EL PAGO POR LA IMPUESTO COMPLEJO ESTA EN EL RADICADO 
+29129793
+comentarios: Radicado29129793
+RADICADO ASOCIADO AL 29129792 
+TIENE IMPUESTO COMPLEJO POR SUCURSAL
+DERECHO POR LA CONSTITUCIÓN, LA SOCIEDAD NO TIENE REFORMA 
+831441-02
+Revisión previa:
+Abrir esquema de sucursal nacional
+Tiene reformas en label abogado?
+Apertura libro 6?
+DesRemRIRF en Libro 6 Acto 26?:
+ 
+Orden Trámites
+714531-97 No-Mat-Pj naturaleza Cte-Suc----OK
+mod-714531-97----OK
+714531-97 Mat-Est naturaleza Cte-Suc------OK
+714531-97 AperturaSucAg-------------------OK-
+714531-97 DesRemRIRF----------------------ok
+
+
+correciones:
+mod-pj   actividad descripción actividad. 50519512
+
+Modifica: la dirección de judial es la del establecimiento patra pf y est
+
+
+ADMINISTRADOR -            JUAN ESTEBAN CANO ACEVEDO     1.001.378.971
+REPRESENTANTE LEGAL        DESIGNACION                
+SUCURSAL (831441-02)                                  
+
+
+
+
+Procedimiento:
+siempre llenar en Consulta otra info:
+cámara rues----- el de la otra cámara
+matricula rues---el de la otra cámara
+
+ojo en label sucursal:
+debemos llevar todos los doc de la cámara principal
+doc consti, doc reformas,  (Generalmente lo escribe el abogado en label y sale del cerificado que trajo la empresa)
+
+
+Módulo: apertura sucursal
+ título del nombramiento manual: NOMBRAMIENTO (S)
+Facultades y limitaciones.
+
+Modifica modulos: modo con la matricula del establecimiento :
+diligenciar módulo Constitución y reformas casa principal. (la que pone al abogado en label y yo en label, y la fecha es la de inscripci´ de apertura de ahora, ver esuqema sucursal)
+
+: Por Acta No.JD0002 del 11 de agosto de 2025, de la Junta Directiva, inscrita en esta Cámara de Comercio el 24 de noviembre de 2025, con el No.3011 del Libro VI, se inscribió la constitución de la casa principal denominada GRUPO EMPRESARIAL DE INVERSIONES MUTUOAR S.A.
+
+los datos son los de la sucursal
+______________________________________
+_______________________________________
+Apertura de Agencia
+si está o no se crea un -98
+Naturaleza Cte-Ag
+
+Boton consulta otra info:
+Se llena lo de la otra camra
+
+AperturaSucAgen debe ser libro 6
+
+
+Revisión:
+
+Orden trámites 
+No mat-------NAturale Cte-Ag
+Mat est -----lNAturale Cte-Ag
+Apertura
+DesRemRIRF
+
+
+Mat ejemplo:705978-97
+
+
+En trámite apertura:
+Tener presnete esquema gráfico Agencia
+se diligencia modulo apertura y agotar tramite, label y boletín
+va al boletín
+en el módulo se lleva el titulo apertura de agencia Manual.
+
+
+Nombramiento: label y boletín manual. (correo etiquetas)  ojo, en agencia son administradores, en suc son Rep legales
+
+también llevar manual el título: NOMBRAMIENTO DE ADMINISTRADOR
+
+FACULTADES Y LIMITACIONES DEL ADMINISTRADOR
+
+El certificado que expedimos es la opción 2
+
+EJEMPLO DE ESTABLECIMIENTO MAT 816227 Mpodulos
+070- nombra de administra
+085- Apertura sucursal agencia
+
+------------------------------------------
+Sucursal Nacional:
+mat ejemplo: 668040-97
+doc apertura
+formula rio mat est
+nombramiento
+
+Abrir esquema de sucursal nacional
+
+orden
+no mat --- naturaleza sucursal
+mat est-----naturaleza sucursal
+apertura----
+libro 6 acto 26 DesRemRIRF
+
+siempre llenar en Consulta otra info:
+cámara rues----- el de la otra cámara
+matricula rues---el de la otra cámara
+
+ojo en label sucursal:
+debemos llevar todos los doc de la cámara principal
+doc consti, doc reformas,  (Generalmente lo escribe el abogado en label y sale del cerificado que trajo la empresa)
+
+
+apertura sucursal
+ título del nombramiento manual: NOMBRAMIENTO (S)
+Facultades y limitaciones.
+
+diligenciar módulo Constitución y reformas casa principal. (la que pone al abogado en label y yo en label, y la fecha es la de inscripci´ de aperturade ahora, ver esuqema sucursal)
+
+
+
+
+
+
+
+ 
+
+
