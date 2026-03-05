@@ -1,0 +1,206 @@
+4-FEB-2026 [ConstiESALCorpo21JuntaRev]
+Radicado:29453753 inscripcion  
+DAVID CORREA POSADA
+
+OK CONSTI ESAL CON ASIGNACION DEL NIT
+NOMBRAMIENTO REP LEGAL, JTA DVA Y REV FISCAL
+PAT. 12.000.000
+
+Commit
+OK----Actualizado ESF
+OK----Designa Rep legal
+OK----Designa Junta Dir
+OK----Designa Rev Fiscal
+OK----Boletín
+OK----Formato Enfoque Diferencial Étnico
+OK----Grupo Étnico
+Se asigna NIT
+
+Revisión
+Abogado indica una condición especial?: no
+Existe comerciante? no
+Existe Sit Control? no
+si junta no trae principales y sup, no poner nada en el cargo label y boletin
+
+
+Orden Trámites
+22762-21 Consti-Esal------------OK
+
+
+Recuperación de materiales
+Actividades de ingeniería y otras actividades conexas de consultoría técnica
+Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOS NOMBRAMIENTOS QUEDAN ASI:
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               ONEIDA  GONZALEZ VILLEGAS
+Identificación:       43466851
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL SUPLENTE
+Nombre:               GIOBANY  GONZALEZ VILLEGAS
+Identificación:       7141357
+Tipo de Nombramiento: DESIGNACION
+
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     Sin Información
+Nombre:               ONEIDA  GONZALEZ VILLEGAS
+Identificación:       43466851
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     Sin Información
+Nombre:               GIOBANY  GONZALEZ VILLEGAS
+Identificación:       7141357
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     Sin Información
+Nombre:               OTONIEL DE JESUS GONZALEZ VILLEGAS
+Identificación:       70382286
+Tipo de Nombramiento: DESIGNACION
+
+
+____________________________________________________
+junta vieja
+JUNTA DIRECTIVA
+
+Por  Acta  No.  242  del 25 de noviembre de 2024, de la Junta Directiva,
+inscrito(a)  en  esta Cámara de Comercio el 20 de diciembre de 2024, con
+el No. 4780 del Libro I, se designó a:
+
+PRINCIPALES
+NOMBRE                                       IDENTIFICACION
+DIDIER DEL SOCORRO VELEZ MADRID              C.C. 42.967.532
+FRANCISCA LIGIA BOTERO DE ARANGO             C.C. 32.410.876
+JULIAN HORACIO URIBE LONDOÑO                 C.C. 8.254.805
+LUIS FERNANDO HENAO GAVIRIA                  C.C. 8.237.420
+ENRIQUE DE JESUS POSADA RESTREPO             C.C. 8.292.150
+
+SUPLENTES
+NOMBRE                                       IDENTIFICACION
+CECILIA HELENA PARRA DE ZULUAGA              C.C. 24.307.980
+GERMAN GONZALO GONZALEZ ECHEVERRI            C.C. 8.265.834
+MARGARITA MARIA SANCHEZ VILLEGAS             C.C. 42.756.391
+CARLOS MARIO ALVAREZ BARRERA                 C.C. 70.100.396
+JUAN GUILLERMO GOMEZ RODRIGUEZ               C.C. 10.258.621
+                   
+___________________________________________________
+
+LA JUNTA ES DE ESTA FORMA:
+LLEVO TÍTULO JUNTA DIRECTIVA
+Texto del nombramiento (lo sugiero por cada uno)
+PRINCIPAL
+NOMBRE            IDENTIFICACIÓN
+XXXXXXXXXXXXXXXX  C.C. XXXXXXXXXX
+
+
+NOTA_: SE llevan principales normal y los suplentes como vacantes label y boletin (en el cer SIN DESIGNACION) pero en label y boletín como vacantes según las etiquetas Word:
+
+Cargo:                 JUNTA DIRECTIVA
+Nombre del Cargo:      SUPLENTE
+Nombre:                VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+
+
+ejemplo LABEL y boletín:
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               JAIME ANDRES DUQUE JIMENEZ
+Identificación:       15513980
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     PRIMER SUPLENTE DEL REPRESENTANTE LEGAL
+Nombre:               JOHN JAIRO DUQUE JIMENEZ
+Identificación:       15514491
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     SEGUNDO SUPLENTE DEL REPRESENTANTE LEGAL
+Nombre:               LUIS GUILLERMO DUQUE JIMENEZ
+Identificación:       15515737
+Tipo de Nombramiento: DESIGNACION
+
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               FRANCISCO JAIME DUQUE GONZALEZ
+Identificación:       3458176
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               LUZ EDILMA JIMENEZ DE DUQUE
+Identificación:       42675013
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               JUAN FERNANDO DUQUE JIMENEZ
+Identificación:       15513986
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               JOHN JAIRO DUQUE JIMENEZ
+Identificación:       15514491
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               LUIS GUILLERMO DUQUE JIMENEZ
+Identificación:       15515737
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información

@@ -1,0 +1,66 @@
+23-DIC-2025[ReactivaPJLey_Remocion]
+Radicado:29279507 Mat 627899-12
+dAVID CORREA POSADA
+
+REACTIVACION PERSONA JURIDICA
+CUMPLE PRESUPUESTOS DE LEY 1429 DE 2010
+MEDIANTE LA CUAL SE APRUEBA LA REMOCION DE ANDRES FELIPE GOMEZ EN ELC ARGO DE REPRESENTANTE LEGAL SUPLENTE, EL CARGO DE REPRESENTANTE LEGAL SUPLENTE QUEDA VACANTE
+
+Commit:
+OK----Actualizado ESF
+OK----Reactivación
+OK----Nombramiento
+OK----Boletín
+
+**Revisión previa:**
+Reactiva PJ: si fue disuelta por no renovación en los últimos 5 años, debe pagar los años adeudados antes de reactivar.
+Trae: Doc Priv o Acta
+Indicar nueva vigencia
+tr´pamite se hace una clave
+si trae transformación primero el transforma.
+label manual, observación reactivación manualmente. por un forms.
+
+Sociedad queda con el nombre y sin EN LIQUIDA 
+Se toca módulo de disolución,(quitar todo) lo copio y llevo al de duración.
+
+OOJO En vigencia: llevo lo que tenía, indefinida etc, justo abajo el texto de la circular qu ya tengo.  general label y boletín.  Ojo si fue el texto está en 
+vencimiento: MISMO mod 4
+sociedad : mod 203
+POR LEY : MÓDULO 129-130  y
+
+ojo, si hay reformas, toca llevarlas al módulo de reformas
+
+ojo si en la sisol, nombraron liquidador, deben hacer nombramiento de representante legal, y debo llevar el encabezado, facultades y limitaciones.  en el expediente o por consulta log  REGISTROS, CONSULTA LOG, LOG MODULO COMERCIANTE MAT,
+
+1ro Borrar observación de disolución (antes de la reactivación) crear trámite Ret-Obs-Cte motivo = se reactiva.
+
+2do generar tramite reactivación, generar detall del cer, generar label y luego datos comple y cambiar el nombre de la sociedad (quitando en liquidación), luego confirmar, no se puede cambiar el nombre con el modifica porque no da la clave de reactivación.
+
+**Orden Trámites**
+Borrar Obser Ret-Obs-Cte----50520848 OK
+627899-12 Reactivacion---------------ok
+627899-12 DesRemRv-SocCom------------ok
+
+
+VIVIANA mira:
+AL QUE SE REMUEVE, modificar, me copio el detalle que traía, luego le doy en sugerido eso trae el detalle nuevo, enciama de ese pego el detalle viejito, pongo tipo de nombra REMOCIÓN. ir a textos y debajo de la removida poner el detalle nuevo junto con se removió del cargo a xxxxxxxx y se dejó vacante el cargo.
+
+generar label, tomar las 5 líneas remoción, pegarlo en boletín, regresar e inactivar al que removimos.
+
+
+La persona jurídica no se encuentra disuelta y su duración es indefinida.
+
+La persona jurídica quedó disuelta y en estado de liquidación, en virtud de lo establecido en el artículo 31 de la Ley 1727 de 2014, mediante inscripción de 2023/04/20  y por Acta No.2 del 10 de noviembre de 2025, inscrita en esta Cámara de Comercio el 19 de diciembre de 2025 con el No.48249 del libro IX, la persona jurídica de la referencia se reactivó. 
+
+
+_____________________-
+MOD.129 
+DISOLUCIÓN: La persona jurídica quedó disuelta y en estado de liquidación, en virtud de lo establecido en el artículo 31 de la Ley 1727 de 2014, mediante inscripción de 2023/04/20
+
+MOD.130  no tiene
+
+Label
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+
+
+La persona jurídica se disolvió y entró en estado de liquidación por Acta No.2 del 30 de septiembre de 2025 de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 21 de octubre de 2025 con el No.40628, del libro IX y por Acta No__ de --------, inscrita en esta cámra de Comercio el xx de xxxxx de xxxx con el No.40628 del libro IX, la persona jurídica de la referencia se reactivó. 

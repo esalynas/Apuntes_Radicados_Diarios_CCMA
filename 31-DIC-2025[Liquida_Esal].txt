@@ -1,0 +1,37 @@
+31-DIC-2025[Liquida_Esal]
+Radicado:29311258 Mat 13451-21
+Angie Gómez Gil
+
+LIQUIDACION ENTIDADES SIN ANIMO DE LUCRO
+
+Commit:
+OK----Actualizado ESF
+OK----Aprobación Gobernación.
+OK----Liquidación
+OK----Label
+Esp. Liquidación Auto op15 --OK
+
+
+Corrección Abogad@:
+
+
+
+Revisión previa:
+Aprob Gobernación? si
+Actividad azar LIBRO22?:no
+Observaciones: SI disol
+Tiene Observacion Disolución?: si 2025
+Renovado?:SI 
+Tiene NIT:SI
+Tiene establecimiento: no
+Est inactiv hacer-verificar si hay especial op10----NA
+En pest Observa, si tiene abtención crear trámite Ret-oBS, me paro en la observación, la cambio a Si y pongo Parobada Gobernación---- OK
+
+Orden Trámites
+Trámite Ret-Obs-Cte-----------------ok
+13451-21 Liquida-Esal---------------ok
+mod palabra liquidación ------------NA
+ESP. CANCELACIÓN ESTABLECIMIENTO----NA
+
+
+Pendiente acción de la abogada...… OK

@@ -1,0 +1,24 @@
+6-ENE-2026[MutaciónL15,Nombra]
+Radicado:29323880 Mat 831265-12
+Beatriz Eugenia Ochoa
+
+MEDIANTE LA CUAL SE CAMBIA EL CORREO ELECTRONICO DE NOTIFICACION JUDICIAL
+ SE NOMBRA REPRESENTANTE LEGAL 
+
+
+Commit:
+OK----Actualizado ESF
+OK----MutaciónL15 correo Jud.
+OK----Designación Rep.Legal
+OK----Boletín
+
+Revisión
+  Actividades alto impact ?: NO
+  Inscripciones que afecten:no
+  Formato 10 Mutación: SI 
+  Tiene aceptación?:SI
+  Tiene SIPREF?:SI
+
+Orden Trámites
+  831265-12 MutacionCteL15------OK
+  831265-12 DesRemRv-SocCom-----OK

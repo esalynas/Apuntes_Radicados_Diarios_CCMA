@@ -1,0 +1,97 @@
+27-ENE-2026[CargaCONSTSitAporteEstNo]
+Radicado:29400376 Mat 835847-12
+kAROL mILENA dUQUE
+
+CONSTITUCION SOCIEDAD COMERCIAL
+DESIGNACIÓN REPRESENTANTE LEGAL 
+}MATRICULA PERSONA JURIDICA
+SE ASIGNA NIT
+OK SIPREF
+OK HOMONIMIA-NO CUMPLE PARA LEY 1780 
+
+APORTE ESTABLECIMIENTO: INGECARGAS S & J
+APORTANTE: RAMIREZ LOPERA CARLOS ENRIQUE
+RECEPTOR: INGECARGAS S & J S.A.S.
+CONTROLADA: INGECARGAS S & J S.A.S.
+CONTROLANTE: RAMIREZ LOPERA CARLOS ENRIQUE
+PRESUPUESTO: ARTÍCULO 261, NUMERAL 1
+ 
+Commit:
+OK---Actualizado ESF
+OK---Situación Control
+OK---Designación Rep Legal (Gerente)
+OK---Boletín
+OK---Label Aporte
+OK---Boletín
+OK---ESP. APORTE ESTABLECIMIENTO (708519-02) Mat 679717-10
+OK---Formato Enfoque Diferencial Étnico
+Se asigna NIT
+
+Corrección Abogado:
+Aporte -est debe ser sobre la matricula del aportante.
+
+Revisión:
+Adjudica LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? no
+Comerciante adjudicatario activo?: no 
+Se cancela cte?:si
+SI No se cancela hacer Esp.cvta Op10 --NA
+Cuantos establecimientos?  1
+Tiene multas? no
+Existe comerciante? no
+Existe Sit Control? no
+Acpetación?si
+Sipref?:si
+Nota: Aporte-Est debe con la mat del aportante
+TRANSPORTE CARGA= TRAJO PERMISO MIN TRANSPORTE? = No
+Pegar MOD 131.Consti PERSONA JURIDICA. = La persona jurídica no ha inscrito el acto administrativo que lo habilita para prestar el servicio público de transporte automotor en la modalidad de carga.
+MOD_MÓDULOS establecimiento 216. = El establecimiento no ha inscrito el acto administrativo que lo habilita para pres-tar el servicio de transporte automotor en la modalidad de carga.
+
+Orden Trámites_______________________________
+835847 12 MAT-PJ  ------------------------ok
+716084 97 No-Mat-Pj-----------------------OK
+716072-98 No-Mat-Pn ----------------------Ya existe 679717
+716084 97 Sitcon-con-sas------------------OK
+679717  1 Aporte-Est----------------------OK
+Label manual(copio lo de BOLETÍN label)---OK
+ESP. Aporte EST---------------------------OK
+835847 12 Constitución--------------------
+
+Trámite Aporte:
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+TRANSPORTE DE CARGA POR CARRETERA
+
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 28 DE OCTUBRE DE 2025
+
+
+
+
+
+
+___________________________________
+ESPCIAL APORTE sin cancela cte.
+
+                           C E R T I F I C A
+
+Que el señor RAMIREZ LOPERA CARLOS ENRIQUE identificado con el Nit. 15.515.614-8, se encuentra matriculado en el Registro Mercantil bajo el No. 21-679717-1, desde el 15 de Septiembre de 2020.
+
+                           C E R T I F I C A
+
+Que según Documento Privado del 19 de enero de 2026, inscrito en esta Cámara de Comercio el 23 de enero de 2026, con el No.153 del Libro VI, el señor RAMIREZ LOPERA CARLOS ENRIQUE (21-679717-1) aportó el establecimiento de comercio denominado INGECARGAS S & J (21-708519-02), a la sociedad INGECARGAS S & J S.A.S. (21-835847-12).
+
+RMT-ESF 
+
+
+
+
+
+
+
+
+
