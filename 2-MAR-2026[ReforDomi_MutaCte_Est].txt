@@ -1,0 +1,42 @@
+2-MAR-2026[ReforDomi_MutaCte_Est]
+Radicado:29644896 Mat 730191-12
+EDENY
+
+REFORMAS SOCIEDAD COMERCIAL
+REFORMA DOMICILIO DE LA SOCIEDAD DE CAUCASIA A MEDELLIN 
+
+MUTACIONES COMERCIANTE LIBRO 15
+MODIFICACIÓN DIRECCIÓN PRINCIPAL Y NOTIFICACIÓN 
+
+MUTACIONES ESTABLECIMIENTOS DE COMERCIO LIBRO 15
+MODIFICACIÓN DIRECCIÓN Y NOMBRE ESTABLECIMIENTO 
+
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Cambio Domicilio 
+OK----Mutación Cte: Dir Ppl y Noti 
+OK----Mutación Est: Dir y Nombre
+OK----Label y Boletín
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+
+Orden Trámites
+730191-12 ReforSociedad----ok
+730191-12 MutaciónCteL15---OK
+730191-12 MutaEstL15-------
+
+MOD 171
+Acta No.16 del 02/02/2026 de Asamblea   7267 del 28/02/2026 del L.IX 
+
+ejemplo texto cambio Domi:
+Por Acta No.16 del 02 de Febrero de 2026 de la Asamblea, inscrita en esta Cámara de Comercio el 28 de Febrero de 2026, con el No.7267 del Libro IX, la sociedad cambió su domicilio de la ciudad de Caucasia a la ciudad de Medellín.
+
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO DE LA SOCIEDAD ASÍ:
+
+adición de sigla:
+Por Acta No.002 del 12 de noviembre de 2025 de la Asamblea, inscrita en esta Cámara de Comercio el 26 de noviembre  de 2025, con el No.45328 del Libro IX, la sociedad cambió su denominación o razón social OCCIDENTE CONCRETOS Y AGREGADOS S.A.S. por OCCIDENTE CONCRETOS Y AGREGADOS S.A.S. sigla OCCYA. SAS.

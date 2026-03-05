@@ -1,0 +1,77 @@
+20-ENE-2026[CONSTI_AporteEst_NoCancel]
+Radicado:29341000 Mat 752321-12
+Carlos ANdres Ruiz
+
+CONSTITUCION SOCIEDAD COMERCIAL
+SE ASIGNA NIT 
+SIN HOMONIMIA 
+
+NO TIENE BENEFICIOS DE LA LEY 1780 
+ ES EMPRESA FAMILIAR 
+
+APORTE ESTABLECIMIENTO   768129
+NO TIENE MEDIDAS CAUTELARES VIGENTES.  
+Commit:
+OK---Actualizado ESF
+OK---Designación Rep Legal
+OK---Boletín
+OK---Label Aporte
+OK---Boletín
+OK---ESP. APORTE ESTABLECIMIENTO (768129-02) Mat 752321-20
+OK---Formato Enfoque Diferencial Étnico
+Se asigna NIT
+
+
+Corrección Abogado:
+Aporte -est debe ser sobre la matricula del aportante.
+
+Revisión:
+Adjudica LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? no
+Comerciante adjudicatario activo?: no 
+Se cancela cte?:si
+SI No se cancela hacer Esp.cvta Op10 --NA
+Cuantos establecimientos?  1
+Tiene multas? no
+Existe comerciante? no
+Existe Sit Control? no
+Acpetación?si
+Sipref?:si
+Nota: Aporte-Est debe con la mat del aportante
+
+Orden Trámites__________________________
+835573 12 MAT-PJ  ------------------------OK
+715817 98  Aporte-Est---------------------OK
+Label manual(copio lo de BOLETÍN label)---ok
+ESP. Aporte EST---------------------------ok
+835573 12 Constitución--------------------OK
+
+Trámite Aporte:
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+
+
+___________________________________
+ESPCIAL APORTE sin cancela cte.
+
+                           C E R T I F I C A
+
+Que el señor RODRIGUEZ BETANCUR LUIS MIGUEL identificado con el Nit. 1.040.756.397-1, se encuentra matriculado en el Registro Mercantil bajo el No. 21-659275-1, desde el 09 de octubre de 2019.
+
+                           C E R T I F I C A
+
+Que según Documento Privado del 05 de enero de 2026, inscrito en esta Cámara de Comercio el 20 de enero de 2026, con el No.122 del Libro VI, el señor RODRIGUEZ BETANCUR LUIS MIGUEL (21-715817-98) aportó el establecimiento de comercio denominado RBM EVENTOS (21-768129-02), a la sociedad RBM EVENTOS SAS (21-835573-12).
+
+RMT-ESF 
+
+
+
+
+
+
+
+
+

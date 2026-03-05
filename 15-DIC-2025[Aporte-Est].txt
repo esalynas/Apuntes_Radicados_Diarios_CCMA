@@ -1,0 +1,73 @@
+15-DIC-2025[Aporte-Est]
+Radicado:29233583 Mat 467589-1
+Beatriz Eugenia
+
+APORTE ESTABLECIMIENTO
+APORTANTE:   BLANCO TAMAYO DIANA CAROLINA
+RECEPTOR:    AD AMARILLO DIGITAL S.A.S.
+
+Commit:
+OK---Actualizado ESF
+OK---Label Aporte
+OK---Boletín
+OK---ESP. APORTE ESTABLECIMIENTO (439157-02) Mat 467589-20
+Comerciante con NIT, informado a Wilmar
+
+Corrección Abogado:
+El trámite de aporte debe hacerse con la matricula de quien aporta. ok Beatriz.
+
+Por favor verificar en progress que sigue saliendo la inscripción errada como pendiente
+
+
+Revisión:
+Adjudica LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? no
+Comerciante adjudicatario activo?: no 
+Se cancela cte?:si
+SI No se cancela hacer Esp.cvta Op10 --NA
+Cuantos establecimientos?  1
+Tiene multas? no
+
+
+APORTANTE.........467589-01 BLANCO TAMAYO DIANA CAROLINA
+RECEPTOR..........832114-12 AD AMARILLO DIGITAL S.A.S.
+ESTABLECIMIENTO...439157-02 AMARILLO DIGITAL
+
+
+
+Orden Trámites
+ --------------
+
+467589-1 Aporte-Est----------------------OK
+Label manual(copio lo de BOLETÍN label)--OK
+ESP. Aporte EST--------------------------
+
+
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+
+
+___________________________________
+ESPCIAL APORTE sin cancela cte.
+
+                           C E R T I F I C A
+
+Que la señora BLANCO TAMAYO DIANA CAROLINA identificada con el Nit.1.128.264.363-7, se encuentra matriculada en el Registro Mercantil bajo el No. 21-467589-1, desde el 30 de abril de 2012.
+
+                           C E R T I F I C A
+
+Que según Acta No.01 del 03 de diciembre de 2025, inscrito en esta Cámara de Comercio el 11 de diciembre de 2025, bajo el No.3149 del Libro VI, la señora BLANCO TAMAYO DIANA CAROLINA (21-467589-01) aportó el establecimiento de comercio denominado AMARILLO DIGITAL (21-439157-02), a la sociedad AD AMARILLO DIGITAL (21-832114-12).
+
+RMT-ESF 
+
+
+
+
+
+
+
+
+
