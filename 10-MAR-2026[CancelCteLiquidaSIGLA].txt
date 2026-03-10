@@ -1,0 +1,49 @@
+10-MAR-2026[CancelCteLiquidaSIGLA]
+Radicado:29712407 Mat 560068-12
+CATALINA LOPEZ
+
+liquidación
+cancela cte
+
+Commit:
+OK----Actualizado ESF
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+OK----Esp. Liquidación Auto op15
+
+
+
+Corrección Abogad@: 
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: SI liqLey
+Tiene Observacion Disolución?: ley
+Renovado?:SI 2024
+Tiene NIT:SI
+Tiene establecimiento:NO
+Est inact hacer-verif especial op10----NA
+
+Orden Trámites
+560068-12 Cancela-Cte---------------OK
+560068-12 Liquida-SocCom------------OK
+mod palabra liquidación ------------OK
+ESP. CANCELACIÓN ESTABLECIMIENTO----NA
+
+
+
+ojo si tiene sigla, primero quitarla antes del trámite liquidación.
+Sigla mod-jp:
+
+Quitar palabra En liquida:
+Trami/correcc/utlitarios/
+Cambiar nombre
+
+
+
+
+
+
+
+
