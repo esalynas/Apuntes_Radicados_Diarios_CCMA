@@ -1,0 +1,65 @@
+10-MAR-2026[DonaMatCancelaEspManu]
+Radicado:29712600 Mat 770267-1
+CATALINA LOPEZ POSADA
+
+MORENO LOPEZ HELIAN YAIR
+MAT PNA NAT OK HOM
+SIN MULTA
+CUMPLE LEY 1780
+MORENO LOPEZ HELIAN YAIR
+CANCEL CTE
+
+Commit:
+OK---Actualizado ESF
+OK---Label Donación
+OK---Cancela-Cte
+OK---Boletín
+OK---ESP. DONACIÓN ESTABLECIMIENTO (783134-02)  MAT 770267-10
+OK---Formato Enfoque Diferencial Étnico
+OK---Actualizado Grupo Étnico
+Comerciante con Nit Informado a Wilmar
+
+Corrección Abogado: 
+
+Revisión:
+Donación LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Mat Alto impact 5360,9609? NO
+Comerciante Comprador activo?: NO
+Se cancela cte?:SI
+SI No se cancela hacer Esp. CompVTA--NA
+Cuantos establecimientos?  1
+Tiene multas? no
+
+Orden Trámites
+841114-1 Mat-Pn Cesionario (recibe)------ok
+770267-1 donacion-Est--------------------OK
+770267-1 Cancela-Cte---------------------ok
+ESP. DONACIÓN MANUAL---------------------ok
+
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+
+
+
+
+NOMBRE PERSONA NATURAL: MORENO LOPEZ HELIAN YAIR
+MATRICULA: 841114-01
+
+
+
+_______________________________________________
+EJEMPLO ESP DONACIÓN (con cancelación).
+     
+
+                           C E R T I F I C A
+
+Que según documento del 26 de Febrero de 2026, inscrito en esta Cámara de Comercio el 10 de Marzo de 2026, con el No.648 del Libro VI, la señora MACIAS GONZALEZ VALENTINA (770267-01) dona a título gratuito al señor MORENO LOPEZ HELIAN YAIR (841114-01) el establecimiento de comercio denominado VIUS (783134-02)
+
+                           C E R T I F I C A
+
+Que por comunicación del 09 de Marzo de 2026, inscrito en esta Cámara de Comercio el 10 de Marzo de 2026, con el No.18765 del Libro XV, se canceló la Matrícula Mercantil No.742956-1, de la señora MACIAS GONZALEZ VALENTINA.
+
+RMT-ESF
