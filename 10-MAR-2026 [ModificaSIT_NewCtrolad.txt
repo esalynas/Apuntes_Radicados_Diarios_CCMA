@@ -1,0 +1,67 @@
+10-MAR-2026 [ModificaSIT_NewCtrolada]
+Radicado:29703716 MAT 805809-12
+JULIET ALEJANDRA MONTOYA BETANCUR
+
+MATRIZ Y SUBORDINADAS_SITUACION  DE CONTROL_MODIFICACION
+
+CONTROLANTE :  665107-97
+CONTROLADA : 805809-12
+SITUACION DE CONTROL: 665106-97 
+PRESUPUESTO : PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD DE CONFORMIDAD CON EL NUMERAL 1 DEL ART 261 DEL CODIGO DE COMERCIO.
+
+Commit
+OK---Actualizado ESF
+OK---Modifica Sit Control adiciona controlada.
+OK---Label/ Boletín
+
+
+Corrección abogad@: 
+
+Revisión:_______________________________
+Existe SIT? SI 
+   Gran SIT: 665106-97
+Controlante: 665107-97
+Controladaa: 805809-12
+Trámite se crea sobre la Gran SIt(97)-- ok
+Tiene Verifica identidad----ok
+
+Boletín automa
+Mat asociadas= Gran sit, el que sale, el que entra.
+Generar 206 x cada una.
+Luego sit mod 20.
+Modifico (ingreso la controlada)
+Presupuesto: (El que digan)
+Actividad: (La que diga reemplaz la anter)
+Fecha Cofig: (La que digan)
+Documento: (el que traigan)
+
+
+Orden Trámites__________________________
+665106-97 SitCon-Mod-Com -------- 20 OK
+
+_____________________________________
+ejemplo del texto:
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 10 DE FEBRERO DE 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
