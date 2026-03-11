@@ -1,0 +1,50 @@
+11-MAR-2026[NombraRepJudicial]
+Radicado:29716828 Mat 546-4
+BEATRIZ EUGENIA OCHOA
+
+MEDIANTE LA CUAL SE NOMBRA SUBGERENTE JURIDICO 
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Subgerente Jurídico
+OK----Label/ Boletín
+
+Corrección Aboga@:
+
+
+Revisión
+El cargo existe en el encabezado? = si
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+546-4 DesRemRv-SocCom----------OK
+Ajuste Cert al esquema---------NA
+
+
+LABEL Y BOLETÍN se hacen manuales:
+
+Label____________________________________
+
+LOS NOMBRAMIENTOS QUEDAN ASI:
+
+Cargo:                REPRESENTACION LEGAL JUDICIAL
+Nombre del Cargo:     SUBGERENTE JURÍDICO
+Nombre:               JUAN CARLOS CASTRO PUERTA
+Identificación:       15425429
+Tipo de Nombramiento: DESIGNACION
+
+Usuario: RMT-ESF
+
+
+Boletín_________________
+
+Cargo:                REPRESENTACION LEGAL JUDICIAL
+Nombre del Cargo:     SUBGERENTE JURÍDICO
+Nombre:               JUAN CARLOS CASTRO PUERTA
+Identificación:       15425429
+Tipo de Nombramiento: DESIGNACION
+
+
+
+
