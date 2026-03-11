@@ -1,0 +1,43 @@
+10-MAR-2026[Nombra_RevFiscal_FIRMA]
+Radicado:29707238 Mat 636714-12
+ANGIE GOMEZ GIL
+
+DESIGNACION FIRA REVISORA FISCAL:TRIBU & CO CONSULTORES EMPRESARIALES S.A.S., LA CUAL, POR COMUNICACIÓN DEL 11/02/2026 DESIGNA:
+
+REVISOR FISCAL PRINCIPAL:SANTIAGO OQUENDO GARCIA
+REVISOR FISCAL SUPLENTE:JOHANA MARCELA OCAMPO LEON
+OK SIPREF Y ACEPT. SIN SANCIONES A LA FECHA EN PROGRESS
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Firma Rev Fiscal 
+OK----Designación Rev Fiscal Ppal y Supl
+OK----Boletín
+
+
+Corrección Abogad@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+636714-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+iNACTIVAR AL QUE VIENE, INGRESAR AL NUEVO.
+
+
+EJEMPLO FIRMA__________________________________
+
+CARGO                  NOMBRE                    IDENTIFICACION
+FIRMA REVISORA FISCAL  RUSSELL BEDFORD GCT S.A.S. NIT.811.044.406-8
+
+OJO: poner el texto de los revisores, con procedencia de la firma.
+
+Por  Comunicación del 11 de febrero de 2026, de la Firma Revisora Fiscal,  inscrito(a)  en  esta  Cámara de Comercio el 9 de marzo de
+2026, con el No.8631 del Libro IX, se designó a:
+
+
