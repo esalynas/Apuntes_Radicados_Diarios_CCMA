@@ -1,0 +1,61 @@
+12-MAR-2026[Cesion_Cuotas]
+Radicado:29729028 Mat 110407-3
+LUISA FERNANDA ROA BETANCUR
+
+reg
+Reforma Cesion de cuotas
+Cedente: RICARDO ANDRES RENDON RESTREPO   
+Cesionario: SARA RESTREPO GARCIA
+Cuotas: 5.000
+En virtud de lo anterior, el capital de la sociedad queda asi:
+Socios capitalistas
+RICARDO ANDRES RENDON RESTREPO cuotas  245.000
+SARA RESTREPO GARCIA cuotas 5.000
+Totales
+No. De cuotas: 250.000 valor: $250.000.000
+carta registro parcial  - no se toma esta reforma
+
+Commit:
+OK---Actualizado ESF
+OK---Reforma Cesión Cuotas
+OK---Label/Boletín
+
+Revisión previa
+Comercial libro 9,civil 13,Azar 22? si, 9
+Tiene alerta: si
+
+Mod Listado refor
+Mód Socios: Clic en modificar y cambio lo que necesito e ingreso al nuevo, clic a textos y revisar que coincida.
+Mód 118 Cesión: Ingre NombreCedente Cesionario y Cuota
+
+
+Orden Trámites
+741712-12 ReforCapitalSoc-----------ok 
+Ajustar certificado al esquema------NA
+
+
+
+
+
+
+
+
+
+
+
+
+                                CAPITAL
+
+El  capital  social corresponde a la suma de $250.000.000,00 dividido en
+250.000,00  cuotas  de  valor nominal de $1.000,00 cada una, distribuido
+así:
+
+Socios capitalistas
+
+RICARDO ANDRES RENDON RESTREPO              C.C. 1.017.167.890 
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+Totales
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+
