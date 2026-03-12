@@ -1,0 +1,52 @@
+12-MAR-2026[ReforDomi_MutaCteEst]
+Radicado:29701050 Mat 493076-12
+ANGIE GOMEZ GIL
+
+
+REFORMA PARCIAL DE ESTATUTOS: 
+DOMICILIO: DE MEDELLÍN A SANTA FE DE ANTIOQUIA.
+
+MUTACIONES COMERCIANTE LIBRO 15
+CAMBIO DIREC CCIANTE
+CAMBIO DIREC NOTIF JDCL
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Cambio Domicilio Santafe Antioquia
+OK----Mutación Cte: Dir PPl y Dir Notifica
+OK----Label y Boletín
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+cómo?
+Listado reformas
+Reformas especiales.
+ing dat complement,Parte superior,elijo el domi
+
+Orden Trámites
+493076-12 ReforSociedad-------ok
+493076-12 MutaciónCteL15------ok
+730191-12 MutaEstL15----------ok
+
+
+Label:
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO DE LA SOCIEDAD ASÍ:
+
+ejemplo texto cambio Domi (Mod 171- REFORMAS ESPECIALES):
+
+Por Documento Privado del 06 de Marzo de 2026 del Accionista, inscrito (a) en esta Cámara de Comercio el 12 de Marzo  de 2026, con el No.9280 del Libro IX, la sociedad cambió su domicilio de la ciudad de Medellín - Antioquia a la ciudad de Santafe de Antioquia.
+
+Doc.Privado del 06/03/2026 de Accionista  9280 del 12/03/2026 del Libro IX
+
+
+
+
+
+
+
+
+
+
