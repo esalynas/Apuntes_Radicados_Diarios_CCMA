@@ -1,0 +1,92 @@
+12-MAR-2026 [PROVIDEN_BorrarRecursos]
+Radicado:29732293 Mat 831425-12
+KAROL MILENA DUQUE
+
+Mediante Resolución No 316-016063 del 05 de marzo de 2026, se confirma los actos administrativos No 959364 y 959365 del libro IX y 758682 del libro XV  del 31 de octubre de 2025, mediante el cual la CÁMARA DE COMERCIO DE CARTAGENA inscribió el nombramiento del representante legal, cambio de domicilio de la ciudad de Cartagena a la ciudad de Medellín y cancelación de matricula por cambio de domicilio de IMCOM & CIA S.A.S., decisiones contenidas en el acta No 03-2025 del 09 de septiembre de 2025 de la asamblea general de accionistas. 
+
+Commit
+OK----Actualizado ESF
+OK----Providencia
+OK----Mód Recursos.
+OK----Aplica Label
+
+Revisión:
+No pagan
+A boletín, depende de trámite sujeto a boletín
+Ir al certificado y ver los recursos (206 borrar los implicados si los hay)
+Modificar mod que requiero con la corrección.
+Finalmente en 206, pegar mismo label del abogado y pegar al inicio:
+
+MEDIANTE LA CUAL SE RESUELVE:
+y al final
+(Se certifica nuevamente el (Tramite error: Eje Mat-pj) 
+(VER DOC)
+RMT-ESF
+
+Ojo a veces toca hacer crear Mod Para
+mod de consti:poner nombre correcto
+
+Orden Trámites
+831425-12 Providen-SocCom-------------OK
+
+
+
+RECURSOS VIEJOS:
+
+               RECURSOS CONTRA LOS ACTOS DE INSCRIPCIÓN
+
+De  conformidad  con  lo  establecido  en  el  Código  de  Procedimiento
+Administrativo  y de lo Contencioso Administrativo y la Ley 962 de 2005,
+los  actos  administrativos  de  registro, quedan en firme dentro de los
+diez (10) días hábiles siguientes a la fecha de inscripción, siempre que
+no  sean  objeto de recursos. Para estos efectos, se informa que para la
+Cámara  de  Comercio de Medellín para Antioquia, los sábados NO son días
+hábiles.
+
+Una  vez interpuestos los recursos, los actos administrativos recurridos
+quedan  en  efecto  suspensivo,  hasta  tanto los mismos sean resueltos,
+conforme    lo   prevé  el  artículo  79  del  Código  de  Procedimiento
+Administrativo y de los Contencioso Administrativo.
+
+A  la  fecha  y  hora de expedición de este certificado, se encuentra en
+curso los siguientes recursos:
+
+La Cámara de Comercio de Cartagena informa:
+
+El  12  de  noviembre  de  2025,  JAVIER ALEJANDRO OLEA BERNET interpuso
+recurso de reposición contra el Acto Administrativo No. 959364 del 31 de
+octubre  de  2025 del libro IX del Registro Mercantil, correspondiente a
+la  inscripción  de  Acta  No.  03  del  09  de septiembre de 2025 de la
+Asamblea  De  Accionistas  ,  la  cual  se refiere a el nombramiento del
+representante  legal OLVER DARIO VASQUEZ BERRIO, y recurso de reposición
+contra  el  Acto Administrativo No. 959365 del 31 de octubre de 2025 del
+libro  IX  del  Registro  Mercantil, correspondiente a la inscripción de
+Acta No. 03 del 09 de septiembre de 2025 de la Asamblea De Accionistas ,
+la  cual se refiere a Cambia su domicilio de la ciudad de Cartagena a la
+ciudad    de    Medellín.,  y  recurso  de  reposición  contra  el  Acto
+Administrativo  No.  758682  del  31 de octubre de 2025 del libro XV del
+Registro  Mercantil, correspondiente a la inscripción de Acta No. 03 del
+09  de  septiembre  de  2025  de la Asamblea De Accionistas , la cual se
+refiere  a cancelación de matrícula por cambio de domicilio de la ciudad
+de Cartagena a la ciudad de Medellín.
+
+Por lo anterior, la(s) inscripción(es) recurrida(s) se encuentra(n) bajo
+el   efecto  suspensivo  previsto  en  el  artículo  79  del  Código  de
+Procedimiento Administrativo y de lo Contencioso Administrativo.
+
+
+
+
+
+
+
+
+____________________________________________
+ejemplo label Mat-pj (error nombre)
+NOMBRE PERSONA JURIDICA: CLUB DEPROTIVO VALORES DE LA MONTAÑA S.A.S.
+MATRICULA: 834653-12
+Usuario: RMT-KLA
+
+ejemplo label Consti (Error nombre)
+NOMBRE PERSONA JURIDICA: CLUB DEPROTIVO VALORES DE LA MONTAÑA S.A.S.
+SIGLA:
