@@ -1,0 +1,51 @@
+16-MAR-2026[ReforDomi_MutaCte]
+Radicado:29740427 Mat 828718-12
+BEATRIZ EUGENIA OCHOA ANGULO
+
+CAMBIO DE DOMICILIO PARA SAN PEDRO DE LOS MILAGROS 
+MUTACION CAMBIO DE DIRECCION PRINCIPAL Y DE NOTIFICACION JUDICIAL
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Cambio Domicilio 
+OK----Mutación Cte: Dir PPl y Dir Notifi
+OK----Label y Boletín
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+cómo?
+1) ing dat comple,Partesupe,elijo el domi
+2) Listado reformas
+3) Reformas especiales.
+
+Mutac:
+mód 91
+
+
+Orden Trámites
+828718-12 ReforSociedad-------ok
+828718-12 MutaciónCteL15------ok
+
+
+
+Label:
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO DE LA SOCIEDAD ASÍ:
+
+ejemplo texto cambio Domi (Mod 171- REFORMAS ESPECIALES):
+
+Por Acta No.01 del 11 de Marzo de 2026 de la Asamblea, inscrito (a) en esta Cámara de Comercio el 16 de Marzo  de 2026, con el No.9578 del Libro IX, la sociedad cambió su domicilio de la ciudad de Bello - Antioquia a la ciudad de San Pedro de los Milagros - Antioquia.
+
+Acta No.01  11/03/2026 de Asamblea       9578 del 16/03/2026 del Libro IX
+
+
+
+
+
+
+
+
+
+
