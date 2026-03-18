@@ -1,0 +1,56 @@
+18-MAR-2026[Aclara_NombreRepLegal]
+Radicado:29679544 Mat 744410-12
+BEATRIZ EUGENIA OCHOA
+
+MEDIANTE LA CUAL SE SOLICITA LA MODIFICACION DEL NOMBRE DEL REPRESENTANTE LEGAL, EL CUAL MEDIANTE ESCRITURA 1157 DEL 21/07/2025 CAMBIO SU NOMBRE POR JAVIER ESTEBAN CUERVO GOMEZ
+
+nombre viejo: JAVIER ESTEBAN RODRIGUEZ GOMEZ
+Nuevo nombre: JAVIER ESTEBAN CUERVO GOMEZ
+
+Commit
+OK---Actualizado ESF
+OK---Aclaración Nombre Rep Legal
+OK---Label
+
+
+Revisión previa
+Mismo libro de inscripción inicial=ok
+solo se corrije y no va certificado
+a certificado si van refor especiales.
+BOLETÍN con la corrección
+Como es Nombre Rep Legal corregir:
+Tocar mod8 Nombramiento y modifico
+Label y boletín (HACER manual ver abajo)
+
+
+Orden Trámites
+744410-12 AclaraSocCom---ok 
+
+
+Boletín
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL PRINCIPAL
+Nombre:               JAVIER ESTEBAN CUERVO GOMEZ
+Identificación:       1061702493
+Tipo de Nombramiento: DESIGNACION
+
+RMT-ESF
+
+Label:
+MEDIANTE LA CUAL SE ACLARA....(Pegar lo del abogado) QUEDANDO ASÍ:
+
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL PRINCIPAL
+Nombre:               JAVIER ESTEBAN CUERVO GOMEZ
+Identificación:       1061702493
+Tipo de Nombramiento: DESIGNACION
+
+(VER DOCUMENTO)
+
+RMT-ESF
+
+
+abogado
+NOMBRE DEL REPRESENTANTE LEGAL, EL CUAL MEDIANTE ESCRITURA 1157 DEL 21/07/2025 CAMBIO SU NOMBRE POR JAVIER ESTEBAN CUERVO GOMEZ
