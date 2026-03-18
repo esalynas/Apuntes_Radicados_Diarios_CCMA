@@ -1,0 +1,62 @@
+18-MAR-2026[INS_Renuncia_Interesado]
+Radicado:29784275 Mat 565122-12
+DAVID ANTONIO MUÑOZ QUINTERO
+
+OK
+MEDIANTE LA CUAL JOHN JAIRO SEPULVEDA HURTADO RENUNCIA A SU CARGO COMO SUPLENTE DEL REPRESENTANTE LEGAL.
+REG
+
+Commit
+OK----Actualizado ESF
+OK----Renuncia Rep Legal Sup
+OK----Label y Boletín
+Ajuste al esquema.
+
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+Nota: si el doc dice se aprueba renuncia y se deja vacante el cargo, se lleva al certificado como se removió y se dejó vacante.
+
+Orden Trámites
+565122-12 Ins-Renuncia----OK
+
+
+
+RENUNCIAS:
+
+Si hay trámite de Nombramiento y renuncia a la vez.
+se hace sobre el DesRemSoCom (Prevalece Nombramiento)
+se Actualiza así:
+se lleva la etiqueta RENUNCIA ala persona + el texto el siguiente texto según el caso
+
+(a)si en Acta la asamblea aprueba la renuncia:
+el texto se pone : Se aceptó la renuncia de XXXXXXXXXXXXXXXXXXXX
+
+ EJEMPLO: EJEMPLO:
+Por Acta No.10 del 9 de febrero de 2026, de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 16 de marzo de 2026, con el No.9701 del Libro IX, Se aceptó la renuncia de LUIS EDUARDO SANTA GIRALDO.
+
+(B)si la persona Interesada trae la renuncia
+A: persona: presentó renuncia, y sólo es una renuncia sin nombramiento se hace lo siguiente:
+
+DEYSI: Solo EN TRÁMITE Ins_Renuncia
+AL QUE RENUNCUA, modificar, me copio el detalle que traía, luego le doy en sugerido eso trae el detalle nuevo, encima de ese pego el detalle viejito, pongo tipo de nombra RENUNCIA. ir a textos y debajo del que renuncia poner el detalle nuevo junto con "DIANA CECILIA GONZALEZ PEREZ presentó la renuncia al cargo".
+
+generar label, tomar las 5 líneas renuncia, pegarlo en boletín, regresar e inactivar al que RENUNCIA
+
+EJEMPLO:
+Por Comunicación del 12 de marzo de 2026, del Interesado, inscrito(a) en esta Cámara de Comercio el 18 de marzo de 2026, con el No.10084 del Libro IX,  JOHN JAIRO SEPULVEDA HURTADO presentó la renuncia al cargo
+
+label y boletín:
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE SUPLENTE
+Nombre:               AUREN LEGAL S.A.S
+Identificación:       901613791-7
+Tipo de Nombramiento: RENUNCIA
+
+
+
+
+ 
