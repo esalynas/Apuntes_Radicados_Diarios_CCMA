@@ -1,0 +1,57 @@
+17-MAR-2026[DisolCanEstCteLiqui..]
+Radicado:29764368 Mat 654970-12
+Simon Alejandro Bedoya Lopez
+
+DISOLUCION SOCIEDAD COMERCIAL
+LIQUIDACION SOCIEDAD COMERCIAL
+CANCELACION MATRICULA ESTABLECIMIENTO
+SIN DERECHOS DE TERCEROS
+SE VERIFICAN PENDIENTES
+CANCELACION MATRICULA COMERCIANTE
+SIN DERECHOS DE TERCEROS
+SE VERIFICAN PENDIENTES
+
+Commit:
+OK----Actualizado ESF
+OK----Disolución
+OK----Cancela Est 
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+Esp. Liquidación Auto op15 --OK
+ESP. CANCELACIÓN ESTABLECIMIENTO (634283-02) Mat 654970-10
+
+Corrección Abogad@:
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: aporte est
+Tiene Obser Disolución?:La hago yo
+Tiene establecimiento: si activo
+Si inact Cance est=hacer esp op10 ok
+Renovado?:SI 2025
+Tiene NIT:SI
+
+Orden Trámites
+654970-12 Disol-SocCom-------OK
+654970-12 Cancela-Est--------ok
+Esp. Cancela Est-------------ok
+654970-12 Cancela-Cte--------ok
+654970-12 Liquida-SocCom-----ok
+Quitar palabra en LIQUIDA----NA
+
+
+La persona jurídica se disolvió y entró en estado de liquidación por Acta No.8 del 04 de febrero de 2026 de la Asamblea General de Accionistas, inscrito(a) en esta Cámara de Comercio el 16 de marzo de 2026 con el No.9715, del Libro IX.
+
+
+
+
+_________________________________________
+LABEL:
+Detalle:
+NOMBRE ESTABLECIMIENTO: SENDEROS DE HISTORIAS
+MATRICULA: 809296-02
+
+bOLETIN
+NOMBRE ESTABLECIMIENTO: SENDEROS DE HISTORIAS
+MATRICULA: 809296-02

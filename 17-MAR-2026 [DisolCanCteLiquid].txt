@@ -1,0 +1,36 @@
+17-MAR-2026 [DisolCanCteLiquid]
+Radicado:29739191 Mat 694018-12
+CARLOS ANDRES RUIZ GUTIERREZ
+
+DISOLUCION SOCIEDAD COMERCIAL
+LIQUIDACION SOCIEDAD COMERCIAL
+NIT VERIFICADO, OK 
+
+CANCELACION MATRICULA COMERCIANTE
+
+Commit:
+OK----Actualizado ESF
+OK----Disolución
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+Esp. Liquidación Auto op15 
+
+Corrección Abogad@:
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: nO
+Tiene Observacion Disol?:La hago yo
+Tiene establecimiento: SI
+Si inactivo Est= hacer especial NA
+Renovado?:SI
+Tiene NIT:SI
+
+Orden Trámites
+694018-12 Disol-SocCom-------OK
+694018-12 Cancela-Cte--------OK
+694018-12 Liquida-SocCom-----OK
+Expresión -------------------NA
+
+La persona jurídica se disolvió y entró en estado de liquidación por Acta No.1 del 11 de marzo 11 de 2026 de la Asamblea Extraordinaria de Accionistas, inscrito(a) en esta Cámara de Comercio el 17 de marzo de 2026 con el No.9807, del Libro IX.
