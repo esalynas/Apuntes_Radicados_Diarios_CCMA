@@ -1,0 +1,77 @@
+19-MAR-2026 [Nombra_JUNTA]
+Radicado:29691705 Mat 9122-28
+LINA MARCELA VILLA RESTREPO
+
+
+Estatutos en constitución
+Asiste la totalidad de socios activos (23)
+DESIGNACION, REMOCION, REVOCACION ESAL
+MEDIANTE LA CUAKL SE DESIGNA MIEMBRO DE JUNTA DIRECTIVA: 
+
+NOHEMI MORELO URREGO C.C.1.038.105.730 
+EN REEMPLAZO DE 
+OLGAR MODESTO ARIAS PALENCIA C.C.98.652.708.
+OK SIPREF
+
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Miembro Junta Dir
+OK----Boletín
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+9122-28 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia doc
+
+
+
+
+EJEMPLO MIEMBRO VIEJO (LABEL Y BOLETIN)
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     Sin Información
+Nombre:               NOHEMI  MORELO URREGO
+Identificación:       1038105730
+Tipo de Nombramiento: DESIGNACION
+
+
+
+
+___________________________________________________--
+JUNTA VIEJA:
+                             JUNTA DIRECTIVA
+
+NOMBRE                               IDENTIFICACION
+WILFRIDO RAFAEL MARTINEZ OROZCO      C.C. 4.992.758
+ALVARO  GARCIA NIEBLES               C.C. 15.304.075
+PAOLA ANDREA ARENAS OROZCO           C.C. 1.038.123.373
+RAUL EMIRO ALVAREZ MOSCOTE           C.C. 15.304.374
+OLGAR MODESTO ARIAS PALENCIA         C.C. 98.652.708
+LUZ ELENA VERTEL HERNANDEZ           C.C. 39.288.297
+PAOLA ANDREA ARENAS OROZCO           C.C. 1.038.123.373
+SIN ACEPTACION Y/O IDENTIFICACION 
+
+
+Por  Acta No.003 del 14 de febrero de 2016, de la Asamblea de Asociados,
+inscrita  en  esta  Cámara  de  Comercio  el 23 de marzo de 2016, con el
+No.804 del libro I, se designó a:
+
+NOMBRE                               IDENTIFICACION
+WILFRIDO RAFAEL MARTINEZ OROZCO      C.C. 4.992.758
+RAUL EMIRO ALVAREZ MOSCOTE           C.C. 15.304.374
+OLGAR MODESTO ARIAS PALENCIA         C.C. 98.652.708
+LUZ ELENA VERTEL HERNANDEZ           C.C. 39.288.297
+PAOLA ANDREA ARENAS OROZCO           C.C. 1.038.123.373
+SIN ACEPTACION Y/O IDENTIFICACION 
+
+Por  Acta  No.06  del 7 de octubre de 2024, de la Asamblea de Asociados,
+inscrita  en  esta Cámara de Comercio el 19 de noviembre de 2024, con el
+No.4432 del Libro I, se designó a:
+
+ALVARO  GARCIA NIEBLES               C.C. 15.304.075
+PAOLA ANDREA ARENAS OROZCO           C.C. 1.038.123.373
+

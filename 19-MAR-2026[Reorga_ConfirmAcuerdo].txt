@@ -1,0 +1,64 @@
+19-MAR-2026[Reorga_ConfirmAcuerdo]
+Radicado:29782636 Mat 435382-12
+DAVID ANTONIO MUÑOZ.
+
+
+Commit:
+OK----Actualizado ESF
+OK----Acta Confirmación Acuerdo Reorganización
+OK----Label / Boletín
+
+
+
+Corrección Abogado:
+
+Revisión previa:
+Libro XIX
+Providencia de confirma del acuerdo
+constancia ejecutoria
+parte del acuerdo
+Módulo 114 ( Módulo procesos especiales)
+Se certifica el auto o Acta y se deja constancia de la confirmación del acuerdo.
+
+-Tiene expresiones el nombre = No
+- Confirmación reforma Reorg-ConfRefo = nO TIENE
+- Tiene establecimiento = No
+- Si tien est = Retirar embargo mod 13= nO TIENE
+
+Cómo generar:
+pest boletín: Deudor es la sociedad, pego nombre sin la expresión en liquida. clic buscar
+
+Módu 114.
+ingresar datos comple, mirar si deja quitar la expresión.
+
+Label manual en mod 206: copio lo del abogado o voy al RESUELVE del Auto. y lo pego acá
+
+MEDIANTE EL CUAL RESUELVE:..……(pegar lo copiado)
+
+(VER DOC)
+RMT-ESF
+
+
+Orden Trámites
+435382-12 Reorg-ConfAcue--------------
+
+
+luego DEL RESUELVE, SE PEGA el resuelve del auto o acta.
+
+Ejemplo de texto la confirmación del acuerdo:
+
+CONFIRMACIÓN ACUERDO DE REORGANIZACION: Mediante Acta No.610-004426 del 13 de Marzo de 2026, de la Superintendencia de Sociedades - Medellín, inscrito (a) en esta Cámara de Comercio el 18 de Marzo de 2026, con el No.136 del libro XIX, resuelve confirmar el acuerdo de reorganización suscrito y aprobado por el 79.82% de los acreedores de la sociedad ADVISING TECHNOLOGY S.A.S.
+
+
+___________________________________________________
+Ejemplo de texto la confirmación Reforma acuerdo:
+
+CONFIRMACIÓN DE LA REFORMA DEL ACUERDO DE REORGANIZACION: Mediante Auto No.610-001111 del 30 de julio de 2019, de la Superintendencia de Sociedades - Medellín, registrado en esta Cámara el 01 de agosto de 2019, en el libro XIX., bajo el No.102, se confirma la reforma al acuerdo de reorganización suscrito por los acreedores de la sociedad.
+
+
+mat ejemplo 454837
+
+
+
+
+
