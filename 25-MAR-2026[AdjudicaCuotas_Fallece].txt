@@ -1,0 +1,116 @@
+25-MAR-2026[AdjudicaCuotas_Fallece]
+Radicado:29751283 Mat 33757-3
+YULIANA MARCELA LOPEZ MEDINA
+
+ADJUDICACION CUOTAS SOCIALES
+ADJUDICACION CUOTAS DE LA FALLECIDA GLORIA ELENA LONDOÑO Y SE ADJUDICAN TODAS A MARÍA CAMILA cc 1.017.230.548
+PÁGS. 16, 15, 25
+CUOTAS SIN PENDIENTES 
+OK SIPREF 
+ver: Articulo 15 de los estatutos se establece que: En caso de muerte de uno de los socios de la sociedad, podre continuar con los herederos del socio fallecido. 
+
+Commit:
+OK---Actualizado ESF
+OK---Adjudicación Cuotas por Fallecimiento
+OK---Label
+
+Revisión previa
+Comercial libro 9,civil 13,Azar 22? si, 9
+Tiene alerta: si
+
+Mod 161 pegar texto
+Mód Socios: Clic en modificar y cambio lo que necesito(inactivo fallecido) e ingreso al nuevo, clic a textos, PONER EL CC y revisar que coincida.
+
+
+
+Orden Trámites
+741712-12 Adj-Cuo-SocCom------------ok 
+Ajustar certificado al esquema------NA
+
+1.781,00   
+1.781.000,00
+
+
+mod 161 del certificado:
+ADJUDICACIÓN: Mediante Escritura Pública No.5852 del 29 de Agosto de 2024, de la Notaría 18, de Medellín, inscrito(a) en esta Cámara de Comercio el 24 de Marzo de 2026, en el libro 9o., con el No.10801, se llevó a efecto el trabajo de partición y adjudicación de bienes dentro del proceso de sucesión de la señora GLORIA ELENA LONDOÑO PEREZ, en la cual hubo adjudicación de cuotas sociales.
+
+texto label
+ADJUDICACIÓN: Mediante Escritura Pública No.5852 del 29 de Agosto de 2024, de la Notaría 18, de Medellín, inscrito(a) en esta Cámara de Comercio el 24 de Marzo de 2026, en el libro 9o., con el No.10801, se llevó a efecto el trabajo de partición y adjudicación de bienes dentro del proceso de sucesión de la señora GLORIA ELENA LONDOÑO PEREZ, le fueron adjudicadas 1.781 cuotas que poseía, a la señora MARIA CAMILA OSORNO LONDOÑO.
+
+RMT-ESF
+
+
+
+
+
+
+
+                                CAPITAL
+
+El  capital  social corresponde a la suma de $250.000.000,00 dividido en
+250.000,00  cuotas  de  valor nominal de $1.000,00 cada una, distribuido
+así:
+
+Socios capitalistas
+
+RICARDO ANDRES RENDON RESTREPO              C.C. 1.017.167.890 
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+Totales
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+______________________________________________________________________________________
+
+
+
+ADJUDICA ESTABLECIMIENTO:
+Revisión:
+Adjudica LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Alto impact 5360,9609? no
+Comerciante adjudicatario activo?: no 
+Se cancela cte?:si
+SI No se cancela hacer Esp.cvta Op10 --NA
+Cuantos establecimientos?  1
+Tiene multas? no
+
+Orden Trámites
+ --------------
+833500-1 Mat-Pn--------------------------OK
+491263-1 Adjudica-Est--------------------OK
+Label manual(copio lo de BOLETÍN label)--OK
+491263-1 Cancela-Cte---------------------ok
+ESP. ADJUDICA EST------------------------OK
+
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+EJEMPLO DE LABEL Y BOLETÍN
+_______________________________________________________________________
+MEDIANTE LA CUAL SE APROBÓ LA ADJUDICACIÓN DE ESTABLECIMIENTO, QUEDANDO ASÍ:
+
+ADJUDICATARIO.....833500-01 YEPES GIL MARLENY
+ESTABLECIMIENTO...126763-02 SALSAMENTARIA LOS PINGUINOS
+CAUSA.......................FALLECIMIENTO
+
+RMT-ESF
+
+
+________________________________________________________________________
+especial de ejemplo:    causa fallecimiento    
+                                                                                                               
+                           C E R T I F I C A
+NOMBRE                         YEPES GARCIA OCTAVIO DE JESUS
+IDENTIFICACION                 N 3583569-0
+DOMICILIO PRINCIPAL            MEDELLÍN, ANTIOQUIA, COLOMBIA
+MATRICULA NUMERO               21-491263-01 de Junio 24 de 2013
+                           C E R T I F I C A
+
+Que por Escritura Pública No.404 del 22 de octubre de 2025 del Apoderado, inscrito(a) en  esta Entidad el 03  de diciembre de 2025, con el No.3111 del libro VI, en virtud de la muerte del señor YEPES GARCIA OCTAVIO DE JESUS le fue adjudicado a la señora MARLENY YEPES GIL (21-833500-01) el establecimiento de comercio denominado SALSAMENTARIA LOS PINGUINOS (21-126763-2) 
+
+                           C E R T I F I C A
+
+Que por comunicación del 30 de marzo de 2025, inscrito en esta Cámara de Comercio el 03 de diciembre de 2025, con el No.104519 del Libro XV, se canceló la Matrícula Mercantil No.491263-1, del señor YEPES GARCIA OCTAVIO DE JESUS.
+
+RMT-ESF
