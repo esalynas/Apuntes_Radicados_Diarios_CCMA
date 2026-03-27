@@ -1,0 +1,111 @@
+27-MAR-2026[ReactivaPJ_Nombra]
+Radicado:29876598 Mat 612268-12
+CAROLINA GOMEZ JIMENEZ
+
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+DESIGNA REPRESENTANTE PRINCIPAL JORGE ALEJANDRO YARCE      C.C. 1037606805
+SUPLENTE SEBASTIAN  TOBON HERNANDEZ C.C. 1152188569
+REACTIVACION PERSONA JURIDICA
+
+Commit:
+OK----Actualizado ESF
+OK----Reactivación
+OK----Designación Rep Legal pp y Supl
+OK----Boletín
+
+**Revisión previa:**
+Reactiva PJ: si fue disuelta por no renovación en los últimos 5 años, debe pagar los años adeudados antes de reactivar.
+Trae: Doc Priv o Acta
+Indicar nueva vigencia
+tr´pamite se hace una clave
+si trae transformación primero el transforma.
+label manual, observación reactivación manualmente. por un forms.
+
+Sociedad queda con el nombre y sin EN LIQUIDA 
+Se toca módulo de disolución,(quitar todo) lo copio y llevo al de duración.
+
+OOJO En vigencia: llevo lo que tenía, indefinida etc, justo abajo el texto de la circular qu ya tengo.  general label y boletín.  Ojo si fue el texto está en 
+vencimiento: MISMO mod 4
+disolución sociedad : mod 203
+POR LEY : MÓDULO 129-130  y
+
+ojo, si hay reformas, toca llevarlas al módulo de reformas.
+
+ojo si en la Disol, nombraron liquidador, deben hacer nombramiento de representante legal, y debo llevar el encabezado, facultades y limitaciones.  en el expediente o por consulta log  REGISTROS, CONSULTA LOG, LOG MODULO COMERCIANTE , elegir en la lista desplegable nUMERO MAT,
+
+Cómo se debe actualizar
+
+1ro Borrar la observación de disolución (antes de la reactivación) crear trámite Ret-Obs-Cte cambiar a (SI) y en motivo = se reactiva.
+
+2do generar tramite reactivaciónPJ, clic datos complemen y cambiar el nombre de la sociedad (quitar la expresión en liquidación), luego, 
+
+3ro revisar mod 203, 129 y 130 (y si tienen texto), llevar dicho texto al mpodulo 4 vigencia y pegarlo debajo de la vigencia qye tenía. pero a dicjo texto se le adiciona el texto … (y por Acta No.02 del 04 de Marzo de 2026, inscrita en esta Cámara de Comercio el 27 de Marzo de 2026 con el No.11500 del libro IX, la persona jurídica de la referencia se reactivó.) 
+)
+
+4to con el log, llenar los módulos como venían antes de nombrar liquidador (encabezado, fal, limitaciones).   
+
+5to mod 206 recursos, y ok
+
+**Orden Trámites**
+Borrar Obser Ret-Obs-Cte---------------50532790 ok
+612268-12 ReactivacionPj------------------------ok
+en Modulos 203, 129, 130 deben quedar vacíos----ok
+Debe quedar la clave de reactivapj--------------ok
+612268-12 DesRemRv-SocCom-----------------------
+
+
+
+
+
+
+
+La persona jurídica no se encuentra disuelta y su duración es indefinida.
+
+mod 203 viejo:
+La persona jurídica se disolvió y entró en estado de liquidación mediante Acta No. 01, del 7 de julio de 2022, de la Asamblea de Accionistas,  inscrita en esta Cámara de Comercio el 11 de julio de 2022 con el No.24678 del Libro IX.. 
+
+
+
+MOD.129 
+DISOLUCIÓN: La persona jurídica quedó disuelta y en estado de liquidación, en virtud de lo establecido en el artículo 31 de la Ley 1727 de 2014, mediante inscripción de 2023/04/20
+
+MOD.130  no tiene
+
+Label MANUAL:
+
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+
+La persona jurídica se disolvió y entró en estado de liquidación mediante Acta No. 01, del 7 de julio de 2022, de la Asamblea de Accionistas,  inscrita en esta Cámara de Comercio el 11 de julio de 2022 con el No.24678 del Libro IX y por Acta No.02 del 04 de Marzo de 2026, inscrita en esta Cámara de Comercio el 27 de Marzo de 2026 con el No.11500 del libro IX, la persona jurídica de la referencia se reactivó. 
+
+______________________________________________________________________
+DATOS ENCONTRADOS POR LOG
+ENCABEZADO:
+
+REPRESENTANTE LEGAL: GERENTE: La administración inmediata de la sociedad, su representación legal y la gestión de los/negocios sociales estarán a cargo de un Gerente.
+
+SUPLENTES: En los casos de falta temporal del Gerente y en las absolutas, mientras se provee el cargo o cuando se hallare legalmente inhabilitado para actuar en asunto determinado, el Gerente será reemplazado por un suplente nombrado por éste, y a falta de éste, por la Asamblea general y tendrá las mismas facultades del Gerente.
+
+
+FACULTADES:
+
+FUNCIONES: El Gerente es un mandatario con representación investido de funciones ejecutivas y administrativas y como tal, tiene a su cargo la representación legal de la compañía, la gestión comercial y financiera; la responsabilidad de la función administrativa, la coordinación y la supervisión general de la empresa, los cuales cumplirá con arreglo a las normas contenidas en estos estatutos y a las disposiciones legales, con sujeción a las órdenes e instrucciones de la Asamblea General. Además de las funciones generales antes indicadas corresponde al Gerente: 
+
+a) Ejecutar y hacer cumplir los acuerdos y decisiones de la Asamblea General; Nombrar y remover libremente a los empleados de su dependencia, así como a los demás que le corresponda nombrar y remover en ejercicio de la delegación y funciones que para tales efectos pueda hacerle la Junta Directiva.
+
+c) Citar a la Asamblea General de Accionistas cuando lo considere necesario o conveniente y mantenerla, adecuada y oportunamente informada, sobre la marcha de los negocios sociales y someter a su consideración y aprobación los balances de prueba y los demás estados financieros y suministrarle los informes que ella requiera en relación con la Sociedad y con sus actividades.
+
+d) Presentar a la Asamblea General de Accionistas, en su reunión ordinaria, el informe sobre la forma como haya llevado a cabo su gestión y las medidas cuya adaptación recomiende la Asamblea.
+
+e) Realizar los negocios propios del objeto social de la empresa.
+
+f) Celebrar contratos de administración delegada.
+
+g) Las demás que le confieren estos estatutos y la Ley.
+
+PODERES: Como Representante Legal de la Sociedad, el Gerente representará a la sociedad en procesos judiciales o fuera de ellos, ante las entidades administrativas nacionales o regionales. El Gerente también tiene facultades para ejecutar y celebrar, sin otras limitaciones que las establecidas en estos estatutos y en cuanto se trate de operaciones que sean previamente autorizadas o por la Asamblea de Accionistas, todos los actos o contratos comprendidos dentro del objeto social o los que tengan carácter simplemente preparatorios, accesorios o complementarios para la realización de los fines que persigue la sociedad y los que se relacionen directamente con la existencia y funcionamiento de la misma. El Gerente queda revestido de poderes especiales sin limitación de cualquier naturaleza y cuantía; para transigir, arbitrar, conciliar, comprometer los negocios sociales; promover o coadyudar acciones judiciales, administrativas o contenciosas administrativas en que la compañía tenga interés, e interponer todos los recursos que sean necesarios; novar obligaciones y créditos; dar y recibir los bienes en pago; constituir apoderados judiciales, delegarles facultades, renovar mandatos y sustituirlos. El Gerente no podrá otorgar, aceptar o suscribir títulos valores de contenido crediticio en nombre de la compañía cuando falte la correspondiente contraprestación cambiaria a favor de ella, a menos que sea expresamente autorizado por la Asamblea General y a condición de que la compañía derive provecho de la operación.
+
+
+
+
+
