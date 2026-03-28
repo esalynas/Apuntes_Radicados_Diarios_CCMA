@@ -1,0 +1,52 @@
+28-MAR-2026 [DisolCanCteLiquPasaEst]
+Radicado:29888560 Mat 430028-12
+Lina Marcela Villa Restrepo
+
+Consultado con Lucas Henao: Se procede con la disolución y liquidación de la sociedad y el establecimiento se deja en no  matriculado por tener inscrita medida cautelar.
+Se hace carta de observación y se indica además obligación de renovar establecimiento si se solicita cancelación posterior al 31 de marzo de 2026.
+DISOLUCION SOCIEDAD COMERCIAL
+LIQUIDACION SOCIEDAD COMERCIAL
+ESTABLECIMIENTO EMBARGADO PASA AL NO MAT: 719282-97
+RENOVADO 2025
+CANCELACION MATRICULA COMERCIANTE
+
+
+Commit:
+OK----Actualizado ESF
+OK----Actualiza Propietario
+OK----Disolución
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+Esp. Liquidación Auto op15 
+
+Corrección Abogad@:
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: nO
+Tiene Observacion Disol?:La hago yo
+Tiene establecimiento: SI
+Si inactivo Est= hacer especial, ya tiene
+Renovado?:SI
+Tiene NIT:SI
+1ro Generar el No mat, con los datos (Simple-Est, Nit, teléfonos)
+Debo crear trámite Actualiza propi, q(es una clave)
+
+Orden Trámites
+719282-97 No Mat-pj----------OK
+Crear Trámi ActuaPropi datos de la Matri Original (12) y pasar al NoMat.
+430028-12 Actualiza-Propi----50532972 ok
+430028-12 Disol-SocCom-------OK
+430028-12 Cancela-Cte--------OK
+430028-12 Liquida-SocCom-----OK
+Expresión -------------------NA
+
+La persona jurídica se disolvió y entró en estado de liquidación por Documento privado del 26 de marzo de 2026 de la Única Accionista, inscrito(a) en esta Cámara de Comercio el 27 de marzo de 2026 con el No.11569, del Libro IX.
+
+
+datos para la no-Mat
+MEGACONTROL DE ANTIOQUIA S.A.S.
+Simple-Est
+nit 900353589-5
+3124000063 3124000032 3183009630
