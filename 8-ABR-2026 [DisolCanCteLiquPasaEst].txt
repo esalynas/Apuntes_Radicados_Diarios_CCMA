@@ -1,0 +1,48 @@
+8-ABR-2026 [DisolCanCteLiquPasaEst]
+Radicado:29841243 Mat 810238-12
+NATALIA HURTADO DIAZ
+
+DISOLUCION
+LIQUIDACION
+CANCELACION MATRICULA COMERCIANTE
+
+Commit:
+OK----Actualizado ESF
+OK----Actualiza Propietario
+OK----Disolución
+OK----Cancela Cte
+OK----Liquidación
+OK----Boletín
+Esp. Liquidación Auto op15 
+
+Corrección Abogad@:
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: nO
+Tiene Observacion Disol?:La hago yo
+Tiene establecimiento: SI
+Si inactivo Est= hacer especial, ACT
+Renovado?:SI
+Tiene NIT:SI
+1ro Generar el No mat, con los datos (Simple-Est, Nit, teléfonos)
+Debo crear trámite Actualiza propi, q(es una clave)
+
+Orden Trámites
+719580-97 No Mat-pj----------OK
+Crear Trámi ActuaPropi datos de la Matri Original (12) y pasar al NoMat.
+810238-12 Actualiza-Propi----ok
+810238-12 Disol-SocCom-------OK
+810238-12 Cancela-Cte--------OK
+810238-12 Liquida-SocCom-----OK
+Expresión -------------------NA
+
+La persona jurídica se disolvió y entró en estado de liquidación por Acta No.2 del 19 de marzo de 2026 de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 07 de abril de 2026 con el No.13006, del Libro IX.
+
+
+datos para la no-Mat
+CENTRO DE ENSEÑANZA AUTOMOVILISTICA MOVISEG S.A.S.
+SIGLA: CEA MOVISEG SAS
+Simple-Est
+nit 901925310-7
+3136517485  3176398007
