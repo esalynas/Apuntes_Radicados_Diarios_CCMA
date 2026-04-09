@@ -1,0 +1,51 @@
+9-ABR-2026 [Virtual_Consti_MatEst]
+Radicado:30014772 MAT 843642-12
+Luz Edeny Granada Ramirez
+
+CONSTITUCION SOCIEDAD COMERCIAL
+NOMBRAMIENTO REPRESENTANTE LEGAL Y SUPLENTE 
+APLICA BENEFICIOS 1780
+SE ASIGNA NIT 
+MATRICULA ESTABLECIMIENTO 
+
+Commit
+OK---Actualizado ESF
+OK---Mat-Est
+OK---Designación Rep Legal y Sup
+OK---Boletín
+OK---Formato Enfoque Diferencial Étnico
+Se asigna NIT
+Beneficios Ley 1780
+
+Corrección abogad@: 
+
+Revisión:_______________________________
+Existe comerciante? no
+Existe Sit Control? no
+Acpetación?si
+Sipref?:si
+
+Orden Trámites__________________________
+843642 12 MAT-PJ  ------------ok
+843642 12 MAT-Est ------------OK
+843642 12 Constitución--------
+
+Al Mat-Est poner estructurada dir, mod 207, datos dian y ciuu
+
+LIMITACIONES, PROHIBICIONES Y AUTORIZACIONES DE LA CAPACIDAD 
+DE LA PERSONA JURÍDICA	
+
+PROHIBICIONES: 
+
+FACULTADES Y LIMITACIONES DEL REPRESENTANTE LEGAL
+
+QUORUM.
+Deliberatorio: La Asamblea deliberará con dos o más accionistas que representen la mitad más una de las acciones suscritas
+Decisorio: La Ley
+Reformas: Las reformas estatutarias se aprobarán con el voto favorable de cuando menos la mitad más una de las acciones presentes de la respectiva reunión.
+ 
+ 
+CONVOCATORIA.
+Organo: Representante Legal Ord. Y representante legal o del revisor fiscal, o cuando a éstos se lo solicite un número de accionistas representantes de la quinta parte o más del capital suscrito Ext.
+Medio: La convocatoria para unas y otras se hará por medio de carta certificada dirigida a cada uno de los accionistas enviada a la dirección que éstos deben mantener registrada ante la Administración de la sociedad;  Por correo electrónico;  o por cualquier otro medio que permita establecer con certeza el recibo efectivo del aviso por su destinatario.
+Antelación: Se hará con una antelación mínima de cinco (5) días hábiles para las ordinarias y de cinco (5) días corrientes para las extraordinarias.
