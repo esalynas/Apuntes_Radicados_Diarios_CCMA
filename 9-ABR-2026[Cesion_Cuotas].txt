@@ -1,0 +1,178 @@
+9-ABR-2026[Cesion_Cuotas]
+Radicado:30021746 Mat 339728-3
+DANIELA RESTREPO VALLEJO
+
+
+MEDIANTE LA CUAL LOS SOCIOS 
+JUAN FERNANDO CASTRILLON CASTAÑO CON 70 CUOTAS Y 
+
+BLANCA LUCIA ZULUAGA GOMEZ CON 80 CUOTAS CEDEN SUS CUOTAS A LOS DEMAS SOCIOS POR VALOR TOTAL DE $9.000.000. 
+POR LO ANTERIOR EL CAPITAL DE LA SOCIEDAD QUEDA DISTRIBUIDO ASÍ:
+
+LAURA EDILMA CADAVID ACEVEDO 102 CUOTAS
+ANA MARIA RAMIREZ HERNANDEZ 87 CUOTAS
+MARGARITA MARIA MARIN GONZALEZ 117 CUOTAS
+YENY ALEJANDRA BERRIO RESTREPO 131 CUOTAS
+SANTIAGO  CORDOBA RAMIREZ  102 CUOTAS
+JULIAN ESTEBAN RAMIREZ OCHOA  131 CUOTAS
+FELIPE  PARRA RESTREPO 30 CUOTAS 
+TOTAL: 700 CUOTAS DE $60.000 TOTAL: $42000.000
+
+Commit:
+OK---Actualizado ESF
+OK---Reforma Cesión Cuotas
+OK---Label/Boletín
+
+Revisión previa
+Comercial libro 9,civil 13,Azar 22? si, 9
+Tiene alerta: si
+
+Mod Listado refor
+Mód 10 Socios: Clic en modificar y cambio lo que necesito e ingreso al nuevo, clic a textos y revisar que coincida.
+Mód 118 Cesión: Ingre NombreCedente Cesionario y Cuota (OJO, ingresarlos todos en el mismo recuadro cuando son varios, separados por coma).
+mod 206.
+finalmente, generar label y bole, elegir plantilla, cesión cuotas.
+
+
+Orden Trámites
+339728-3 ReforCapitalSoc-----------ok 
+Ajustar certificado al esquema------NA
+
+
+
+
+
+___________________________
+CUando ceden dos o mas personas
+Mat ejemplo: 702012-3
+
+label:
+REFORMA CESION DE CUOTAS:
+Cedente:    YOVANY HUMBERTO ACOSTA PEDRERO  Y SANTIAGO  HERRERA FAJARDO
+Cesionario: ALBERT AUGUSTO GONZAL VASCO, ADRIANA GOMEZ BLANDON, SANTIAGO GONZALEZ GOMEZ, DANIELA GONZALEZ GOMEZ
+Nro. Cuotas Cedidas: 546,00
+
+El capital social corresponde a la suma de $546.000.000,00 dividido en 546.000,00 cuotas de valor nominal de $1.000,00 cada una, distribuido así:
+Socios capitalistas
+
+ALBERT AUGUSTO GONZALEZ VASCO               C.C 75.068.387 
+No. de cuotas:        218.400,00            Valor:     $218.400.000,00
+ADRIANA  GOMEZ BLANDON                      C.C 39.788.000 
+No. de cuotas:        109.200,00            Valor:     $109.200.000,00
+SANTIAGO  GONZALEZ GOMEZ                    C.C 1.000.363.406 
+No. de cuotas:        109.200,00            Valor:     $109.200.000,00
+DANIELA  GONZALEZ GOMEZ                     C.C 1.136.883.526 
+No. de cuotas:        109.200,00            Valor:     $109.200.000,00
+
+Totales
+No. de cuotas:        546.000,00            Valor:     $546.000.000,00
+
+
+Usuario: RMTPV
+
+
+
+BOLETÍN
+
+Cedente:    YOVANY HUMBERTO ACOSTA PEDRERO  Y SANTIAGO  HERRERA FAJARDO
+Cesionario: ALBERT AUGUSTO GONZAL VASCO, ADRIANA GOMEZ BLANDON, SANTIAGO GONZALEZ GOMEZ, DANIELA GONZALEZ GOMEZ
+Nro. Cuotas Cedidas: 546,00
+
+
+
+
+__________________________________
+
+Cuando es sólo un cedente
+Mat ejemplo: 702012-3
+
+
+label:
+
+REFORMA CESION DE CUOTAS:
+Cedente:    CARLOS PEREZ GONZALEZ
+Cesionario: JORGE DEISON MACIAS RIAÑO
+Nro. Cuotas Cedidas: 200,00
+
+CAPITAL  Y  SOCIOS:   Que el capital de la sociedad  es  de  $800.000.00
+dividido  en  800 cuotas de un valor de $1.000.00 cada una,  distribuido
+asi:
+Socios capitalistas
+
+JORGE DEISON MACIAS RIAÑO                   C.C 71.763.265 
+No. de cuotas:            200,00            Valor:         $200.000,00
+JOSE DEISON MACIAS AGUDELO                  C.C 8.346.316 
+No. de cuotas:            600,00            Valor:         $600.000,00
+
+Totales
+No. de cuotas:            800,00            Valor:         $800.000,00
+
+
+Usuario: RMTPV
+
+
+boletpin:
+Cedente:    CARLOS PEREZ GONZALEZ
+Cesionario: JORGE DEISON MACIAS RIAÑO
+Nro. Cuotas Cedidas: 200,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ejemplo texto (cede por muerte)
+
+ADJUDICACIÓN.  Por  Escritura  pública  No.  2289 del 18 de noviembre de
+2025,  de  la  Notaría  31  de  Medellín, inscrito (a) en esta Cámara de
+Comercio el 12 de marzo de 2025 con el No. 9157 del Libro IX, se llevo a
+cabo el trabajo de partición y adjudicación de bienes dentro del proceso
+de  sucesión  de la señora MARIA ROCIO RESTREPO CUARTAS, en la cual hubo
+adjudicación de cuotas sociales.
+
+
+
+ejemplo listado de reformas con Escritura Pública
+DOCUMENTO                                 INSCRIPCION           
+E.P.No.2875 de 15/09/1993 Not.13 Medellín 10450 de 24/09/1993 de L.IX  
+
+
+
+                                CAPITAL
+
+El  capital  social corresponde a la suma de $250.000.000,00 dividido en
+250.000,00  cuotas  de  valor nominal de $1.000,00 cada una, distribuido
+así:
+
+Socios capitalistas
+
+RICARDO ANDRES RENDON RESTREPO              C.C. 1.017.167.890 
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+Totales
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+
