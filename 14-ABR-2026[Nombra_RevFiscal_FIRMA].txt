@@ -1,0 +1,43 @@
+14-ABR-2026[Nombra_RevFiscal_FIRMA]
+Radicado:30077943 Mat 690745-12
+DAVID CORREA POSADA
+
+
+ok REVISOR FISCAL
+CROWE CO S.A.S.  NIT. 830.000.818-9
+
+LA FIRMA DESIGNA A SHERY PAMELA ALMANZA MORENO CON CC 1.143.415.155 COMO PRINCIPAL Y A MIGUEL ALFONSO ESQUIVEL PETRO CON CC 1.065.007.632 COMO SUPLENTE
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Firma Rev Fiscal 
+OK----Designación Rev Fiscal PPl y Sup
+OK----Boletín
+
+
+Corrección Abogad@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+742578-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+iNACTIVAR AL QUE VIENE, INGRESAR AL NUEVO.
+
+
+EJEMPLO FIRMA__________________________________
+
+CARGO                  NOMBRE                    IDENTIFICACION
+FIRMA REVISORA FISCAL  RUSSELL BEDFORD GCT S.A.S. NIT.811.044.406-8
+
+OJO: poner el texto de los revisores, con procedencia de la firma.
+
+Por  Comunicación del 11 de febrero de 2026, de la Firma Revisora Fiscal,  inscrito(a)  en  esta  Cámara de Comercio el 9 de marzo de
+2026, con el No.8631 del Libro IX, se designó a:
+
+
