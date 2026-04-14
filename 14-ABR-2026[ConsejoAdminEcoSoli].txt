@@ -1,0 +1,103 @@
+14-ABR-2026[ConsejoAdminEcoSoli]
+Radicado:29966780 Mat 6245-24
+HILARY CARDONA ARBELAEZ
+
+
+NOMBRAMIENTO CONSEJO DE ADMINISTRACIÓN (3 PRINCIPALES Y 3 SUPLENTES)
+OK SIPREF
+OK ACEPTACIÓN
+PEDRO PABLO LOPEZ PALACIN C.C. 3.672.323
+GRISELIO EULICER OCHOA LONDOÑO C.C. 15.323.160
+UBALDO DEL CRISTO HOYOS BULA C.C. 10.876.754
+JHON JAIRO BETANCUR MORENO C.C. 3.673.192
+PEDRO ANTONIO PEREIRA TORRES C.C. 98.610.176
+EDINSON MANUEL VERGARA RICARDO C.C. 15.671.481
+
+Commit:
+OK----Actualizado ESF
+OK----Designa Consejo Admin
+OK----Boletín
+
+Corrección Aboga@:
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Ojo: cuando hay nombra rep legal y miembro de consejo toca alimentar por debajo alguno de los dos, ver consulta comerciante
+
+Orden Trámites
+6245-24 DesRemRv-EcoSoli------OK
+Ajuste Cert al esquema--------NA
+
+
+
+EJEMPLO ETIQUETA:
+
+LOS NOMBRAMIENTOS QUEDAN ASI:
+
+Cargo:                CONSEJO DE ADMINISTRACIÓN
+Nombre del Cargo:     PRINCIPAL
+Nombre:               PEDRO PABLO LOPEZ PALACIN
+Identificación:       3672323
+Tipo de Nombramiento: DESIGNACION
+
+
+
+CONSEJO ANTIGUO
+
+Por  Acta No. 31 del 21 de febrero de 2024, de la Asamblea de Asociados,
+inscrito(a)  en  esta  Cámara de Comercio el 22 de marzo de 2024, con el
+No. 86 del Libro III, se designó a:
+
+PRINCIPALES
+NOMBRE                                  IDENTIFICACIÓN  
+
+JORGE ELIECER ALZATE ARBOLEDA           C.C.  3.411.271
+RAFAEL ANTONIO ALVAREZ TABORDA          C.C.  15.523.357
+MAURICIO DE JESUS TABARES CORREA        C.C.  70.003.294
+                                              
+SUPLENTES
+NOMBRE                                  IDENTIFICACIÓN          
+POMPILIO ALFREDO POSADA RESTREPO        C.C. 15.450.197
+ALEXIS AUGUSTO PALACIO MORALES          C.C. 15.450.813
+ENRIQUE ANTONIO ZULETA LOAIZA           C.C. 3.411.105
+
+
+
+                           CONSEJO DE ADMINITRACION
+
+CARGO                      NOMBRE                        IDENTIFICACION
+
+PRINCIPAL                  PEDRO PABLO LOPEZ PALACIN         3.672.323
+                           DESIGNACION                
+
+PRINCIPAL                  JHON JAIRO BETANCUR MORENO        3.673.192
+                           DESIGNACION                
+
+PRINCIPAL                  GRISELIO EULICER OCHOA           15.323.160
+                           LONDOÑO                    
+                           DESIGNACION                
+
+SUPLENTE                   PEDRO ANTONIO PEREIRA            98.610.176
+                           TORRES                     
+                           DESIGNACION                
+
+SUPLENTE                   EDINSON MANUEL VERGARA           15.671.481
+                           RICARDO                    
+                           DESIGNACION                
+
+SUPLENTE                   JOSUE  ALEMAN MORENO              3.672.262
+                           DESIGNACION                
+
+Por  Acta  número  12  del  29  de marzo de 2019, de la Asamblea General
+Ordinaria,  registrado(a) en esta Cámara el 20 de septiembre de 2019, en
+
+
+
+
+
+
+
+
+
+
