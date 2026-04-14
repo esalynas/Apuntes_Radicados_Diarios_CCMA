@@ -1,0 +1,42 @@
+14-ABR-2026 [Consti_Carga]
+Radicado:30050785 MAT 844167-12
+NATALIA ANDREA HINCAPIE CADAVID
+
+
+OK REG CONSTI SOC CCIAL Y MAT PERS JCA 844167-12
+SE NOMBRA REP LEGAL
+SE ASIGNA NIT- NO CUMPLE LEY 1780
+NOMBRE SE PUEDE
+
+
+Commit
+OK---Actualizado ESF
+OK---Designación Rep Legal 
+OK---Boletín
+OK---Formato Enfoque Diferencial Étnico
+OK---Actualizado Grupo Étnico
+Se asigna NIT
+No Beneficios Ley 1780
+
+Corrección abogad@: 
+
+
+Revisión:_______________________________
+Existe comerciante? no
+Existe Sit Control? no
+Acpetación?si
+Sipref?:si
+
+Orden Trámites__________________________
+844167 12 MAT-PJ  ------------ok
+844167 12 Constitución--------OK
+
+
+TRANSPORTE CARGA= TRAJO PERMISO MIN TRANSPORTE? = No
+
+Pegar MODU 131.Consti 
+PERSONA JURIDICA.
+
+La persona jurídica no ha inscrito el acto administrativo que lo habilita para prestar el servicio público de transporte automotor en la modalidad de carga.
+
+MOD_MÓDULOS establecimiento 216. = El establecimiento no ha inscrito el acto administrativo que lo habilita para pres-tar el servicio de transporte automotor en la modalidad de carga.
