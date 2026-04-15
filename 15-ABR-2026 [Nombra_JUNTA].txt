@@ -1,0 +1,144 @@
+15-ABR-2026 [Nombra_JUNTA]
+Radicado:30027241 Mat 662458-4
+ANGELA RIOS CARDONA
+
+REGISTRADO 
+NOMBRAMIENTO PARCIAL JUNTA DIRECTIVA
+Se nombra al señor JUAN CARLOS ROJAS VILLA ROEL como miembro principal en reemplazo de MANUEL ANTONIO ISMAEL LABORDE BARRIGA  - OK SIPREF
+
+--------------------
+VIGENCIA: diciembre 31 de 2050.
+Fecha de renovación: 20 de Marzo de 2026
+----------------
+**12/06/2020, Rad 19710348, transf: Art 22: Q DEL: Mitad mas una de las acciones suscritas y en circulación
+Q DEC: Mitad mas una de las acciones presentes en la reunion 
+Art 25: Asamblea nombra la junta dctiva - 3 ppales y 3 sup 
+Art 27: JD: 3 pales y 3 suplentes personales 
+NOTA: Suplentes de la junta directiva vienen vacantes
+------------
+DEV: ABRIL 9/2026
+REING: ABRIL 14/2026
+ACTA NRO.13 DEL 9 DE MARZO DE 2026 
+
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Miembro Junta Dir
+OK----Boletín
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+662458-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia doc
+
+
+
+
+EJEMPLO MIEMBRO VIEJO (LABEL Y BOLETIN)
+
+
+
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               MANUEL ANTONIO ISMAEL LABORDE BARRIGA
+Identificación:       11230649
+Tipo de Nombramiento: DESIGNACION
+
+
+
+___________________________________________________--
+
+OJO SI DESIGNAN VACANTES:
+NOTA_: SE llevan principales normal y los suplentes como vacantes (en el cer SIN DESIGNACION) pero en label y boletín como vacantes según las etiquetas Word:
+
+Cargo:                 JUNTA DIRECTIVA
+Nombre del Cargo:      SUPLENTE
+Nombre:                VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+
+
+ejemplo LABEL y boletín:
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               JAIME ANDRES DUQUE JIMENEZ
+Identificación:       15513980
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     PRIMER SUPLENTE DEL REPRESENTANTE LEGAL
+Nombre:               JOHN JAIRO DUQUE JIMENEZ
+Identificación:       15514491
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     SEGUNDO SUPLENTE DEL REPRESENTANTE LEGAL
+Nombre:               LUIS GUILLERMO DUQUE JIMENEZ
+Identificación:       15515737
+Tipo de Nombramiento: DESIGNACION
+
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               FRANCISCO JAIME DUQUE GONZALEZ
+Identificación:       3458176
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               LUZ EDILMA JIMENEZ DE DUQUE
+Identificación:       42675013
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               JUAN FERNANDO DUQUE JIMENEZ
+Identificación:       15513986
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               JOHN JAIRO DUQUE JIMENEZ
+Identificación:       15514491
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               LUIS GUILLERMO DUQUE JIMENEZ
+Identificación:       15515737
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
