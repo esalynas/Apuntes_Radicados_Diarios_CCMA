@@ -1,0 +1,103 @@
+16-abr-2026 [Virtual_CONSTI_SIT]
+Radicado:30081425 Mat 844537-12
+JULIET ALEJANDRA MONTOYA BETANCUR
+
+MATRICULA COMERCIANTE PERSONA JURIDICA
+RUE OK
+ASIGNAR NIT
+CON BENENFICIO 1780
+CONSTITUCION SOCIEDAD COMERCIAL
+NOMBRAMIENTO REPRESENTANTE LEGAL
+SIPREF OK
+SITUACION CONTROL ACCIONISTA UNICO CONSTITUCION SAS
+
+Commit
+OK---Actualizado ESF
+OK---Situación Control
+OK---Designación Rep Legal
+OK---Boletín
+OK---Formato Enfoque diferencial Étnico
+OK---Actualizado Grupo Étnico
+Se asigna NIT
+Beneficios Ley 1780
+
+Corrección abogad@:
+faltó asociar la inscrip del controlante 719923-98 
+
+
+Revisión:_______________________________
+Existe comerciante? no
+Existe Sit Control? no
+
+Orden Trámites__________________________      9 14346
+844537 12 MAT-PJ  ----------
+719922 97 No-Mat-Pj---------
+719923 98 No-Mat-Pn---------
+719922 97 Sitcon-con-sas----  
+844537 12 Constitución------
+
+
+Abogado faltó asociar la inscrip al -98 en la situación de control.
+
+Naturaleza Simple-Est
+ 
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 13 DE MARZO DE 2026
+
+FACULTADES Y LIMITACIONES DEL REPRESENTANTE LEGAL
+
+QUORUM.
+Deliberatorio: La Asamblea deliberará con dos o más accionistas que representen la mitad más una de las acciones suscritas
+Decisorio: La Ley
+Reformas: Las reformas estatutarias se aprobarán con el voto favorable de cuando menos la mitad más una de las acciones presentes de la respectiva reunión.
+ 
+ 
+CONVOCATORIA.
+Organo: Representante Legal Ord. Y representante legal o del revisor fiscal, o cuando a éstos se lo solicite un número de accionistas representantes de la quinta parte o más del capital suscrito Ext.
+Medio: La convocatoria para unas y otras se hará por medio de carta certificada dirigida a cada uno de los accionistas enviada a la dirección que éstos deben mantener registrada ante la Administración de la sociedad;  Por correo electrónico;  o por cualquier otro medio que permita establecer con certeza el recibo efectivo del aviso por su destinatario.
+Antelación: Se hará con una antelación mínima de cinco (5) días hábiles para las ordinarias y de cinco (5) días corrientes para las extraordinarias.
+
+
+
+CORREGIR LA SIT DE CONTROL, si me falta ingresar controlante.
+
+Ir a trámites, correcciones, Revisión sit control, poner datos -97
+
+ingresar o modificar loq ue necesito.
+a ambos lados, poner el libro y la inscripcipn clic en buscar.
+poner los datos obligatorios, grabar.
+
+Crear un modifica inscripción con los siguientes ejemplos de label y boletín.
+
+
+ejemplo de label y boletín 
+
+ins 14346  libro 9
+
+label 
+SITUACION DE CONTROL:
+SITUACION DE CONTROL
+
+    MATRIZ: DELGADO CASTILLO VICTORIA EUGENIA
+    DOMICILIO: MEDELLÍN - COLOMBIANA
+
+    CONTROLA DIRECTAMENTE A:
+
+         843595-12 VESTITA GRATIA S.A.S
+         DOMICILIO: MEDELLÍN - COLOMBIANA
+         Subordinada
+         PRESUPUESTO:  ARTICULO  261-NUMERAL  1  DEL CODIGO DE COMERCIO:
+         PROPIEDAD  DEL  100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE
+         LA SOCIEDAD
+
+
+
+Usuario: RMT-ESF
+
+
+boletín
+
+SITUACION DE CONTROL: SITUACION DE CONTROL
+CONTROLANTE: VICTORIA EUGENIA DELGADO CASTILLO
+CONTROLADA:  0843595-12 VESTITA GRATIA S.A.S.
