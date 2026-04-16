@@ -1,0 +1,43 @@
+16-ABR-2026[RATIFICA_NombraRevFiscalFIRMA]
+Radicado:30086481 Mat 496353-12
+CATALINA LOPEZ POSADA
+
+
+RATIFICAC FIRMA REV FISCAL QUIEN A SU VEZ DESIGNA REV FISCAL PPAL
+
+Commit:
+OK----Actualizado ESF
+OK----RATIFICA  Firma Rev Fiscal
+OK----Designación Rev Fiscal PPl 
+OK----Boletín
+
+
+Corrección Abogad@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+496353-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+iNACTIVAR AL QUE VIENE, INGRESAR AL NUEVO.
+
+
+EJEMPLO FIRMA__________________________________
+
+CARGO                  NOMBRE                    IDENTIFICACION
+FIRMA REVISORA FISCAL  CONSULTORÍA Y CONTABILIDAD INTEGRA LTDA NIT.830.515.361-6
+
+OJO: poner el texto de los revisores, con procedencia de la firma.
+
+Por  Comunicación del 11 de febrero de 2026, de la Firma Revisora Fiscal,  inscrito(a)  en  esta  Cámara de Comercio el 9 de marzo de
+2026, con el No.8631 del Libro IX, se designó a:
+
+RATICAR:
+Inactivo y INGRESO como RATIFICACIÓN, se lleva el nuevo texto, y label y boletín como RATIFICACION
+
+
