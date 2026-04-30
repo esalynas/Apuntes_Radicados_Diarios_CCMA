@@ -1,0 +1,51 @@
+28-ABR-2026[Azar_DisolCancEst]
+Radicado:30161465 Mat 701291-12
+ANDRES GRISALES ESCOBAR
+
+DISOLUCION VEN AZAR
+CANCELA 3 ESTABLECIMIENTOS DE COMERCIO 
+
+Commit:
+OK----Actualizado ESF
+OK----Disolución VenAzar
+OK----Cancela Est x3
+OK----Boletín
+ESP. CANCELACIÓN ESTABLECIMIENTO (691898-02, 691999-02, 726242-02) Mat 701291-10
+
+Corrección Abogad@:
+
+Fecha cancela-Est debe ser del formato 2026/03/30
+
+Revisión previa:
+Actividad azar LIBRO22?:no
+Observaciones: TRANFORMA
+Tiene Observacion Disolución?:La hago yo
+Tiene establecimiento: si activo
+Si inactivo o Cancela establecimiento = hacer especial op10 ok
+Renovado?:SI
+Tiene NIT:SI
+
+Orden Trámites
+701291-12 Cancela-Est--------OK  30161465
+701291-12 Cancela-Est--------OK  30161471
+701291-12 Cancela-Est--------OK  30161472
+Esp. Cancela Est-------------OK
+701291-12 VenAzarDisol-------OK  30161465
+
+
+
+
+
+La persona jurídica se disolvió y entró en estado de liquidación por Acta No.1 DEL 2026 del 03 de Marzo de 2026 de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 28 de abril de 2026 con el No.327, del libro XXII.
+
+
+
+_________________________________________
+LABEL:
+Detalle:
+NOMBRE ESTABLECIMIENTO: SENDEROS DE HISTORIAS
+MATRICULA: 809296-02
+
+bOLETIN
+NOMBRE ESTABLECIMIENTO: SENDEROS DE HISTORIAS
+MATRICULA: 809296-02

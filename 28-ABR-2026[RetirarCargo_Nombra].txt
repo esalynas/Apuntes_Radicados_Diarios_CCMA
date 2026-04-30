@@ -1,0 +1,48 @@
+28-ABR-2026[RetirarCargo_Nombra]
+Radicado:30169364 Mat 7146-4
+Luz Edeny Granada Ramirez
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+DECISIÓN 
+		
+REMOCION DE REP LEGALES
+PRESIDENTE                 CARLOS EDUARDO ISAZA
+VICEPRESIDENTE             JUAN ESTEBAN DE LA SANTISIMA TRINIDAD
+VICEPRESIDENTE             VERONICA  ECHEVERRI
+VICEPRESIDENTE             LAURA  CORDOBA ANGEL      
+
+NOMBRAMIENTO
+PRESIDENTE  JUAN ESTEBAN DE LA SANTISIMA TRINIDAD  
+ACEPTACION
+SIPREF 
+VICEPRESIDENTE Y REPRESENTANTE LEGAL SUPLENTE JULIO OMAR CASTRO VIVAS 
+ACPETACION
+SIPREF 
+
+Commit:
+OK----Actualizado ESF
+OK----Remoción Cargos
+OK----Designa Presidente y Vice
+OK----Boletín
+Ajuste Cert al esquema.
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+7146-4 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+
+
+Vivi:
+se hace como remoción a la persona que venía, se lleva a boletín como remoción y se borra todo del certificado
+
+
+Cargo:                REVISORIA FISCAL
+Nombre del Cargo:     REVISOR FISCAL PRINCIPAL
+Nombre:               ANTONIO JOSE TAMAYO BUITRAGO
+Identificación:       98659954
+Tipo de Nombramiento: REMOCIÓN

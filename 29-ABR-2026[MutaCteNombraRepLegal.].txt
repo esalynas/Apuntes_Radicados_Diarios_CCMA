@@ -1,0 +1,45 @@
+29-ABR-2026[MutaCteNombraRepLegal.]
+Radicado:30166184  Mat 701216-12
+Luz Edeny Granada Ramirez
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+NOMBRAMIENTO REPRESENTANTE LEGAL SUPLENTE SUPLENTE ANDRES FELIPE LOPEZ MUÑOZ 8434919
+ACEPTA 
+SIPREF 
+
+MUTACIONES COMERCIANTE LIBRO 15
+MODIFICACIÓN TELÉFONO NOTIFICACIÓN JUDICIAL  
+
+Commit:
+OK----Actualizado ESF
+OK----Mutación Cte: 
+OK----Designación Rep legal sup
+OK----Boletín
+
+Corrección Aboga@:
+Fecha de la Mutación es 2026/04/10
+La comunicación de Mutación no debe llevar No.
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Actividad azar?no
+Actividad Alto impact? no
+
+Orden Trámites
+701216-12 MutaciónCteL15-------OK
+701216-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+
+
+
+
+
+
+
+
+
+
+
+_

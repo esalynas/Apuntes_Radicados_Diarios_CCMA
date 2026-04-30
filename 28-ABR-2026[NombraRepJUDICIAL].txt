@@ -1,0 +1,48 @@
+28-ABR-2026[NombraRepJUDICIAL]
+Radicado:30158558  Mat 725405-12
+DAVID CORREA POSADA
+
+OK MEDIANTE LA CUAL SE NOMRA A SANTIAGO YARCE GOMEZ COMO REPRESENTANTE LEGAL JUDICIAL Y ADMINISTRATIVO EN REEMPLAZO DE  DANIEL JIMENEZ PASTOR 
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Rep legal Judicial
+OK----Boletín
+
+Corrección Aboga@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+Mod 96. ingresar nombramiento
+NOTA: EL nombramiento toca llevarlo manual a label y boletín
+
+Cargo:                REPRESENTACION LEGAL JUDICIAL
+Nombre del Cargo:     REPRESENTANTE LEGAL JUDICIAL Y ADMINISTRATIVA
+Nombre:               ALFREDO JOSE TASCON CAICEDO
+Identificación:       16782250
+Tipo de Nombramiento: DESIGNACION
+
+
+Cargo:                REPRESENTACION LEGAL JUDICIAL
+Nombre del Cargo:     REPRESENTANTE LEGAL JUDICIAL Y ADMINISTRATIVA
+Nombre:               JOHANNA  ZAPATA GARCIA
+Identificación:       1152684667
+Tipo de Nombramiento: DESIGNACION
+
+
+Cargo:                REPRESENTACION LEGAL JUDICIAL
+Nombre del Cargo:     REPRESENTANTE LEGAL JUDICIAL Y ADMINISTRATIVA
+Nombre:               SANTIAGO  YARCE GOMEZ
+Identificación:       1039456210
+Tipo de Nombramiento: DESIGNACION
+
+
+
+

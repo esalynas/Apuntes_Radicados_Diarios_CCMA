@@ -1,0 +1,41 @@
+27-ABR-2026[RemueveQuedaVacantREV]
+Radicado:30146450 Mat 672496-12
+LUISA FERNANDA ROA BETANCUR
+
+reg
+Mediante la cual la firma revisora fiscal remueve a y dej vacante el carrgo de REVISOR FISCAL SUPLENTE
+
+Commit:
+OK----Actualizado ESF
+OK----Rev Fiscal Sup queda Vacante
+OK----Boletín
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+672496-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+
+EJEMPLO:
+___________________________________
+Estructurado: Ingreso vacancia, e inactivo al removido.
+
+En textos: Se deja el documento y el nombramiento viejo, y abajo se pone el nuevo documento con esto al final se removió del cargo a xxxxxxxx y se dejó vacante el cargo.
+
+se genera label y se quita la linea sobrante en la vacante en label y boletín
+
+etiqueta label y boletín.
+
+Cargo:                REVISORIA FISCAL
+Nombre del Cargo:     REVISOR FISCAL SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+
+
+
+Por Comunicación del 17 de abril de 2026, de la Revisoria Fiscal, inscrito(a) en esta Cámara de Comercio el 24 de abril de 2026, con el No.18682 del Libro IX, se removió del cargo a FARLEY ORESTES ZULUAGA CARDONA y se dejó vacante el cargo.

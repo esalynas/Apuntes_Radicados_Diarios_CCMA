@@ -1,0 +1,164 @@
+29-ABR-2026[Renuncia_QuedaVacante.]
+Radicado:30168148 Mat 415179-12
+Simon Alejandro Bedoya Lopez
+
+RENUNCIA REVISOR FISCAL  queda vacante 30168148
+
+Commit
+OK----Actualizado ESF
+OK----Renuncia Rev Fiscal queda Vacante
+OK----Label y Boletín
+Ajuste al esquema.
+
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+Nota: si el doc dice se aprueba renuncia y se deja vacante el cargo, se lleva al certificado como se removió y se dejó vacante.
+
+Orden Trámites
+415179-12 DesRemRevSocCom----OK
+
+
+Por Acta del 5 de abril de 2025, de la Asamblea Nacional, inscrito(a) en esta Cámara de Comercio el 28 de abril de 2026, con el No.1507 del Libro I, se removió del cargo a YOBANA MILLAN BUSTOS y se dejó vacante el cargo.
+
+
+
+
+RENUNCIAS:
+
+Si hay trámite de Nombramiento y renuncia a la vez.
+se hace sobre el DesRemSoCom (Prevalece Nombramiento)
+se Actualiza así:
+se lleva la etiqueta RENUNCIA ala persona + el texto el siguiente texto según el caso
+
+(a)si en Acta la asamblea aprueba la renuncia:
+el texto se pone : Se aceptó la renuncia de XXXXXXXXXXXXXXXXXXXX
+
+ EJEMPLO: EJEMPLO:
+Por Acta No.10 del 9 de febrero de 2026, de la Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 16 de marzo de 2026, con el No.9701 del Libro IX, Se aceptó la renuncia de LUIS EDUARDO SANTA GIRALDO.
+
+(B)si la persona Interesada trae la renuncia
+A: persona: presentó renuncia, y sólo es una renuncia sin nombramiento se hace lo siguiente:
+
+DEYSI: Solo EN TRÁMITE Ins_Renuncia
+AL QUE RENUNCUA, modificar, me copio el detalle que traía, luego le doy en sugerido eso trae el detalle nuevo, encima de ese pego el detalle viejito, pongo tipo de nombra RENUNCIA. ir a textos y debajo del que renuncia poner el detalle nuevo junto con "DIANA CECILIA GONZALEZ PEREZ presentó la renuncia al cargo.
+
+generar label, tomar las 5 líneas renuncia, pegarlo en boletín, regresar e inactivar al que RENUNCIA
+
+EJEMPLO:
+Por Comunicación del 27 de enero de 2026, de la Miembro Principal de Junta Directiva, inscrito(a) en esta Cámara de Comercio el 23 de abril de 2026, con el No.18564 del Libro IX,  ANDRES BERNAL CORREA presentó la renuncia al cargo.
+
+18564 l9
+
+label y boletín:
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               ALEJANDRO JOSE JARAMILLO ARANGO
+Identificación:       70563423
+Tipo de Nombramiento: RENUNCIA
+
+
+junta antes
+                             JUNTA DIRECTIVA
+
+PRINCIPALES
+NOMBRE                                             IDENTIFICACION 
+BART K. VANHAEREN                                  PA.EP.297.259
+MARÍA FLORENCIA  MAIORI                            PA.AAH.240.222
+LUCIANO  MARINO                                    PA. 647.061.383
+JUAN ANTONIO PUNGILUPPI LEYVA                      C.C.79.777.503
+JOHN ALBERTO MAYA SALAZAR                          C.C.70.119.101
+ANDRES BERNAL CORREA                               C.C.98.557.227
+SANDRA GOMEZ ARIAS                                 C.C.43.587.461
+              
+
+SUPLENTES 
+NOMBRE                                             IDENTIFICACION
+CELSO  VIANNA                                      PA.567.620.270
+SALVADOR ESCALÓN                                   PA.561871125
+ALESSANDRA BRAGGION                                PA.YC0115808
+RAFAEL CISNEROS                                    PA.YC7963258
+DIANA OLIVA RUA JARAMILLO                          C.C.21.969.107
+HUMBERTO JOSE IGLESIAS GOMEZ                       C.C.71.368.588
+ALEJANDRO JOSE JARAMILLO ARANGO                    C.C.70.563.423
+
+ LABEL CORREGIDO
+
+LOS NOMBRAMIENTOS QUEDAN ASI:
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               BART K. VANHAEREN
+Identificación:       EP297259
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               MARÍA FLORENCIA  MAIORI
+Identificación:       AAH240222
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               LUCIANO  MARINO
+Identificación:       647061383
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               JUAN ANTONIO PUNGILUPPI LEYVA
+Identificación:       79777503
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               JOHN ALBERTO MAYA SALAZAR
+Identificación:       70119101
+Tipo de Nombramiento: RENUNCIA
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               ANDRES  BERNAL CORREA
+Identificación:       98557227
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               CELSO  VIANNA
+Identificación:       567620270
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               SALVADOR  ESCALÓN
+Identificación:       561871125
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               ALESSANDRA  BRAGGION
+Identificación:       YC0115808
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               RAFAEL  CISNEROS
+Identificación:       YC7963258
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               DIANA OLIVA RUA JARAMILLO
+Identificación:       21969107
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               HUMBERTO JOSE IGLESIAS GOMEZ
+Identificación:       71368588
+Tipo de Nombramiento: DESIGNACION
+
