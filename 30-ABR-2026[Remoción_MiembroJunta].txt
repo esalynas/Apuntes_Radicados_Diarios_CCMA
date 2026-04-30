@@ -1,0 +1,41 @@
+30-ABR-2026[Remoción_MiembroJunta]
+Radicado:30141298 Mat 800288-12
+Simon Alejandro Bedoya Lopez
+
+REMUEVE A LA MIEMBRO PRINCIPAL DE LA JUNTA DIRECTIVA, LA SEÑORA BRENDA ZULEIMA VILLAMIZAR PARRA
+
+RADICADO ASOCIADO 30180454
+
+Commit:
+OK----Actualizado ESF
+OK----Remoción Miembro Junta
+OK----Boletín
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites
+DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+
+EJEMPLO:
+___________________________________
+Estructurado: Cambiar Tipo Remoción, al removido.
+
+En textos: Se deja el documento y el nombramiento viejo, y abajo se pone el nuevo documento con esto al final:
+
+se removió del cargo a xxxxxxxx y se dejó vacante el cargo.
+
+se genera label, se lleva a boletín la remoción y regreso para desactivar.
+
+____________________________________
+etiqueta label y boletín (REMOCIÓN).
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL SUPLENTE
+Nombre:               BEATRIZ DEL SOCORRO VARGAS 
+Identificación:       39433284
+Tipo de Nombramiento: REMOCION
+
