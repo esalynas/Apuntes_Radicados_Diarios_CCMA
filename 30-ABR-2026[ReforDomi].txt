@@ -1,0 +1,52 @@
+30-ABR-2026[ReforDomi]
+Radicado:30143674 Mat 802042-12
+Laura Carolina Montoya Velez
+
+OK REFORMAS SOCIEDAD COMERCIAL
+DOMICILIO SOCIAL CAMBIA DE COPACABANA A BELLO
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Cambio Domicilio 
+OK----Label y Boletín
+
+Corrección Abogad@:
+
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+cómo?
+1) ing dat comple,Partesupe,elijo el domi
+2) Listado reformas
+3) Reformas especiales.
+
+Mutac:
+mód 91
+
+
+Orden Trámites
+802042-12 ReforSociedad-------ok
+
+
+
+
+Label:
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO DE LA SOCIEDAD ASÍ:
+
+ejemplo texto cambio Domi (Mod 171- REFORMAS ESPECIALES):
+
+Por Acta No.006 del 21 de Abril de 2026 de la Asamblea, inscrito (a) en esta Cámara de Comercio el 30 de Abril  de 2026, con el No.19462 del Libro IX, la sociedad cambió su domicilio de la ciudad de Copacabana - Antioquia a la ciudad de Bello - Antioquia.
+
+Acta No.006 21/04/2026 Asamblea        19462 del 30/04/2026 del L.IX
+
+
+
+
+
+
+
+
+

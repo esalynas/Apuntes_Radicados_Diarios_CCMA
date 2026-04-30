@@ -1,0 +1,52 @@
+30-ABR-2026 [Profesional_Adscrito]
+Radicado:30182887 Mat 466734-12
+Lina Marcela Villa Restrepo
+
+
+PROFESIONAL ADSCRITO A LA SOCIEDAD COMERCIAL
+
+MEDIANTE LA CUAL SE REMUEVE COMO PROFESIONAL ADSCRITO A: NATALY GONZÁLEZ ALVAREZ 
+
+Y SE DESIGNA COMO PROFESIONAL ADSCRITO A: ANA CATALINA GUTIERREZ COSSIO C.C 1.128.274.297.
+
+
+Commit
+OK---Actualizado ESF
+OK---Profesional Adscrito 
+OK---Label, Boletín
+
+
+
+Revisión Previa:_______________________________
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Orden Trámites_________________________________
+793904-12 ProfAdscSocCom -----------OK
+
+
+Indicación Viviana Mira:
+
+ingresas al modulo 132, le ingresas la cc el nombre el cargo... lo llevas a textos y debes hacer label y boletin manual
+ 
+
+
+Cargo:                PROFESIONAL ADSCRITO
+Nombre del Cargo:     APODERADO JUDICIAL Y EXTRAJUDICIAL
+Nombre:               ANA CATALINA GUTIERREZ   
+Identificación:       1128274297
+Tipo de Nombramiento: DESIGNACION 
+
+
+
+EJEMPLO CERTIFICADO
+                         PROFESIONALES ADSCRITOS
+
+Por Extracto de Acta No.19 del 29 de enero de 2026, del Representante
+Legal,  inscrita  en esta Cámara de Comercio el 4 de febrero de 2026,
+con el No.3041 del Libro IX, se designó a:
+
+CARGO                      NOMBRE                       IDENTIFICACION
+
+APODERADO JUDICIAL Y       NATALY  GONZALEZ ALVAREZ     C.C. 43.986.402
+EXTRAJUDICIAL
