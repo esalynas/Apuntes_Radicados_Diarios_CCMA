@@ -1,0 +1,94 @@
+6-MAY-2026[CancelaPjDomi_CanEstLibro]
+Radicado:30133257 Mat 629161-12
+LUISA FERNANDA ROA BETANCUR
+
+reg
+CANCELACION MATRICULA ESTABLECIMIENTO
+CANCELACION PERSONA JURIDICA POR CAMBIO DE DOMICILIO HACIA RIONEGRO
+nuevos datos de contacto
+carta de obs y correo
+
+Commit
+OK----Actualizado ESF
+OK----CancelaPjDomi
+OK----Boletín
+ESP. CANCELACIÓN ESTABLECIMIENTO (668268-02) Mat 629161-10
+ESP. CANCELACIÓN PJ POR CAMBIO DOMICILIO  Mat 629161-12
+ESP. LIBROS Automático Op.8
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact 5630? no
+Tiene alerta: si
+Est está inac O Cancel? Hacer esp OP10: ok
+No se toca el certificado de existencia
+1RO: Hacer especial cambio domicilio.
+Se entrega certificado de libros
+Si tiene libros: Sale Automa Op 8
+No tiene Libros: Hacerlo manual de No Libros baseOp8.
+Nota: Si es mas viejita la soc de 2002 debo revisar expediente porque puede tener libros no migrados y debo hacer especial manual.
+
+Trámite:
+domi anterior y nuevo dmi,
+mod 206, ingresa dat compl.
+
+
+Orden Trámites
+629161-12 Cancela-Est---------ok
+ESP. Cancela Est--------------OK
+629161-12 CancelaPjDomi-------ok
+Esp cambio Domi---------------ok
+Esp. Libros-Manual------------
+
+
+EJEMPLO: Esp cambio domi:
+                           C E R T I F I C A
+
+Que  la sociedad BIOSYNTHESIS PHARMA S.A.S identificada con  el NIT 901221080-6 fue  constituida  por Documento Privado del 24 de Septiembre de 2018 de los Accionistas, inscrito en esta cámara de comercio el 09 de Octubre de  2018  bajo  el  número 25144 del libro IX y se encontraba matriculada en  el  Registro Mercantil bajo el No.21-629161-12
+
+                           C E R T I F I C A
+
+Que según Acta No.06-2026 del 21 de Abril de 2026, de  la Asamblea de Accionistas, inscrita en esta Cámara de  Comercio el 05 de Mayo de 2026, bajo el No.19920 del Libro IX, se aprobó el cambio de domicilio de la ciudad Medellín - Antioquia a la ciudad de Rionegro - Antioquia.
+
+                           C E R T I F I C A
+
+Último año renovado:                 2026
+Fecha de renovación:                 14 de Enero de 2026
+
+RMT-ESF
+
+
+
+ESPCIAL. NO LIBROS.
+
+ESPECIAL NO LIBROS (SALE DE LA OPCIÓN 8)
+ 
+ 
+                               CERTIFICA
+
+NOMBRE                         LEGENDARY LIVING SAS
+SIGLA                          No reportó
+NIT                            N 901228493-6
+MATRICULA NUMERO               21-631391-12 de Noviembre 02 de 2018
+ACTIVOS                       $72.000.000
+
+                                CERTIFICA
+ 
+Que a la fecha de expedición de este certificado no se encuentra inscrito en los registros públicos que administra la Cámara de Comercio ningún libro de a nombre de la persona jurídica.
+
+
+                               CERTIFICA
+
+========================================================================
+  Fecha de Renovación: Noviembre 10 de 2025                            
+========================================================================
+
+        ACTIVIDAD ECONÓMICA CÓDIGO CIIU VERSIÓN 4.0 A.C.
+
+5512: Alojamiento en apartahoteles
+
+5519: Otros tipos de alojamientos para visitantes
+
+5590: Otros tipos de alojamiento n.c.p.
+
+RMT-ESF
