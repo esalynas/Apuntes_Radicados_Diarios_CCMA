@@ -1,0 +1,57 @@
+8-MAY-2026 [PROVIDEN_Error_NIT]
+Radicado:30226429 Mat 1026-21
+NATALIA HURTADO DIAZ
+
+PROVIDENCIA ADMINISTRATIVA Y JUDICIAL ENTIDADES SIN ANIMO DE LUCRO
+Mediante el cual se resuelve: 
+Corregir el registro y la certificación de la inscripción efectuada el 23 de mayo de 2025, en el libro I del Registro de Entidades Sin Ánimo de Lucro, bajo el número de inscripción 1996, en el sentido de certificar que el NIT de la sociedad INTERCONEXION ELECTRICA S.A. E.S.P.-ISA, es 860.016.610-3, quien es miembro principal de la junta directiva de la CORPORACIÓN CENTRO DE INNOVACIÓN Y DESARROLLO TECNOLÓGICO DEL SECTOR ELÉCTRICO -CIDET (21-1026-21).
+
+Commit
+OK----Actualizado ESF
+OK----Providencia
+OK----Corrección NIT
+OK----Aplica Label y Boletín
+
+Revisión:
+No pagan
+A boletín, depende de trámite sujeto a boletín
+Ir al certificado y ver los recursos (206 borran los implicados si los hay)
+Modificar mod que requiero con la corrección.
+Finalmente en 206, 
+pegar mismo label del abogado y pegar al inicio:
+
+MEDIANTE LA CUAL SE RESUELVE:
+y al final
+(Se certifica nuevamente el (Tramite error: Eje Mat-pj) 
+(VER DOC)
+RMT-ESF
+
+Ojo a veces toca hacer crear Mod Para
+mod de consti:poner nombre correcto
+
+Orden Trámites
+1026-21 Providen-AdmJud------
+
+7980 L9
+
+
+ejemplo label Mat-pj (error nombre)
+NOMBRE PERSONA JURIDICA: CLUB DEPROTIVO VALORES DE LA MONTAÑA S.A.S.
+MATRICULA: 834653-12
+Usuario: RMT-KLA
+
+ejemplo label Consti (Error nombre)
+NOMBRE PERSONA JURIDICA: CLUB DEPROTIVO VALORES DE LA MONTAÑA S.A.S.
+SIGLA:
+
+
+OJO: A BOLETIN VA UA CORRECCIÓN SI HAY ERROR EN NUMERO DE NIT O CC.
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     PRINCIPAL
+Nombre:               INTERCONEXIÓN ELÉCTRICA S.A. E.S.P - ISA
+Identificación:       860016610-3 
+Tipo de Nombramiento: DESIGNACION
+
+
+
