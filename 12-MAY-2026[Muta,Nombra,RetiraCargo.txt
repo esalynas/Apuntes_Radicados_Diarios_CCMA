@@ -1,0 +1,44 @@
+12-MAY-2026[Muta,Nombra,RetiraCargoRevi]
+Radicado:30250323 Mat 519977-12
+Lina Marcela Villa Restrepo
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+MEDIANTE LA CUAL SE REMUEVE EL CARGO DE REVISOR FISCAL POR NO SUPERAR TOPES DE LEY Y DEJA DE SER OBJETO DE CERTIFICACIÓN.
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+MEDIANTE LA CUAL SE DESIGNA REPRESENTANTE LEGAL SUPLENTE: LILIANA LOPERA RESTREPO C.C.43.362.437
+OK SIPREF
+
+MUTACIONES COMERCIANTE LIBRO 15
+MEDIANTE LA CUAL SE CAMBIA DIRECCIÓN DE DOMICILIO PRINCIPAL Y DE NOTIFICACIÓN JUDICIAL: CARRERA 74 # 53-71 CONJUNTO INMOBILIARIO NUEVO MUNDO P.H. MEDELLÍN-ANTIOQUIA.
+
+Commit:
+OK----Actualizado ESF
+OK----Mutación: Dir Ppl y Judi
+OK----Designación Rep Legal Sup
+OK----Remover Cargo Rev Fiscal 
+OK----Boletín
+Ajuste Cert al esquema.
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+Orden Trámites
+343949-12 MutaCteL15-----------OK
+343949-12 DesRemRv-SocCom------ok
+343949-12 DesRemRv-SocCom------30250329  rep legal supl
+Ajuste Cert al esquema---------NA Contingencia
+
+
+
+Vivi:
+se hace como remoción a la persona que venía, se lleva a boletín como remoción y se borra todo del certificado
+
+
+Cargo:                REVISORIA FISCAL
+Nombre del Cargo:     REVISOR FISCAL PRINCIPAL
+Nombre:               ANTONIO JOSE TAMAYO BUITRAGO
+Identificación:       98659954
+Tipo de Nombramiento: REMOCIÓN
