@@ -1,0 +1,134 @@
+12-MAY-2026[Poder_Otorga]
+Radicado:30247581 Mat 4217-12
+CARLOS ANDRES RUIZ GUTIERREZ
+
+PODER OTORGAMIENTO
+SE OTROGA PODER A CATALINA OSORIO SIERRA  
+
+Commit:
+OK----Actualizado ESF
+OK----Poder Otorgamiento
+OK----Boletín
+
+Corrección Abogad@: 
+
+Revisión previa:
+Paga derechos cámra
+Firmado por rep legal
+Se da a 1 o varias personas
+Libro 5 acto 1
+Revocatoria Libro 5 Acto 3
+Va Boletín.
+NOTA: SI SON VARIOS
+Si tienen ambos al tiempo prevale otorgamiento y el acto de revoca, se hace manualmente a label y boletín.
+ojo: si son poderes o revocaciones varias personas:
+(Buscar correo llamado "Actualización de Poderes")
+Y toca Label y Boletín (manual ) con Mod Inscripción
+Ver facultades en el documento.
+
+El apoderado acepta? no, lleva esta etiqueta
+Nombre apoderado
+Identificación
+Estado Nombramiento: SIN ACEPTACIÓN
+Tipo de poder (especial, general) ? ESPECIAL
+
+nota: Si es uno sólo
+Label y bole automático
+Detalle: Se confiere poder …
+
+MOD11. Ingreso a la persona
+en facultades inicial con los datos del doc que trajo cte.
+ejemplo E.P. No.967 del 20/04/2026 Not.20 Medellín, seguido el texto del poder.
+grabar, luego clic a textos, y copiar lo mio al final
+
+Orden Trámites
+Poder-Otorga---------------OK
+
+CATALINA OSORIO SIERRA   CC. 1.037.594.532
+
+
+E.P. No.967 del 20/04/2026 Not.20 Medellín, CONFIERE PODER ESPECIAL, amplio y suficiente para que obrando en condición de apoderado en nombre y representación de PREBEL S.A.S. BIC, con NIT 890.905.032-1, efectúe endoso y autorizaciones mediante su firma en los documentos requeridos a favor de las sociedades de intermediación aduanera que nos representan ante la DIAN, en trámites de nacionalización y demás que deban adelantar para obtener el levante para consumo de las mercancías a nuestro nombre, así como para realizar las demás actividades y firmar todos los documentos inherentes al comercio exterior, sea que estén relacionados con operaciones de importación y/o exportación de mercancías. 
+
+
+
+__________________________________
+ejemplo mat Deysi:  444469-4  RADI 30234249
+
+label:
+Nombre del Apoderado: CARLOS MAURICIO ARANGO DOMINGUEZ
+Identificación:       94533481
+Clase de Poder:       GENERAL
+Ver facultades en el documento.
+Usuario: RMTDLA
+
+Boletín:
+
+Nombre del Apoderado: CARLOS MAURICIO ARANGO DOMINGUEZ
+Identificación:       94533481
+
+
+FACULTADES:
+
+
+Acto:                PODER_OTORGAMIENTO
+Documento:           ESCRITURA PÚBLICA Nro.: 973 Fecha: 2026/04/17 DE LA
+                     NOTARÍA 3 DE MEDELLÍN
+Procedencia:         REPRESENTANTE LEGAL
+Nombre Apoderado:    CARLOS MAURICIO ARANGO DOMINGUEZ
+Identificación:      94533481
+Clase de Poder:      GENERAL
+Inscripción:         2026/05/09 Libro: 5 Nro.: 85
+
+
+Facultades del Apoderado:
+
+Se confiere PODER GENERAL, amplio y suficiente, para que:
+
+1)  Contratación  de  obras  e  infraestructura:  Para  que, en nombre y
+representación  de  la  sociedad, celebre, suscriba, ejecute, modifique,
+adicione,    prorrogue,    suspenda,   liquide  y  termine  contratos  y
+subcontratos  de  obra,  construcción,  infraestructura  y  afines,  con
+entidades   públicas  y  privadas,  incluyendo  procesos  de  selección,
+contratación  directa,  licitaciones,  concursos,  convenios,  contratos
+interadministrativos  y  cualquier  otra modalidad contractual permitida
+por  la,  ley, así como los documentos precontractuales, contractuales y
+poscontractuales a que haya lugar.
+
+2)  Contratación  de equipos, maquinaria y vehículos: Para que celebre y
+suscriba  contratos  con  entidades públicas y privadas relacionados con
+equipos,  maquinaria  pesada o liviana, maquinaria amarilla y vehículos,
+incluyendo  contratos  de  compraventa, leasing, arrendamiento, renting,
+mantenimiento,  suministro,  operación,  comodato  y similares, así como
+otrosíes, actas, órdenes de compra y demás documentos necesarios para su
+ejecución.
+
+3)  Traspasos  y actos sobre maquinaria y vehículos: Para que adelante y
+suscriba  los  actos y documentos necesarios para el traspaso, registro,
+matrícula,  cancelación,  levantamiento de prenda, endoso, transferencia
+de  dominio  y demás actuaciones relacionadas con maquinaria y vehículos
+ante  las  autoridades  de  tránsito,  registros  públicos,  cámaras  de
+comercio, aseguradoras y demás entidades competentes.
+
+4)  Gestión  Y  actuaciones ante entidades públicas y privadas: Para que
+represente    a    la   sociedad  ante  entidades  del  orden  nacional,
+departamental  y  municipal,  autoridades  administrativas, entidades de
+control,  empresas  públicas y privadas, personas naturales o jurídicas,
+pudiendo    radicar    solicitudes,    presentar    documentos,  atender
+requerimientos,    realizar   trámites,  diligencias  administrativas  y
+contractuales,    y    suscribir  los  escritos,  formularios,  actas  y
+comunicaciones  que  se  requieran para el cumplimiento de las funciones
+aquí otorgadas.
+
+5) Actos accesorios y complementarios: Para que realice todos los actos,
+gestiones  y  suscriba  los  documentos  que  sean necesarios, conexos o
+complementarios  para la adecuada ejecución de las facultades conferidas
+en  materia de contratación de infraestructura y equipos, siempre dentro
+del objeto social de la compañía y conforme a la ley.
+
+Las  facultades  conferidas en los numerales anteriores se ejercerán con
+sujeción  a  las  mismas  limitaciones  por  cuantía,  autorizaciones  y
+controles  previstas  para  los representantes legales de la sociedad en
+los  estatutos  sociales  de  la  sociedad,  sin  que  en ningún caso el
+apoderado pueda exceder los montos máximos allí establecidos.
+
+
