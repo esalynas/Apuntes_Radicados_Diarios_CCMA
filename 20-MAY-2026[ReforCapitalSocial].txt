@@ -1,0 +1,191 @@
+20-MAY-2026[ReforCapitalSocial]
+Radicado:30285163 Mat 564489-3
+YULIANA MARCELA LOPEZ MEDINA
+
+REFORMA CAPITAL SOCIEDAD COMERCIAL
+aumenta el capital y el aporte de cada socio ver pág. 4
+
+Commit:
+OK---Actualizado ESF
+OK---Reforma Capital Social , Aporte socios.
+OK---Label/Boletín
+
+Revisión previa
+Comercial libro 9,civil 13,Azar 22? si, 9
+Tiene alerta: si
+es cesión o reforma? reforma
+
+si es reforma de capital:
+Mod 2 Listado refor
+Mod 6 : Capital, modificarlo e ir a textos copiar sugerido.
+Mód 10 Socios: Clic en modificar y cambio lo que necesito e ingreso al nuevo, clic a textos y revisar que coincida.
+mod 206.
+finalmente, generar label y bole, elegir plantilla, Capital
+
+
+si es cesión de cuotas
+Mod Listado refor
+Mód 10 Socios: Clic en modificar y cambio lo que necesito e ingreso al nuevo, clic a textos y revisar que coincida.
+Mód 118 Cesión: Ingre NombreCedente Cesionario y Cuota (OJO, ingresarlos todos en el mismo recuadro cuando son varios, separados por coma).
+mod 206.
+finalmente, generar label y bole, elegir plantilla, cesión cuotas.
+
+
+Orden Trámites
+564489-3 ReforCapitalSoc-----------ok 
+Ajustar certificado al esquema------NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________
+CUANDO ES CESIÓN DE CUOTAS:
+CUando ceden dos o mas personas
+Mat ejemplo: 702012-3
+
+label:
+REFORMA CESION DE CUOTAS:
+Cedente:    YOVANY HUMBERTO ACOSTA PEDRERO  Y SANTIAGO  HERRERA FAJARDO
+Cesionario: ALBERT AUGUSTO GONZAL VASCO, ADRIANA GOMEZ BLANDON, SANTIAGO GONZALEZ GOMEZ, DANIELA GONZALEZ GOMEZ
+Nro. Cuotas Cedidas: 546,00
+
+El capital social corresponde a la suma de $546.000.000,00 dividido en 546.000,00 cuotas de valor nominal de $1.000,00 cada una, distribuido así:
+Socios capitalistas
+
+AFCS S.A.S.                                 N. 901.033.680 
+No. de cuotas:         50.000,00            Valor:      $50.000.000,00
+CLAVE ASESORÍA S.A.S.                       N. 901.170.230 
+No. de cuotas:         40.000,00            Valor:      $40.000.000,00
+CAPITAL EXPONENCIAL S.A.S.                  N. 901.264.480 
+No. de cuotas:         50.000,00            Valor:      $50.000.000,00
+FUTURO60 S.A.S.                             N. 901.616.896 
+No. de cuotas:         50.000,00            Valor:      $50.000.000,00
+ALEJANDRA  VELEZ PELAEZ                     C. 43.250.310 
+No. de cuotas:         10.
+
+
+Usuario: RMT-ESF
+
+
+
+BOLETÍN
+
+Cedente:    YOVANY HUMBERTO ACOSTA PEDRERO  Y SANTIAGO  HERRERA FAJARDO
+Cesionario: ALBERT AUGUSTO GONZAL VASCO, ADRIANA GOMEZ BLANDON, SANTIAGO GONZALEZ GOMEZ, DANIELA GONZALEZ GOMEZ
+Nro. Cuotas Cedidas: 546,00
+
+
+
+
+__________________________________
+
+Cuando es sólo un cedente
+Mat ejemplo: 702012-3
+
+
+label:
+
+REFORMA CESION DE CUOTAS:
+Cedente:    CARLOS PEREZ GONZALEZ
+Cesionario: JORGE DEISON MACIAS RIAÑO
+Nro. Cuotas Cedidas: 200,00
+
+CAPITAL  Y  SOCIOS:   Que el capital de la sociedad  es  de  $800.000.00
+dividido  en  800 cuotas de un valor de $1.000.00 cada una,  distribuido
+asi:
+Socios capitalistas
+
+AFCS S.A.S.                                 N. 901.033.680 
+No. de cuotas:         50.000,00            Valor:      $50.000.000,00
+CLAVE ASESORÍA S.A.S.                       N. 901.170.230 
+No. de cuotas:         40.000,00            Valor:      $40.000.000,00
+CAPITAL EXPONENCIAL S.A.S.                  N. 901.264.480 
+No. de cuotas:         50.000,00            Valor:      $50.000.000,00
+FUTURO60 S.A.S.                             N. 901.616.896 
+No. de cuotas:         50.000,00            Valor:      $50.000.000,00
+ALEJANDRA  VELEZ PELAEZ                     C. 43.250.310 
+No. de cuotas:         10.
+
+
+Usuario: RMT-ESF
+
+
+boletpin:
+Cedente:    CARLOS PEREZ GONZALEZ
+Cesionario: JORGE DEISON MACIAS RIAÑO
+Nro. Cuotas Cedidas: 200,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ejemplo texto (cede por muerte)
+
+ADJUDICACIÓN.  Por  Escritura  pública  No.  2289 del 18 de noviembre de
+2025,  de  la  Notaría  31  de  Medellín, inscrito (a) en esta Cámara de
+Comercio el 12 de marzo de 2025 con el No. 9157 del Libro IX, se llevo a
+cabo el trabajo de partición y adjudicación de bienes dentro del proceso
+de  sucesión  de la señora MARIA ROCIO RESTREPO CUARTAS, en la cual hubo
+adjudicación de cuotas sociales.
+
+
+
+ejemplo listado de reformas con Escritura Pública
+DOCUMENTO                                 INSCRIPCION           
+E.P.No.2875 de 15/09/1993 Not.13 Medellín 10450 de 24/09/1993 de L.IX  
+
+
+
+                                CAPITAL
+
+El  capital  social corresponde a la suma de $250.000.000,00 dividido en
+250.000,00  cuotas  de  valor nominal de $1.000,00 cada una, distribuido
+así:
+
+Socios capitalistas
+
+RICARDO ANDRES RENDON RESTREPO              C.C. 1.017.167.890 
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+Totales
+No. de cuotas:        250.000,00            Valor:     $250.000.000,00
+
+
