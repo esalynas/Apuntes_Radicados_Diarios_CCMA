@@ -35,9 +35,9 @@ Orden Trámites
 564489-3 ReforCapitalSoc-----------ok 
 Ajustar certificado al esquema------NA
 
+OJO, SIEMPRE AL GENERAR EL BOLETÍN MANUAL, REVISAR EL TEXTO Y QUITAR LA FRASE, "distribuido así:"
 
-
-
+mod-ins-firmada  22100 libro 9 50539868
 
 
 
