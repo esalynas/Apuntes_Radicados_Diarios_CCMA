@@ -1,0 +1,104 @@
+25-MAY-2026[Reorga_AperturaProceso]
+Radicado:30287218 Mat 634666-12
+KAROL MILENA 
+
+Mediante la cual se admite a la sociedad INMOBILIARIA LA HEREDAD S.A.S. con NIT:901.241.697, al proceso de Reorganización Abreviado de conformidad con loexpuesto en la parte motiva de esta providencia y el artículo 18 de la Ley 2437 de 2024.
+S decreta el embargo. Se designa como promotor a: Ana Lucía Builes López, ok posesión
+
+Commit:
+OK----Actualizado ESF
+OK----Inicia Proceso Reorganización Abreviado
+OK----Designación Promotor
+OK----Label / Boletín
+
+Corrección Abogado:
+Procedencia en trámites 634666-12 ProReorgAbrevPI y
+Nom-PromProcReo, es SUPERINTENDENCIA DE SOCIEDADES
+
+Revisión previa:
+(1RO)Inicio Reorganización:
+Libro XIX
+Documentos:
+1-AUTO con constancia ejecutoria.
+2-AVISO.
+Módulo 114 ( Módulo procesos especiales)
+Se certifica el auto como el aviso y se relacionando el inicio del proceso de orga.
+
+EJEMPLO TEXTO MOD 114:
+APERTURA AL PROCESO DE REORGANIZACIÓN ABREVIADO: Mediante Auto No.610-038506 del 23 de Abril de 2026, y Aviso del 14 de Mayo de 2026, de la Superintendencia de Sociedades, inscritos en esta Cámara de Comercio el 22 de Mayo de 2026, en el libro XIX, con el No.260, se admite a la sociedad al proceso de reorganización regulado por la Ley 1116 de 2006 y las normas que la complementan o adicionan.
+
+En Razón social: no poner expresión.
+No se remueven órganos.
+Certificación:
+Nro y fecha de AUTO y AVISO.
+Datos y fecha de inscripción.
+OJO NO relacionar datos de la sociedad como dir o domi.
+
+(2DO)Designación Promotor
+libro XIX, 
+DOCUMENTO:
+1-AUTO
+2-POSESION.
+modULO 65, se relaciona el AUTO y Aviso.
+SE CONSERVAN LOS ORGANOS.
+-Ejemplo del texto del nombramiento en el certificado, con el auto y aviso.
+
+Por Auto No.610-038506 del 23 de abril de 2026 y Aviso 14 de Mayo de 2026, de la Superintendencia de Sociedades de Medellín, inscrito(a) en esta Cámara de Comercio el 22 de mayo de 2026, con el No.261 del Libro XIX, se designó a: 
+
+ejemplo Etiqueta de LABEL Y BOLETÍN para promotor
+
+ENTIDAD NOMINADORA.............SUPERINTENDENCIA DE SOCIEDADES DE MEDELLÍN
+
+Cargo:                PROMOTOR 
+Nombre del Cargo:     PROMOTOR 
+Nombre:               ANA LUCIA BUILES LOPEZ 
+Identificación:       21701277
+Tipo de Nombramiento: DESIGNACION
+
+
+
+(3RO) Embargo Est ? si
+Lo hace el abogado
+módulo 13, referencia auto y aviso.
+
+(4TO) Orden de Coordinación? no
+
+
+Orden Trámites
+634666-12 ProReorgAbrevPI------OK
+634666-12 Nom-PromProcReo------OK
+
+
+Cómo generar:
+pest boletín: Deudor es la sociedad, pego nombre sin la expresión en liquida. clic buscar
+
+Módu 114. Pegar el texto de apertura.
+
+
+Label manual en mod 206: 
+
+MEDIANTE EL CUAL RESUELVE:..……(pegar lo copiado)
+
+Admitir a la sociedad INMOBILIARIA LA HEREDAD S.A.S. con NIT: 901.241.697, al proceso de Reorganización Abreviado de conformidad con lo expuesto en la parte motiva de esta providencia y el artículo 18 de la Ley 2437 de 2024.
+
+APERTURA AL PROCESO DE REORGANIZACIÓN ABREVIADO: Mediante Auto No.610-038506 del 23 de Abril de 2026, y Aviso del 14 de Mayo de 2026, de la Superintendencia de Sociedades, inscritos en esta Cámara de Comercio el 22 de Mayo de 2026, en el libro XIX, con el No.260, se admite a la sociedad al proceso de reorganización regulado por la Ley 1116 de 2006 y las normas que la complementan o adicionan.
+
+NOMBRE DEUDOR.............INMOBILIARIA LA HEREDAD S.A.S.
+
+
+(VER DOC)
+RMT-ESF
+
+
+ejemplo mat KLA  395012-12
+
+
+
+
+NOMBRE DEUDOR.............INMOBILIARIA LA HEREDAD S.A.S.
+
+
+
+
+
+
