@@ -1,0 +1,45 @@
+25-MAY-2026[Cancela_SituacionControl]
+Radicado:30308862 Mat 667284-12
+LUISA FERNANDA ROA BETANCUR
+
+reg
+Mediante la cual se cancela la situación de control: 
+MATRIZ: BAENA CALLE ROLANDO     
+DOMICILIO: ENVIGADO - COLOMBIANA
+CONTROLA DIRECTAMENTE A:
+667284-12 PLEZATI S.A.S.
+
+Commit
+OK---Actualizado ESF
+OK---Cancela Sit Control
+OK---Boletín
+Nota: se inactiva -97 y 98 porque no tiene pendientes.
+
+Revisión previa
+Revisar si hay más controladas? no
+Cual es el controlante= 649130-98
+cual es la sit Control= 649130-97
+
+CÓMO?
+1 Trámite SitConCancela
+Boletpin automá, clic -12
+mod 206, y mod 20.
+pestaña grupo/situación, modificar inactivo, grabar
+Pestaña controlante, modificar inactivo, grabar  
+Pestaña controlada, la selecciono, modificar inactivo, grabar. check
+grabar y generar label y boletín.
+
+2. Nota: si todo es con NoMat (97-98) y no tiene más controladas, y no tiene establecimientos o sociedad de hecho (pestañas), se puede inactivar así:
+
+crear en mtto trámites por cada uno (sit, controlante):
+CancelaCteSinIn
+
+Generarlo y hacerle la clave (adicionar y salvar) y listo
+
+
+Orden Trámites
+649129-97 SitCon-Can-Com-------- 
+CancelaCteSinIn (649129-97)------50539863  OK
+CancelaCteSinIn (649130-98)------50539865  OK
+
+MEDIANTE LA CUAL SE CANCELA SITUACIÓN DE CONTROL.
