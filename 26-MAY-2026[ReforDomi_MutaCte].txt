@@ -1,0 +1,58 @@
+26-MAY-2026[ReforDomi_MutaCte]
+Radicado:30247008 Mat 845097-12
+ANGIE GOMEZ GIL
+
+RAD ASOCIADOS 30320636-30247008
+CAMBIO DOMICILIO DOMICILIO: MEDELLÍN
+
+MUTACIONES CCIANTE
+CAMBIO DIRECC EN EL NUEVO DOMICILIO
+CAMBIO DIREC NOTIF JDCL
+
+Commit
+OK----Actualizado ESF
+OK----Reforma Cambio Domicilio 
+OK----Mutación Cte: Dir PPl y Dir Notifi
+OK----Label y Boletín
+
+Corrección Abogad@:
+
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+cómo?
+1) ing dat comple,Partesupe,elijo el domi
+2) Listado reformas
+3) Reformas especiales.
+
+Mutac:
+mód 91
+
+
+Orden Trámites
+845097-12 ReforSociedad-------ok
+845097-12 MutaciónCteL15------ok
+
+
+
+Label:
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO DE LA SOCIEDAD ASÍ:
+
+ejemplo texto cambio Domi (Mod 171- REFORMAS ESPECIALES):
+
+Por Acta No.001-2026 del 22 de Mayo de 2026 de la Asamblea, inscrito (a) en esta Cámara de Comercio el 25 de Mayo  de 2026, con el No.22834 del Libro IX, la sociedad cambió su domicilio del municipio de Bello - Antioquia, al municipio de Medellín - Antioquia.
+
+Acta No.001-2026 del 22/05/2026 de Asamblea     22834 25/05/2026 del L.IX
+
+
+
+
+
+
+
+
+
+
