@@ -1,0 +1,57 @@
+26-MAY-2026 [Remueve_Profesional_Adscrito]
+Radicado:30319693 Mat 539362-12
+CAROLINA GOMEZ JIMENEZ
+
+PROFESIONAL ADSCRITO A LA SOCIEDAD COMERCIAL
+PROFESIONAL ADSCRITO    FELIPE  LOPEZ ACEVEDO  REVOCADO
+
+
+Commit
+OK---Actualizado ESF
+OK---Remoción Profesional Adscrito 
+OK---Label, Boletín
+
+Revisión Previa:_______________________________
+Tiene aceptación?:na
+Tiene SIPREF?:na
+
+Orden Trámites_________________________________
+539362-12 ProfAdscSocCom -----------OK
+
+ingresas al modulo 132, le ingresas la cc el nombre el cargo... lo llevas a textos y debes hacer label y boletin manual
+
+Vivi:
+se hace como remoción a la persona que venía, se lleva a boletín como remoción y se borra todo del certificado
+
+Cargo:                PROFESIONAL ADSCRITO
+Nombre del Cargo:     PROFESIONAL ADSCRITO
+Nombre:               FELIPE  LOPEZ ACEVEDO
+Identificación:       1017235215
+Tipo de Nombramiento: REMOCION
+
+
+_________________________________________________
+Indicación Viviana Mira. Nombramiento:  Mat ejemplo
+793904-12
+
+ingresas al modulo 132, le ingresas la cc el nombre el cargo... lo llevas a textos y debes hacer label y boletin manual
+ 
+Cargo:                PROFESIONAL ADSCRITO
+Nombre del Cargo:     APODERADO JUDICIAL Y EXTRAJUDIC
+Nombre:               ANA CATALINA GUTIERREZ   
+Identificación:       1128274297
+Tipo de Nombramiento: DESIGNACION 
+
+
+
+EJEMPLO CERTIFICADO
+                         PROFESIONALES ADSCRITOS
+
+Por Extracto de Acta No.19 del 29 de enero de 2026, del Representante
+Legal,  inscrita  en esta Cámara de Comercio el 4 de febrero de 2026,
+con el No.3041 del Libro IX, se designó a:
+
+CARGO                      NOMBRE                       IDENTIFICACION
+
+APODERADO JUDICIAL Y       NATALY  GONZALEZ ALVAREZ     C.C. 43.986.402
+EXTRAJUDICIAL
