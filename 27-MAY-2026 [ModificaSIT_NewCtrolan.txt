@@ -1,0 +1,90 @@
+27-MAY-2026 [ModificaSIT_NewCtrolante]
+Radicado:30335474 MAT 769519-12
+CARLOS ANDRES RUIZ GUTIERREZ
+
+
+MATRIZ Y SUBORDINADAS_SITUACION  DE CONTROL_MODIFICACION
+EL NUEVO CONTROLANTE DE LA SOCIEDAD ES CASTRO GUISANDE GONZALEZ.  
+
+Commit
+OK---Actualizado ESF
+OK---Modifica Sit Control Nuevo controlante.
+OK---Label/ Boletín
+
+
+
+Corrección abogad@: 
+
+Revisión:_______________________________
+Existe SIT? SI 
+   Gran SIT: 645841-97
+Controlante: 719697-98  activo? si
+Controladaa: 769519-12  siglo de las luces
+Trámite se crea sobre la Gran SIt(97)-- ok
+Tiene Verifica identidad----ok
+
+Boletín automa
+Mat asociadas= Gran sit, el que sale, el que entra.: ok
+si el que llega es -1 o -12, se deben hacer dos registros. (sit control vinculada)
+Generar 206 x cada una de las que intervinen.
+Luego sit mod 20.
+voy a pestaña controlante
+pararse en el que sale, clic Modificar, inactivo Grabar
+ingreso al nuevo.
+Actividad: (La que diga en doc )
+Fecha Cofig: (La que digan)
+Documento: (el que traigan) " PRIVADO DEL 25 DE MAYO DE 2026"
+
+LUEGO, IR a pestaña Controlada
+la selecciono, clic en modificar y en el documento poner el del nuevo controlante eje 
+
+documento: PRIVADO DEL 25 DE MAYO DE 2026
+presupesto: el que traigan en el doc
+actividad: reemplazar por la que tajeron
+fecha config: la que trajeron 
+
+grabar, check. label y bbletin confirmar.
+
+si el controlante que sale es -98, ? si  645842-98
+si tiene algo que lo amarre lo dejo y si no lo inactivo
+ejemplo
+tiene est? no
+socied hecho? no
+otras sit control activas? no
+
+se inactiva así: 
+crear trámite: cancelaCteSinIn
+generar clave ok
+
+
+Orden Trámites__________________________
+645841-97 SitCon-Mod-Com --------  OK
+Cancelar al controlante viejo -98 si no tiene pendi
+645842-97 cancelaCteSinIn --------  OK
+
+_____________________________________
+ejemplo del texto:
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 10 DE FEBRERO DE 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
