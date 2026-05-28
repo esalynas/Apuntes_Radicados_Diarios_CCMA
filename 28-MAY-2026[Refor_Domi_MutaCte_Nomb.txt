@@ -1,0 +1,78 @@
+28-MAY-2026[Refor_Domi_MutaCte_NombraR]
+Radicado:30214242  Mat 531327-12
+JULIET ALEJANDRA MONTOYA BETANCUR
+
+
+RADICADOS ASOCAIDOS 30214242- 30331936
+REFORMAS SOCIEDAD COMERCIAL
+RAZON SOCIAL
+CAMBIO DOMICILIO
+
+DESIGNACION, REMOCION, REVOCACION DE ADMINISTRADORES DE SOCIEDADES COMERCIALES
+NOMBRAMIENTO REPRESENTANTE LEGAL
+SIPREF OK
+
+MUTACION
+,Dirección domicilio principal
+Reemplazar teléfono COMERCIALES
+Dirección de notificación judicial
+Reemplazar teléfono notificación judicial 
+
+Commit:
+OK----Actualizado ESF
+OK----Reforma Razón social
+OK----Reforma Cambio Domicilio
+OK----Mutación Cte: Dir PPl y Dir Notifi
+OK----Label y Boletín
+OK----Designación Rep legal 
+OK----Boletín
+
+Corrección Aboga@:
+Ciudad en trámite Reforma y Designación es BELLO.
+Fecha de la Mutación debe ser la fecha de inscp. 2026/05/27 
+La comunicación de Mutación no debe llevar No.
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact? no
+Tiene alerta: si
+
+cómo?
+1) ing dat comple,Parte supe,elijo el domi
+2) Listado reformas
+3) Reformas especiales.
+
+Mutac:
+mód 91
+
+Orden Trámites
+531327-12 ReforSociedad-------OK
+531327-12 MutaciónCteL15-------OK
+531327-12 DesRemRv-SocCom------OK
+Ajuste Cert al esquema---------NA
+
+
+
+Label:
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO DE LA SOCIEDAD ASÍ:
+
+ejemplo texto cambio Domi (Mod 171- REFORMAS ESPECIALES):
+
+Por Acta No.12 del 23 de Abril de 2026 de la Asamblea, inscrito (a) en esta Cámara de Comercio el 27 de Mayo  de 2026, con el No.23241 del Libro IX, la sociedad cambió su domicilio del municipio de Bello - Antioquia, al municipio de Girardota - Antioquia.
+
+Acta No.12 del 23/04/2026 de Asamblea       23241 del 27/05/2026 del L.IX
+
+
+MEDIANTE LA CUAL SE APROBÓ LA REFORMA DEL NOMBRE O RAZÓN SOCIAL, QUEDANDO ASÍ:
+
+Por Acta No.12 del 23 de Abril de 2026 de la Asamblea, inscrito (a) en esta Cámara de Comercio el 27 de Mayo  de 2026, con el No.23241 del Libro IX, la sociedad cambió su denominación o razón social de DISTRIBUCIONES MATSAN S.A.S. a FUNAM SAS.
+
+
+
+
+
+
+
+
+
+_
