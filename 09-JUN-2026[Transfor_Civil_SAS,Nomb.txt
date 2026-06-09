@@ -1,0 +1,316 @@
+09-JUN-2026[Transfor_Civil_SAS,Nombra]
+Radicado:30320749 Mat 371735-7
+NATALIA HURTADO DIAZ
+
+TRANSFORMACION A SAS
+NOMBRAMIENTO GERENTE VITALICIO Y SUPLENTES
+SE DEJA DE CERTIFICAR AL REVISOR FISCAL
+OK ACP  Y SIPREF.
+MATRICULA PERSONA JURIDICA CAMBIO DE NATURALEZA DE CIVIL A COMERCIAL
+
+Commit:
+OK----Actualizado ESF
+OK----Clave Transformación
+OK----Transformación
+OK----Designación Gerente Vitalicio y Sup
+OK----MatPjCivilComercial
+OK----Boletín
+
+Nota: Por favor no firmar, en revisión el trámite de nombramiento, pues en capacitación de transformaciones, los nomramientos se hacen dentro del mismo trámite de transforma.
+
+
+
+DE CIVIL A COMER
+sólo SI TIENE MATRÍCULA MERCANTIL, si no tiene, se hace de otra forma.
+
+Realizar clave de transfor
+Actualizar trámite transfor
+Actualizar MatPJCivil a comer
+
+
+en tramite transfor. se deb ir datos comple
+actualizar naturaleza (poner comercial), dir, domi, vigencia, inicio labores, cuan permita hacerlo.
+
+
+Casos De Transformación De Civil A Comercial:
+
+1.Si tiene objeto civil, con matricula mercantil libro 15 (-7, -4, -3, etc), se debe cancelar la mat pj (cancel matricula sociedad civil) y volver a matricular (mat pj civil a comercial). Se usa la misma matricula para los tramites.
+
+2.Si tiene objeto civil, sin matricula (-93 -7, -4, -3, etc), deben diligenciar formulario de matrícula, debe estar renovada desde el 2012. Si esta renovada al mismo año no paga matricula.
+
+3.Si tiene objeto mixto, con matricula, ha venido renovando, cambia naturaleza a comercial, no vuelve a matricularse, esta adecuando su naturaleza, y se genera transformación.
+
+4.Si tiene objeto mixto, sin matrícula, debe ponerse al día por renovación desde el 2012 y matricularse.
+
+
+ejemplo mat 163504-3 reactiva transfo  nombra
+a boletín simpre va la tranformación.
+etiqueta
+etiquete de cambio nombre, transformación, y cambio domicilio de la sociedad para el boletín y label cuando debemos llevarlo manualmente 
+ 
+TRANSFORMACIONES Y CAMBIO NOMBRE BOLETIN
+ 
+TIPO SOCIETARIO ANTERIOR:…………………….
+NUEVO TIPO SOCIETARIO:………………………..
+ 
+Nombre Anterior Persona Jurídica……………..
+Nuevo Nombre   Persona Jurídica..…………...
+ 
+Sigla Anterior Persona Jurídica……………………..
+Nueva Sigla    Persona Jurídica…………………...
+ 
+NUEVO DOMICILIO PERSONA JURIDICA.............…
+DOMICILIO ANTERIOR PERSONA JURIDICA..........…
+
+van los nombramientos y van manualmente.
+si hay cambio de nombre también manual  (ojo tipo societario, no es cambio nombre)
+No van boletín:
+los aumentos de capi, pero a label si (Antiguo y Nuevo).
+
+
+Revisión TRANSFORMA
+GuiónAnterior
+Tiene SIT?= no
+Consti por Escritura, trans debe ser Escritura o Doc Privado--OK
+si va -4, -7, del mismo doc de consti inicial.  OK
+COMER L9, Civ L13, Azar L22, SI COMER
+Es ley 1014 2016, doc Pri o Acta
+Pagan derechos Cámara
+Tiene nombramientos? = si
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Conservar lo que tenían (SITcon,Prendas, Embargo): no tiene
+Si no pasan automá, hablar TI.
+OJO:crear primero la clave de transfor, con guión viejo, y se pone el nuevo nombre, sigla.
+CL-Transforma. (Ojo el guión antiguo queda inactivo.
+Si tiene rev fiscal= en transfoma ? No continúa
+
+
+
+PRIMERO_________________
+como? CREAR Trámite cl-transforma CON guion viejo 371735-7
+actualizar cl-transforma: 50541072
+adicionar
+tipo comerciante: elegir al nuevo eje 12
+Nuevo nombre: el que diga los estatutos de la transf 
+sigla: si la trae.
+salvar.  check.
+
+SEGUNDO__________________
+cómo?
+HACER EL OCR en Word de los nuevos estatutos.
+Luego trámite Transfor-SocCom:
+pest boletín ingresar tipo antes y nuevo (para ver el antiguo ir a op4 certificaco en constitución dice cual es)
+ejemplo:
+
+TIPO SOCIETARIO ANTERIOR:.............SOCIEDAD CIVIL
+NUEVO TIPO SOCIETARIO:................SOCIEDAD POR ACCIONES SIMPLIFICADA
+
+Si hubo cambios de nombre o domi si aplican ejemplos:
+
+TIPO SOCIETARIO ANTERIOR:…………………….
+NUEVO TIPO SOCIETARIO:………………………..
+ 
+Nombre Anterior Persona Jurídica……………..
+Nuevo Nombre   Persona Jurídica..…………...
+ 
+Sigla Anterior Persona Jurídica……………………..
+Nueva Sigla    Persona Jurídica…………………...
+ 
+NUEVO DOMICILIO PERSONA JURIDICA.............…
+DOMICILIO ANTERIOR PERSONA JURIDICA..........…
+
+Nombramientos también los llevo manual.
+Si cambián de capitales NO SE LLEVA A Boletín solo a label.
+
+nombre anterior, y nuevo nombre si aplica
+SOCIOS, BORRAR DEL Certificado si pasa a SAS
+
+Es como una consti.
+Abogado me dice que pasa con el revisor fiscal.
+si trai junta preguntar si la dejamos o la quitamos.
+luego
+llenar mod listado refor
+mod refor especiales. (Por Extracto de Acta No.26 del 15 de Mayo de 2026 de Asamblea de Accionistas, inscrito(a) en esta Cámara de Comercio el 02 de Junio de 2026 con el No.23865  del Libro IX, La sociedad se transformó de Sociedad Civil a Sociedad por Acciones Simplificada, denominándose INVERSIONES LOS ACANTILADOS LONDOÑO S.A.S.).
+
+clic otra info comple, y la lleno con el RUES como mat normal,
+OJO CAMBIAR LA NATURALEZA  que corresponda eje : Comercial, ojo que esto puede borrar info judicial.
+ si cambia vigencia, domi, y borrar lo que no esté en nuevo estatuto.
+ojo en fecha inicio poner : fecha de la matricula parte superior profgress.
+
+clic pestaña renovación ojo dar clic al año correponciente:
+clic actualizar
+Activo : llen0 con h2 rues
+salvar.
+
+pstaña activi
+Actualizo la fecho y que necesite con el rues
+
+pestaña financiera, clic aL Año correspondiente:
+y actualizado hs rues  (no tener en cuenta decimales)
+
+IR A PESTAÑA DE grupos etnicos y actualizar
+
+check.
+
+Módulos:
+llenarlos como cosnti normal
+modificar cada módulo
+modu nombramiento, inactivo los que venían ingreso los nuevos
+si se mantiene rev fiscales, solo enrar al mpodulo y adecuar no borrar.
+ya a los otros mposulos los borro si no están en los nuevos estatutos. 
+
+
+VA Boletín:
+Tipo soc anterior y nuevo (correo etiquetas)
+Nombramientos si los hay
+Cambio de nombre si lo hay
+No van los aumentos de capi, pero a label si (Antiguo y Nuevo).
+
+
+MEDIANTE LA CUAL SE APROBÓ LA TRANSFORMACIÓN DE LA SOCIEDAD
+
+
+ojo Si hay REACTYIVACIÓN en el label debo llevar manualmente 
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+dentro del trámite de Transforma, debo hacer la reactivación:
+
+ASÍ:
+PARA REACTIVACIÓN.
+
+Commit:
+OK----Actualizado ESF
+OK----Reactivación
+OK----Designación Rep Legal
+OK----Boletín
+
+**Revisión previa:**
+Reactiva PJ: si fue disuelta por no renovación en los últimos 5 años, debe pagar los años adeudados antes de reactivar.
+Trae: Doc Priv o Act
+Indicar nueva vigencia
+tr´amite se hace una clave
+si trae transformación primero el transforma.
+label manual, observación reactivación manualmente. por un forms.
+
+Sociedad queda con el nombre y sin EN LIQUIDA 
+Se toca módulo de disolución,(quitar todo) lo copio y llevo al de duración.
+
+OOJO En vigencia: llevo lo que tenía, indefinida etc, justo abajo el texto de la circular qu ya tengo.  general label y boletín.  Ojo si fue el texto está en 
+vencimiento: MISMO mod 4
+disolución sociedad : mod 203
+POR LEY : MÓDULO 129-130  y
+
+ojo, si hay reformas, toca llevarlas al módulo de reformas. (mod 2 o 171)
+
+ojo si en la Disol, nombraron liquidador, deben hacer nombramiento de representante legal, y debo llevar el encabezado, facultades y limitaciones.  en el expediente o por consulta log  REGISTROS, CONSULTA LOG, LOG MODULO COMERCIANTE , elegir en la lista desplegable nUMERO MAT,
+
+Cómo se debe actualizar
+
+1ro Borrar la observación de disolución (antes de la reactivación) crear trámite Ret-Obs-Cte cambiar a (SI) y en motivo = se reactiva.
+
+2do generar tramite reactivaciónPJ, clic datos complemen y cambiar el nombre de la sociedad (quitar la expresión en liquidación), luego, 
+
+3ro revisar mod 203, 129 y 130 (y si tienen texto), llevar dicho texto al mpodulo 4 vigencia y pegarlo debajo de la vigencia qye tenía. pero a dicjo texto se le adiciona el texto … (y Por Extracto de Acta No.38 del 01 de Abril de 2026 de Asamblea, inscrito(a) en esta Cámara de Comercio el 01 de Junio de 2026 con el No.23722  del Libro IX, la persona jurídica de la referencia se reactivó.)
+
+4to con el log, llenar los módulos como venían antes de nombrar liquidador (encabezado, fal, limitaciones).   
+
+5to mod 206 recursos, genero label manual:
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+
+ y ok
+
+ÓRDEN DE LOS TRÁMITES
+404818-12 Borrar Obser Ret-Obs-Cte-------50539903 ok
+404818-12 ReactivacionPj------------------------ok
+en Modulos 203, 129, 130 deben quedar vacíos----ok
+Debe quedar la clave de reactivapj--------------ok
+404818-12 DesRemRv-SocCom-----------------------
+
+
+MEDIANTE LA CUAL SE APROBÓ LA REFORMA DEL NOMBRE O RAZÓN SOCIAL, QUEDANDO ASÍ:
+
+Acta No.2 del 05/05/2026 Asamblea         21899 del 19/05/2026 del L.IX
+
+
+Reformas especiales mod 171
+EJEMPLO TEXTO CAMBIO NOMBRE:
+
+Por Acta No.2 del 05 de Mayo de 2026 de la Asamblea, inscrito(a) en esta Cámara de Comercio el 19 de Mayo de 2026, con el No.21899 del Libro IX, la sociedad cambió su denominación o razón social de SKALA DISEÑO Y CONSTRUCCIONES SAS a GRUPO LOGÍSTICO INTEGRAL PLANEAMOS SAS
+
+La persona jurídica no se encuentra disuelta y su duración es indefinida.
+
+mod 203 viejo:
+NO TIENE 
+
+MOD.129 
+DISOLUCIÓN: La persona jurídica quedó disuelta y en estado de liquidación, en virtud de lo establecido en el artículo 31 de la Ley 1727 de 2014, mediante inscripción de 2020/07/27
+
+MOD.130  no tiene
+
+
+Label MANUAL:
+
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+
+La persona jurídica se disolvió y entró en estado de liquidación mediante Acta No. 01, del 7 de julio de 2022, de la Asamblea de Accionistas,  inscrita en esta Cámara de Comercio el 11 de julio de 2022 con el No.24678 del Libro IX y por Acta No.02 del 04 de Marzo de 2026, inscrita en esta Cámara de Comercio el 27 de Marzo de 2026 con el No.11500 del libro IX, la persona jurídica de la referencia se reactivó. 
+
+
+
+
+
+
+
+TERCERO:_______________________
+Tramit MatPjCivilComer
+Solo agotar
+Doc es formulario
+Clic mat aosciada:
+OJO: en módulos puedo llenar los módulos de correos y otros si en el rues los cambiaron.
+Solo dar clic a generar label. grabar confirmar.
+
+
+
+ÓRDEN DE LOS TRÁMITES
+Si aplica cancelaMatSocCiv--------------(VER LOS CASOS arriba) Na
+Crear Clave CL-Transforma---------------(guion viejo) OK
+371735-12 TransforSocCom----------------ok
+371735-12 MatPjCivilComer---------------ok
+Solicitar clave de reactivaciONPJ -------NA
+
+Clave de reactiva:
+Tramites / corecciones/ utilirtarios/ modifica observaciones
+comerciante (o establecimiento)
+ llamar programa
+
+con una matricula de ejemplo para saber la tabulación. y
+reemplazo los datos con los nuevos, debe ser en la matricula nueva.
+
+578458-12 ejemplo
+
+detalle:
+Nombre Anterior: |INMOBILIARIA E INVERSIONES DE LA "R" S.A.S "En liquidación"|Sigla Anterior: ||Nuevo Nombre: |INMOBILIARIA E INVERSIONES DE LA "R" S.A.S |Nueva Sigla: ||Comentarios: |
+
+
+
+capital viejo:
+                           CAPITAL AUTORIZADO  
+Valor               :            $3.000.000,00
+No. de acciones     :                 3.000,00
+Valor Nominal       :                $1.000,00
+
+                            CAPITAL SUSCRITO  
+Valor               :            $2.500.000,00
+No. de acciones     :                 2.500,00
+Valor Nominal       :                $1.000,00
+
+                             CAPITAL PAGADO  
+Valor               :            $2.500.000,00
+No. de acciones     :                 2.500,00
+Valor Nominal       :                $1.000,00
+
+
+
+
+
+
+

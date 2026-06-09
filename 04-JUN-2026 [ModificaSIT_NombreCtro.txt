@@ -1,0 +1,133 @@
+04-JUN-2026 [ModificaSIT_NombreCtrolanteJAVIER]
+Radicado:30313662 MAT 741129-12
+DAVID CORREA POSADA
+
+OK MODIFICACION SITUACION DE CONTROL 676322-97 
+CAMBIA EL NOMBRE DE LA MATRIZ (676324-97)
+ANTES: LIBERO COPPER & GOLD CORPORATION
+DESPUES: COPPER GIANT RESOURCES CORP   
+
+
+ojo con Javi indica en reunión del :
+En sit de control o grupo, la sit de control gran situación, siempre va a aparecer inactiva y en los comentarios ver la constancia de porqué está inactiva.
+ver comentarios en matriz y en la gran sit.
+
+Generar el trámite en progress 
+
+y luego los cambios 
+la modificación se hace por Modifica módulos.
+en el módulo 123.
+
+Poner abajo
+MODIFICACIÓN: 
+INSCRIPCION: aquí los datos
+
+ y a boletín se lleva los datos de la afectada (los que sufrieron modif).
+en este caso solo la gran situación y el controlante.
+
+
+
+
+
+Commit
+OK---Actualizado ESF
+OK---Modifica Sit Control: Mod Nombre controlante.
+OK---Label/ Boletín
+
+Corrección abogad@: 
+Errores con mat asociadas.
+
+Revisión:_______________________________
+Existe SIT? SI 
+   Gran SIT: 676322 -97    1438 l6
+Controlante: 676324-97  activo? si
+Controladaa: VARIAS
+Trámite se crea sobre la Gran SIt(97)-- ok
+Tiene Verifica identidad----ok
+
+PRIMERO:______________________________________________
+Cambiar el nombre del controlante o Matriz:
+debo Crear trámite: Cambio Nombre
+se crea con datos del controlante a cambiar de nombre 50540884-----ok
+se genera así:
+clic ADICIONAR
+Poner en nuevo nombre.
+Salvar check
+
+ 
+SEGUNDO:____________________________________________________
+Como se hace?
+ir trpamite SitconMod
+Boletín automa
+Mat asociadas= Gran sit, el que sale, el que entra.: ok
+si el que llega es -1 o -12, se deben hacer dos registros. (sit control vinculada)
+Generar 206 x cada una de las que intervinen.
+Luego sit mod 20.
+voy a pestaña controlante
+pararse en el que sale, clic Modificar, inactivo Grabar
+ingreso al nuevo.
+
+Actividad: (La que diga en doc )
+Fecha Cofig: (La que digan)
+Documento: (el que traigan) " PRIVADO DEL 25 DE MAYO DE 2026"
+
+LUEGO, IR a pestaña Controlada
+la selecciono, clic en modificar y en el documento poner el del nuevo controlante eje 
+
+documento: PRIVADO DEL 25 DE MAYO DE 2026
+presupesto: el que traigan en el doc
+actividad: reemplazar por la que tajeron
+fecha config: la que trajeron 
+
+grabar, check. label y bbletin confirmar.
+
+NOTA
+si el controlante que sale es -98, 663170-98
+si tiene algo que lo amarre lo dejo y si no lo inactivo
+ejemplo
+tiene est? no
+socied hecho? no
+otras sit control activas? no
+
+se inactiva así: 
+crear trámite: cancelaCteSinIn
+generar clave ok
+
+
+Orden Trámites__________________________
+722135-98 NoMat-Pj----------------1152192448 ok
+mod pn----------------------------50540878 ok
+676322-97 SitCon-Mod-Com --------  OK
+Cancelar al controlante viejo -98 si no tiene pendi
+663170-98 cancelaCteSinIn -------- OK
+
+_____________________________________
+ejemplo del texto:
+PROPIEDAD DEL 100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE LA SOCIEDAD
+
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 10 DE FEBRERO DE 2026
+
+
+
+722134
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
