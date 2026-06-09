@@ -1,0 +1,131 @@
+09-JUN-2026[Reactiva_ESAL]
+Radicado:30311267 Mat 1751-28
+Lina Marcela Villa Restrepo
+
+REACTIVACION ENTIDADES SIN ANIMO DE LUCRO
+CUMPLE PRESUPUESTOS REACTIVACIÓN
+
+Commit:
+OK----Actualizado ESF
+OK----Reactivación Esal
+OK----Label
+
+**Revisión previa:**
+Reactiva: si fue disuelta por no renovación en los últimos 5 años, debe pagar los años adeudados antes de reactivar.
+Trae: Doc Priv o Act
+Indicar nueva vigencia
+tr´amite se hace una clave
+si trae transformación primero el transforma.
+label manual, observación reactivación manualmente. por un forms.
+
+Sociedad queda con el nombre y sin EN LIQUIDA 
+Se toca módulo de disolución,(quitar todo) lo copio y llevo al de duración.
+
+OOJO En vigencia: llevo lo que tenía, indefinida etc, justo abajo el texto de la circular qu ya tengo.  general label y boletín.  Ojo si fue el texto está en 
+vencimiento: MISMO mod 4
+disolución sociedad : mod 203
+POR LEY : MÓDULO 129-130  y
+
+ojo, si hay reformas, toca llevarlas al módulo de reformas. (mod 2 o 171)
+
+ojo si en la Disol, nombraron liquidador, deben hacer nombramiento de representante legal, y debo llevar el encabezado, facultades y limitaciones.  en el expediente o por consulta log  REGISTROS, CONSULTA LOG, LOG MODULO COMERCIANTE , elegir en la lista desplegable nUMERO MAT,
+
+Cómo se debe actualizar
+
+1ro Borrar la observación de disolución (antes de la reactivación) crear trámite Ret-Obs-Cte cambiar a (SI) y en motivo = se reactiva.
+
+2do generar tramite reactivaEsal, clic datos complemen y cambiar el nombre de la sociedad (quitar la expresión en liquidación), luego, 
+
+3ro revisar mod 203, 129 y 130 (y si tienen texto), llevar dicho texto al mpodulo 4 vigencia y pegarlo debajo de la vigencia qye tenía. pero a dicjo texto se le adiciona el texto … (y por Acta No.4 del 09 de Abril de 2026, inscrita en esta Cámara de Comercio el 09 de Junio de 2026 con el No.2136 del libro I, la persona jurídica de la referencia se reactivó.)
+
+4to con el log, llenar los módulos como venían antes de nombrar liquidador (encabezado, fal, limitaciones).   
+
+5to mod 206 recursos, genero label manual:
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+
+ y ok
+
+**Orden Trámites**
+1751-28 Borrar Obser Ret-Obs-Cte-------50541163
+1751-28 ReactivacionPj------------------------
+en Modulos 203, 129, 130 deben quedar vacíos--
+Debe quedar la clave de reactivapj------------
+
+
+SI HAY REFORMAS:
+
+
+MEDIANTE LA CUAL SE APROBÓ LA REFORMA DEL NOMBRE O RAZÓN SOCIAL, QUEDANDO ASÍ:
+
+Acta No.2 del 05/05/2026 Asamblea         21899 del 19/05/2026 del L.IX
+
+
+Reformas especiales mod 171
+EJEMPLO TEXTO CAMBIO NOMBRE:
+
+Por Acta No.2 del 05 de Mayo de 2026 de la Asamblea, inscrito(a) en esta Cámara de Comercio el 19 de Mayo de 2026, con el No.21899 del Libro IX, la sociedad cambió su denominación o razón social de SKALA DISEÑO Y CONSTRUCCIONES SAS a GRUPO LOGÍSTICO INTEGRAL PLANEAMOS SAS
+
+La persona jurídica no se encuentra disuelta y su duración es indefinida.
+
+mod 203 viejo:
+NO TIENE 
+
+MOD.129 
+DISOLUCIÓN: La persona jurídica quedó disuelta y en estado de liquidación, en virtud de lo establecido en el artículo 31 de la Ley 1727 de 2014, mediante inscripción de 2020/07/27
+
+MOD.130  no tiene
+
+
+Label MANUAL:
+
+MEDIANTE LA CUAL SE APROBÓ LA REACTIVACIÓN DE LA SOCIEDAD.
+
+La persona jurídica se disolvió y entró en estado de liquidación mediante Acta No. 01, del 7 de julio de 2022, de la Asamblea de Accionistas,  inscrita en esta Cámara de Comercio el 11 de julio de 2022 con el No.24678 del Libro IX y por Acta No.02 del 04 de Marzo de 2026, inscrita en esta Cámara de Comercio el 27 de Marzo de 2026 con el No.11500 del libro IX, la persona jurídica de la referencia se reactivó. 
+
+______________________________________________________________________
+DATOS ENCONTRADOS POR LOG
+ENCABEZADO:
+
+
+
+FACULTADES:
+
+
+
+
+
+
+
+ESQUEMA GRÁFICO:
+
+
+ESQUEMA REFORMAS LISTADO
+
+Los estatutos de la Sociedad han sido reformados así: 
+
+DOCUMENTO                                  INSCRIPCION           
+Acta No.2023 02 del 01/06/2023 de Asamblea 23848 del 27/06/2023 del L.IX
+
+esquema capital:
+
+
+                           CAPITAL AUTORIZADO  
+Valor               :            $30.000.000,00
+No. de acciones     :                 30.000,00
+Valor Nominal       :                 $1.000,00
+
+                            CAPITAL SUSCRITO  
+Valor               :            $30.000.000,00
+No. de acciones     :                 30.000,00
+Valor Nominal       :                 $1.000,00
+
+                             CAPITAL PAGADO  
+Valor               :            $30.000.000,00
+No. de acciones     :                 30.000,00
+Valor Nominal       :                 $1.000,00
+
+
+
+
+FACCULTADES Y LIMITACIONES DEL REPRESENTANTE LEGAL
+
