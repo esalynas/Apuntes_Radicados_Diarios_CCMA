@@ -1,0 +1,176 @@
+10-JUN-2026[CancelaPjDomi_Libro]
+Radicado:30362198 Mat 773079-12
+CATALINA LOPEZ POSADA
+
+cambio de dm a itagui
+
+Commit
+OK----Actualizado ESF
+OK----CancelaPjDomi
+OK----Boletín
+ESP. CANCELACIÓN PJ POR CAMBIO DOMICILIO Mat 773079-12
+ESP. LIBROS Automático Opción 8
+
+
+Corrección abogad@:
+
+**Revisión:**
+Actividad azar?no
+Actividad Alto impact 5630? no
+Tiene alerta: si
+Est está inac O Cancel? Hacer esp OP10: NA
+No se toca el certificado de existencia
+1RO: Hacer especial cambio domicilio.
+Se entrega certificado de libros
+Si tiene libros: Sale Automa Op 8
+No tiene Libros: Hacerlo manual de No Libros baseOp8.
+Nota: Si es mas viejita la soc de 2002 debo revisar expediente porque puede tener libros no migrados y debo hacer especial manual.
+ojo si hay otras reformas, se llevan al LABEL Y AL certificado especial, NO al módulos de certificado.
+
+Trámite:
+domi anterior y nuevo dmi,
+mod 206, ingresa dat compl. CLAVE
+
+ojo: si hay más cosas sujetas a boletín como cambio de nombre, debo llevarlo con la etiqueta manual a boletín
+
+LUEGO EN EL mod 206, pegar
+el texto:
+MEDIANTE LA CUAL SE APROBÓ EL CAMBIO DE DOMICILIO Y REFORMA TOTAL DE ESTATUTOS ASÍ:
+(PEGO EL TEXTO  que creé en Word plantilla)
+
+grabar y confirmar.
+
+
+
+Orden Trámites
+773079-12 CancelPjDomi--------ok
+Esp cambio Domi---------------
+Esp. Libros-Manual------------NA
+
+
+matricula de jemplo refor total:798885-12 lEBA
+
+
+
+EJMPLO ESP CAMBIO DOMI:
+
+                           C E R T I F I C A
+
+Que la sociedad ROTOINDUSTRIAL S.A.S identificada con  el NIT 901782342-7 fue  constituida  por Documento Privado del 15 de Diciembre de 2023 de los Accionistas, inscrito(a) en esta Cámara de Comercio el 18 de Diciembre de  2023 con el No.44047 del libro IX y se encontraba matriculada en  el  Registro Mercantil bajo el No.21-773079-12
+
+                           C E R T I F I C A
+
+Que según Acta No.28 del 21 de Mayo de 2026, de la Asamblea, inscrita en esta Cámara de  Comercio el 10 de Junio de 2026, con el No.24829 del Libro IX, se aprobó el cambio de domicilio del municipio de Bello - Antioquia al municipio de Itagüí - Antioquia.
+
+                           C E R T I F I C A
+
+Último año renovado:                 2026
+Fecha de renovación:                 04 de Mayo de 2026
+
+ESF
+
+
+
+EJEMPLO: Esp cambio domi CON reforma TOTAL:
+                           C E R T I F I C A
+
+Que  la sociedad INVERSIONES EL REFUGIO S.A.S.  identificada con  el NIT 890918740-2 fue  constituida  por Escritura Pública No.1119 del 11 de Julio de 1977, inscrito (a) en esta Cámara de Comercio el 14 de Julio de  1977  con el No.2223 del libro IX y se encontraba matriculada en  el  Registro Mercantil bajo el No.21-34201-12
+
+                           C E R T I F I C A
+
+Que según Acta No.55 del 04 de Mayo de 2026, de la Asamblea, inscrita en esta Cámara de  Comercio el 03 de Junio de 2026, con el No.24o76 del Libro IX, se aprobó el cambio de domicilio del municipio de Medellín - Antioquia al municipio de Rionegro - Antioquia, así mismo se aprobó la reforma total de estatutos así:
+
+CAPITÚLO 1
+ARTÍCULO 1. ESPECIE, DENOMINACIÓN Y DOMICILIO SOCIALES.
+Nombre persona jurídica:  INVERSIONES EL REFUGIO S.A.S.
+
+ARTICULO 2. OBJETO SOCIAL
+La sociedad como objeto principal podrá realizar cualquier tipo de actividad civil o comercial lícitas. 
+
+Adicionalmente el objeto secundario estará determinado por el desarrollo de actividades tendientes a la conservación, incremento, precautelacíón y administración del patrimonio familiar. En especial la sociedad podrá efectuar la inversión de sus fondos o disponibilidades en bienes muebles e inmuebles, los cuales tendrán el carácter de activos fijos con fines rentísticos y de valorización; y particularmente, la conformación, administración y manejo de un portafolio de inversiones propias, constituido por acciones, cuotas sociales y partes de interés en sociedades nacionales o extranjeras, títulos de participación o inversión, bonos emitidos por entidades públicas y privadas, y por otros títulos valores de contenido crediticio o de participación de libre circulación en el mercado, cédulas u otros documentos de deuda. Los dividendos percibidos por las participaciones que ostente la sociedad en otras sociedades, en ningún caso se pueden entender como habituales y de carácter profesional; y mucho menos se debe entender que dichos ingresos hagan parte de su objeto social principal y que para su obtención se configure una actividad económica empresarial organizada.
+
+ARTÍCULO 3. LAPSO SOCIAL
+La sociedad tendrá un término indefinido
+
+ARTÍCULO 4. CAPITAL
+El capital autorizado de la sociedad es de MIL MILLONES DE PESOS ($1.000.000.000) dividido en MIL MILLONES (1.000.000.000) de acciones de valor nominal unitario de un peso ($1,00), acciones qué son nominativas y de capital.
+
+ARTICULO 5. PARTICIPACIÓN EN EL CAPITAL ACCIONARIO - CAPITAL SUSCRITO Y PAGADO: Los accionistas han suscrito y pagado en dinero en efectivo la suma de CUATROCIENTOS MIL PESOS ($400.000), correspondientes a DOS (2) acciones PLATINO y 399.998 acciones ORDINARIAS, acciones que son nominativas y de capital, de valor nominal unitario de un peso ($1,00), capital íntegramente pagado.
+
+ARTICULO 6. TIPOS DE ACCIONES
+acciones ordinarias, acciones platino
+
+ARTICULO 7. NEGOCIACIÓN DE ACCIONES
+ARTÍCULO 8. DERECHO DE PREFERENCIA
+ARTÍCULO 9
+ARTÍCULO 10: PRENDA
+ARTÍCULO 11. DIRECCIÓN, ADMINISTRACIÓN Y REPRESENTACIÓN
+ARTÍCULO 12: REPRESENTACIÓN LEGAL: 
+
+Corresponde al Gerente Vitalicio, quien carece de limitaciones en sus atribuciones, por lo que podrá actuar en todo momento sin el concurso y autorización de ningún otro órgano social. La gerencia es vitalicia, por lo cual el Gerente Vitalicio sólo podrá ser removido de su cargo por su muerte o por renuncia ante la Asamblea de Accionistas. 
+
+El Gerente Vitalicio de la sociedad tendrá un (1) Gerente Suplente Vitalicio, quien carece de limitaciones en sus atribuciones, por lo que podrá actuar en todo momento sin el concurso y autorización de ningún otro órgano social y del Gerente Vitalicio. La primer gerencia suplente es vitalicia, por lo cual el Gerente Suplente Vitalicio sólo podrá ser removido de su cargo por su muerte, con el voto de los accionistas titulares de las acciones platino o por renuncia ante la Asamblea de Accionistas. 
+
+Adicionalmente la sociedad tendrá un Gerente Suplente (No Vitalicio) o cuantos estime conveniente designar la Asamblea General de Accionistas, designación que será de libre nombramiento y remoción, quienes podrán representar a la compañía conjuntamente únicamente ante la ausencia temporal y/o absoluta e incapacidad del Gerente Vitalicio y Primer Gerente Suplente (Vitalicio), salvo por las limitaciones establecidas en los presentes estatutos. 
+
+PARÁGRAFO 1: Para todos los efectos de los presentes estatutos, y mientras DIEGO FERNANDO URIBE OLARTE sea Gerente Vitalicio, cuando se haga referencia al Gerente, se entenderá que se trata del Gerente Vitalicio. 
+
+PARÁGRAFO 2: El Gerente Suplente no vitalicio de la sociedad deberá solicitar la autorización previa y escrita del Gerente Vitalicio para realizar las siguientes actuaciones a nombre y en representación de la sociedad: 
+
+1. La constitución de cualquier tipo de garantías en nombre de terceros. 
+2. Para tomar dinero en mutuo, para celebrar operaciones financieras por activa o por pasiva, para constituir a la sociedad en garante de obligaciones de terceros. No obstante, podrán abrir cuentas bancarias y ser ordenantes.
+
+PARÁGRAFO 3: Ante la ausencia definitiva del Gerente Vitalicio, por muerte o incapacidad absoluta, el Gerente Suplente Vitalicio asumirá instantáneamente el cargo de Gerente de la compañía, hasta que la Asamblea de Accionistas designe un nuevo Gerente Principal y Suplente. En todo caso, se entenderá que éstos serán de libre nombramiento y remoción y por consiguiente no tendrán la calidad de gerentes vitalicios. 
+
+La duración en el cargo, las atribuciones y limitaciones serán determinadas por la Asamblea de Accionistas con el voto favorable por lo menos del titular de la acción platino.
+
+ARTÍCULO 13: EXCLUSIÓN
+ARTÍCULO 14. DERECHO DE RETIRO
+ARTÍCULO 15: ASAMBLEA
+ARTÍCULO 16. QUÓRUM DELIBERATIVO
+ARTÍCULO 17. MAYORÍA DECISORIA
+ARTÍCULO 18: CAUSALES DE DISOLUCIÓN
+ARTÍCULO 19: APODERAMIENTO
+ARTÍCULO 20: AUTORIZACIÓN
+ARTÍCULO 21. CLÁUSULA DE NO REMISIÓN
+ARTÍCULO 22. JERARQUÍA NORMATIVA
+ARTÍCULO 23. CLÁUSULA COMPROMISORIA
+ARTÍCULO 24. ACUERDO DE ACCIONISTAS
+
+
+                           C E R T I F I C A
+
+Último año renovado:                 2026
+Fecha de renovación:                 31 de Marzo de 2026
+
+ESF
+
+
+_____________________________________________
+ESPCIAL. NO LIBROS.
+
+ESPECIAL NO LIBROS (SALE DE LA OPCIÓN 8)
+ 
+                                                                                                                                                           CERTIFICA
+
+NOMBRE                         INVERSIONES EL REFUGIO S.A.S.
+SIGLA                          No reportó
+NIT                            N 890918740-2
+MATRICULA NUMERO               21-034201-12 de Julio 14 de 1977
+ACTIVOS                       $1.084.808.000
+
+                               CERTIFICA
+
+========================================================================
+  Fecha de Renovación: Marzo 31 de 2026                                
+========================================================================
+
+        ACTIVIDAD ECONÓMICA CÓDIGO CIIU VERSIÓN 4.0 A.C.
+
+6810:    Actividades  inmobiliarias  realizadas  con  bienes  propios  o
+arrendados
+
+7010: Actividades de administración empresarial
+
+
+ESF
