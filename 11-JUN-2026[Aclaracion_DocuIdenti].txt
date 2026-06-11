@@ -1,0 +1,42 @@
+11-JUN-2026[Aclaracion_DocuIdenti]
+Radicado:30394881 Mat 766865-12
+MARICELA DEL CARMEN BERNAL GARCIA
+
+ACLARACIONES SOCIEDAD COMERCIAL. IDENTIFICACION DEL REPRESENTANTE LEGAL: JAVIER  MOURIÑO LAMAS PASAPORTE VIGENTE. 
+
+Commit
+OK---Actualizado ESF
+OK---Aclaración documento: Pasaporte Vigente
+OK---Label, No aplica boletín
+
+
+Revisión previa
+Mismo libro de inscripción inicial=ok
+Corregir estructurado, certificado
+a certificado si van refor especiales.
+BOLETÍN con la corrección, ojo, si es por cambio de numero de pasaporte no llevaar a boletín, sólo se lleva a boletín si hay un error de letras o números del PA publicado inicialmente.
+
+
+Orden Trámites
+AclaraSocCom--------------
+
+Label:
+MEDIANTE LA CUAL SE ACLARA PASAPORTE VIGENTE REP LEGAL,
+QUEDANDO ASÍ:
+
+
+              
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               JAVIER  MOURIÑO LAMAS
+Identificación:       PAW709076
+Tipo de Nombramiento: DESIGNACION
+
+Nota importante VIVI
+
+Cuando aclaran que pasa de PASAPORTE a CEDULA EXTRANJERÍA no va al boletín, se lleva al label lo del abogado.
+ 
+Cuando actualizan (cambian) # del pasaporte, cuando es un # nuevo no va al boletín, se lleva al label lo del abogado, 
+
+A BOLETÍN= pero si hay error en algún numero y es mismo pasaporte si va a boletin
+
