@@ -1,0 +1,127 @@
+17-JUN-2026 [Ins_ACEPTACIÓN_Consejo]
+Radicado:30441960 Mat 20801-28
+DAVID CORREA POSADA
+
+MEDIANTE LA CUAL SE ACEPTA EL RENGLON EN LA JUNTA DIRECTIVA POR PARTE DE:
+
+- PROMOTORA DE ENERGÍA ELÉCTRICA DE CARTAGENA S.A.S E.S.P.
+
+- VATIA S.A.S. E.S.P.
+ 
+Commit:
+OK----Actualizado ESF
+OK----Aceptación Designación miembro Consejo Dir x2
+OK----Label
+OK----Certificado.
+
+es cuando un nombramiento queda en el cert
+sin aceptación, sin posesión, sin validación de identifi.
+luego traen la aceptación. 
+
+Revisión
+Debe hacerse en Libro 90? ok
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+Cómo se hace
+ir al trámite, ir al mpodulo donde esta el nombramiento Clic a la persona, y luego
+clic a botón SI (en estado de nombramiento). 
+
+ir a textos cambiar el sin aceptación por el nombre de la persona con documento y listo
+
+label manual: LIBRO 90 INS 9
+MEDIANTE LA CUAL SE DA ACEPTACIÓN AL CARGO COMO MIEMBROS DE CONSEJO DIRECTIVO
+DE:
+
+NOMBRE                                     IDENTIFICACION
+PROMOTORA DE ENERGIA ELECTRICA DE          NIT. 800.149.537-6
+CARTAGENA - PROELECTRICA SAS ESP
+          
+VATIA S.A.S E.S.P                          NIT. 817.001.892-1
+
+RMT-ESF
+
+Orden Trámites
+Ins-Aceptacion--------------OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJEMPLO MIEMBRO VIEJO (LABEL Y BOLETIN)
+
+
+Cargo:                CONSEJO DIRECTIVO
+Nombre del Cargo:     Sin Información
+Nombre:               HIDROELECTRICA DEL RIO AURES S.A
+Identificación:       811010635-1
+Tipo de Nombramiento: DESIGNACION
+
+EN EL CERTIFICADO DEBE VERSE COMO sin aceptación.
+
+___________________________________________________--
+
+OJO SI DESIGNAN VACANTES:
+NOTA_: SE llevan principales normal y los suplentes como vacantes (en el cer SIN DESIGNACION) pero en label y boletín como vacantes según las etiquetas Word:
+
+Cargo:                 JUNTA DIRECTIVA
+Nombre del Cargo:      SUPLENTE
+Nombre:                VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+
+
+ejemplo LABEL y boletín:
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               JAIME ANDRES DUQUE JIMENEZ
+Identificación:       15513980
+Tipo de Nombramiento: DESIGNACION
+
+Cargo:                JUNTA DIRECTIVA
+Nombre del Cargo:     SUPLENTE
+Nombre:               VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+___________________________-----___________
+
+EJEMPLO TEXTOS JUNTA (PRINCIPALES Y SUP)
+
+                             JUNTA DIRECTIVA
+
+Por  Acta  No.10 del 19 de marzo de 2026, de la Asamblea, inscrito(a) en
+esta Cámara de Comercio el 16 de junio de 2026, con el No.2212 del Libro
+I, se designó a:
+
+PRINCIPALES
+NOMBRE                                IDENTIFICACION
+SEBASTIAN  PEREZ MORENO               C.C. 1.037.640.787
+MARTHA LUZ LOMBANA ARDILA             C.C. 43.595.726
+PEDRO ENRIQUE SANCHEZ ACEVEDO         C.C. 8.029.417
+JORGE IVAN BOLIVAR OSPINA             C.C. 9.727.917
+JAIME ALBERTO PALACIO  BUSTAMANTE     C.C. 98.524.898
+
+SUPLENTES
+NOMBRE                                IDENTIFICACION                                          
+LUIS MAURICIO LOPEZ SALDARRIAGA       C.C. 98.553.871
+SERGIO ANDRES LOPEZ LONDOÑO           C.C. 71.385.001
+HECTOR JULIO SANCHEZ ZAPATA           C.C. 70.057.617
+SEBASTIAN  BERNAL RUIZ                C.C. 9.863.330
+JHON JAIRO YEPES CASTRO               C.C. 8.151.696
+
+
