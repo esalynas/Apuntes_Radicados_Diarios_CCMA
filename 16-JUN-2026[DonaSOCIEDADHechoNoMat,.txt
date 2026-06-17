@@ -1,0 +1,77 @@
+16-JUN-2026[DonaSOCIEDADHechoNoMat,NoCanceEspM]
+Radicado:30421822 Mat 39796-90
+CAROLINA GOMEZ JIMENEZ
+
+DESDE SOCIEDAD DE HECHO.
+DONACION ESTABLECIMIENTO
+CEDENTE - GARCES CALDERON HAROLD 784946-1
+CESIONARIO NAVARRO MEJIA EMELYN  784954-1
+ESTABLECIMIENTO EREDITA JOYERIA
+
+Commit:
+OK---Actualizado ESF
+OK---Label Donación
+OK---Label 
+OK---ESP. DONACIÓN ESTABLECIMIENTO (794243-02)  MAT 39796-10
+Comerciante con Nit Informado a Wilmar
+
+Corrección Abogado: 
+
+Revisión:
+Donación LIBRO 6? : si
+Mat Actividad azar libro 22: No
+Actividad Mat Alto impact 5360,9609? NO
+Comerciante Comprador activo?: SI
+Se cancela cte?:no
+SI No se cancela hacer Esp. CompVTA--ok
+Cuantos establecimientos?  1
+Tiene multas? no
+
+ojo: cuando el miembro de una sociedad de hecho es quien dona a otro, a boletín se lleva manualmente a la persona y no la sociedad de hecho como donate (pero el trámite se hace sobre el dueño del establecimiento por ejemplo la sociedad de hecho )
+
+ejemplo:
+
+DONANTE...........784946-01 GARCES CALDERON HAROLD
+DONATARIO.........784954-01 NAVARRO MEJIA EMELYN
+ESTABLECIMIENTO...794243-02 EREDITA JOYERIA
+
+luego se debe inactivar el Código y los Socios de hecho en la pestaña de SH en Progress así:
+
+Crear támite mod sociedad de hecho (mod-sh)en progres 50541697
+saldrán unos mensajes, ok y luego sale vacía la ventana, darle cjeck e ingresar de nuevo.
+ahora si salen los socios
+y me paro en cada uno y lo borro (ojo borrar sólo si ya no tiene sentido la sociedad de hecho, es decir ya el estable queda 100% para otro).
+
+luego ir menú progress numero de trámites y borrar el mod-sh  que diga en proceso.
+
+y luego crear un cancela comerciante sin ins 
+CancelaCteSinIn para la soc de hecho.  50541701
+
+Orden Trámites
+784954-1 MODIFI Cesionario (recibe)------NA
+39796-90 donacion-Est--------------------OK
+ESP. DONACIÓN MANUAL---------------------OK
+
+copiar lo de boletín a label, pararse en una matricula, clic mód 18 y pegarlo en label con iniciales.
+Generar la clave (info complementaria) check
+No generar label, sólo grabar y confirmar
+
+
+
+corregir por PNC.  50541695
+1506 LIBRO 6  
+
+
+
+
+
+_______________________________________________
+EJEMPLO ESP DONACIÓN (sin cancelación).
+     
+
+                           C E R T I F I C A
+
+Que según Documento Privado del 10 de Junio de 2026, inscrito en esta Cámara de Comercio el 12 de Junio de 2026, con el No.1506 del Libro VI, el señor GARCES CALDERON HAROLD (784946-1) dona a título gratuito a la señora NAVARRO MEJIA EMELYN   (784954-1) el establecimiento de comercio denominado EREDITA JOYERIA (794243-02)
+
+
+ESF
