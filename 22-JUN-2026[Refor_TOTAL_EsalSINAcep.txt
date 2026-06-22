@@ -1,0 +1,92 @@
+22-JUN-2026[Refor_TOTAL_EsalSINAceptaSin Sipref]
+Radicado:30466118 Mat 1628-28
+LUISA FERNANDA ROA BETANCUR
+
+reg
+Reforma total de estatutos
+nuevos estatutos anexo  pág. 23
+
+Designación parcial del COMITÉ SCOUT NACIONAL
+CLAUDIA PATRICIA PELAEZ SALDARRIAGA: continua
+4 principales
+5 suplentes
+sipref aceptación
+Eduardo Orjuela: no sipref no aceptación
+
+
+Mediante la cual se designa representantes legales: 
+presidente
+vicepresidente
+sipref aceptación
+
+Mediante la cual se designa revisores fiscales
+sipref aceptación sin sanción reportada
+
+Commit
+OK---Actualizado ESF
+OK---Reforma Total
+OK---Label
+OK---Designa Comité
+OK---Designa Predidente y Vice
+OK---Designa Rev Fiscal Ppl y Sup
+OK---Label/ Boletpin
+
+Revisión previa
+Comer lib9,civil 13,Azar 22, esal 1? si, 1
+Tiene alerta: si
+Abrir plantilla
+Va a mod listado de reformas
+LLeva label manual
+
+Orden Trámites
+ReforEsal--------OK
+Designa------Comité  ok
+Designa------30466126 REP
+Designa------30466127
+Ajustar certificado al esquema--NA
+
+
+
+EJEMPLO MIEMBRO VIEJO (LABEL Y BOLETIN)
+
+Cargo:                COMITÉ SCOUT NACIONAL
+Nombre del Cargo:     Sin Información
+Nombre:               KATHERINE  CUBILLOS SERNA
+Identificación:       67025594
+Tipo de Nombramiento: DESIGNACION
+
+___________________________________________________--
+
+OJO SI DESIGNAN VACANTES:
+NOTA_: SE llevan principales normal y los suplentes como vacantes (en el cer SIN DESIGNACION) pero en label y boletín como vacantes según las etiquetas Word:
+
+Cargo:                 JUNTA DIRECTIVA
+Nombre del Cargo:      SUPLENTE
+Nombre:                VACANTE
+Identificación:       Sin Información
+Tipo de Nombramiento: Sin Información
+
+ETIQUETA
+SIN SIPREF Y SIN ACEPTACIÓN   a certificado se lleva (SIN ACEPTACIÓN Y/O VALIDACIÓN DE LA IDENTIFICACIÓN)
+
+Cargo:                COMITÉ SCOUT NACIONAL
+Nombre del Cargo:     SUPLENTE
+Nombre:               EDUARDO ORJUELA
+Estado Aceptación:    SIN VALIDACION DE LA IDENTIFICACION Y/O SIN ACEPTACION
+Identificación:       Sin Información
+Tipo de Nombramiento: DESIGNACION
+
+
+
+
+
+Acta No.02-2026 del 17/04/2026 de Asamblea     1646 del 07/05/2026 del L.I
+
+____________________________________
+MEDIANTE LA CUAL SE APROBÓ LA REFORMA DEL NOMBRE O RAZÓN SOCIAL, QUEDANDO ASÍ:
+
+Reformas especiales mod 171
+EJEMPLO TEXTO CAMBIO NOMBRE:
+
+Por Acta No.02.2026 del 17 de Abril de 2026 de la Asamblea, inscrito(a) en esta Cámara de Comercio el 07 de Mayo de 2026, con el No.1646 del Libro I, la sociedad cambió su denominación o razón social de ASOCIACIÓN DE APOYO SOCIAL JUVENIL DE CÁCERES sigla ASOCJUVENIL DE CÁCERES a ASOCIACIÓN DE APOYO SOCIAL JUVENIL DE CÁCERES sigla ASOCJUVENIL
+
