@@ -1,0 +1,220 @@
+23-JUN-2026[ConstiSCCD_Viene]
+Radicado:30470878  Mat 850668-12
+NATALIA ANDREA HINCAPIE CADAVID
+
+OK REG CONSTITUCION POR CAMBIO DE DOMICILIO DE CHAPARRAL A BELLO
+
+Commit:
+OK----Actualizado ESF
+OK----Constitución Cambio Domicilio.
+OK----Boletín
+OK----Label manual.
+Radicado y Mat Informado a Wilmar
+Ajuste al esquema. NA
+
+Corrección Abogad@:
+
+Revisión
+El trámite se cobra en cámara origen, no nosotros= ok
+CCMA asigna # de matri = ok
+el abogado valida que llegue todo lo que tenia
+formularios matrículas, úlrimo cert existencia= ok
+comercial l9, civil l13  esal l1, azar l22
+ojo fecha inicio labores es fechainicial de la mat en camra de origen, antes de que firme abogado.
+label abogado: decir todo lo que trajeron.
+
+
+tiene sit de ontrol o grupo? no
+si tiene, se hace manual y se arma por debajo
+
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+como se hace?
+mejor abrir en docuware
+generar trpamite
+pest inscripción: Acta
+Boletin sale automtático:
+domi anterior y domi nuevo 
+sólo van los nombramiento
+
+0) VALIDACIÓN DE NIT Progress
+Vlaidar con NIT en progresspara saber si ya estuvo con nosotros o la sociedad tiene establecimientos con nosotros.
+
+Si tiene establecimiento activo, se debe unificar ese est con la nueva mat.
+
+si si tien est activo, crear trámite actualiza propietario sobre el dueño actual.
+generar, elegir la nueva matricula donde va a quedar y generar la clave y listo.
+
+y si estaba como -97 y ya no tiene estable, ni pendientes, ni soc de hecho. Inactivar al -97
+creando trámite  cacela comerciante sin inscripción
+adicionar, salvar. listo.
+
+
+1) Botón INGRESAR DATOS COMPLEMENTARIOS.
+clic datos complementarios.
+Abrir el certi de existencia que trae y comenzar a llenar.
+
+tipo id: pongo su nit
+Domicilio: pongo el nuevo
+en progress ir al campo Fecha Inicio (parte inf derecha)  y tener presente que fecha de inicio labores = fecha mat en la otra cámra, si son varios cambio de domi se debe tomar donde se inscribió por primera vez.
+
+fecha renova: pongo la que trae el cert existencia.
+
+IMPORTANTE: el comerciante debe traer nueva info de contacto dir y tel, ojo correo y dir not judicial sólo se toma de la ultima renovación inscrita o mutación posterior a la renovación. del formato 3 se toma solo la dir y teléfono. nada más.
+
+Dir comercial: sale del acta de ahora, del cambio de domi, ó  la saco de lo que traiga nuevo, O PLANTILLA #3, O para que me deje avanzar puedo ingresar cualquier valor mientras ingreso el correcto.
+
+OJO estos datos: CORREO, CORREO NOT, DIR NOT: obligatoriamente sólo los tomo del formulario ultimo año renovación ejem Formulario 2026.
+
+teléfono comercial: lo saco del acta 
+
+dir jurídica: la lleno del cert exitencia o form renova
+en info financiera puedo poner el nit también del cert de xist.
+teléfono juridoc: form renovación, si no taer vacio
+vigencia: del certificado exis
+
+debo llenar también
+Campo ubicación:  del form renovación vigente
+campo Sede administrativa: del form renovación vigente
+Campo Autoriza notificación.
+
+
+Pestaña actividades: del certi existen y la completo mejor con formularo ultimo año de renova, debe coincidir. (se pone en año el ultimo renovado.)
+
+Pestaña info financiera: según form último año renova
+salvar, 
+regresar pestaña datos comerciante:
+Clic a ingreso otra .estado actual y prote social.
+si no hay industria comercio, dejar vacio (for renova)
+grupos étnicos si los trae.
+Check.
+
+ir a módulos para correos
+mod 98. del form renovación o la muta poster a renova.
+mod 119 coreo judi. 
+
+
+2) DILIGENCIAR MÓDULOS.
+mod CONSTITUCION, clic a sugerido y ajusto. (nombre como en certificado)
+
+Por acta No.7 del 17 de abril de 2026 del asamblea de accionistas, inscrito(a) inicialmente en la Cámara de Comercio del Sur y Oriente del Tolima el 26 de marzo de 2021, y posteriormente en esta Cámara de Comercio el 23 de junio de 2026, con el No.26265 del Libro IX, se constituyó la Sociedad de naturaleza Comercial denominada CASAS PREFABRICADAS CONSTRU HOGAR S.A.S ZOMAC
+
+mod Listado reformas.
+clic a sug, no carga nada, grabo e ingreos de nuevo y ya sale. copio sugerido y ajusto.
+ojo si la reforma aplica a REFOR ESPCIALES la debo llevar , por ejemplo cambio de domi y cambia nombre al tiempo.
+
+ejemplo si tiene domi y reforma nombre:
+Reforma especiales.
+Por Acta No.11 del 15 de julio de 2025 de la Asamblea Extraordinaria de Accionistas, inscrita inicialmente en la Cámara de Comercio de Urabá el 15 de agosto de 2025, y posteriormente en esta Cámara de Comercio el 21 de agosto de 2025, con el No.32793 del Libro IX, la sociedad cambió de domicilio del municipio de Turbo a la ciudad de Medellín, y cambió su denominación o razón social de PEPITO SAS a PEDRO PEREZ SAS.
+
+ejemplo solo para cambio de Domi.
+
+Acta  No.7 del 17/04/2026 de Asamblea       26265 del 23/06/2026 del L.IX
+
+Por Acta No.7 del 17 de Abril de 2026 de la Asamblea, inscrita inicialmente en la Cámara de Comercio del Sur y Oriente del Tolima, y posteriormente en esta Cámara de Comercio el 23 de Junio de 2026, con el No.26265 del Libro IX, la sociedad cambió de domicilio del municipio de Chaparral - Tolima, al municipio de Bello - Antioquia.
+
+los otros módulos lo hacemos como una consti normal, se toma del ultimo doc vigente (estatutos o reforma), o cuidadosamente del certifica existencia que trajeron. y lo pego en el modulo correspondiente.
+
+Mod Vigencia: la saco del cert existe
+Mod Capital: la saco del cert existe
+Mod objeto: 
+Mod encabezado rep.
+Mod Facultades
+MOD Clase acciones:
+Mod 103 Y 104 Quorum - Convoca : clic sugerido
+y en tipo de doc (Documento Privado) y fecha doc (17/04/2026) , poner de donde salió por ejemplo doc privado consti, pues toma por defecto el doc que estoy haciendo y es falso.
+
+Mod nombramientos : los ingreos del cert existe
+y en el texto organizo su tipo de documento (el que diga en el certifi exis de origen) ejemplo:
+
+Por Documento Privado del 26 de marzo de 2021 de la Constitución, inscrito(a)  inicialmente en la Cámara de Comercio del Sur y Oriente del Tolima y posteriormente en esta Cámara de Comercio el 23 de junio de 2026, con el No.26265 del Libro IX, se designó a: 
+
+Ojo en nombramientos (rep legal, rev fisc u otro) si viene el cert de la otra cámra como vacante, si o si debo llevarlo igual, ingreso la vacancia al estructurado. (ingresar una vacante común y corriente) y en los textos le ponemos tal cual lo nombraron Y "ojo esos nombranientos van a boletín"
+
+Mod recursos: lo que diga el cert
+
+Mod 222 Libros otras cámaras: 
+
+ojo solo ingresamos libros de máximo órgano (actas de asamblea) y libro de socios o accionistas, si traen otros diferentes a esos no los ingresamos.
+
+si trae libros, abrir el doc y actu modulo.
+clic agregar
+Nro : poner el numero de la insrp del doc que traen
+fecha: la que traen
+cámara: busco la de origen.
+tipo libro: selecciono la que traen
+código: si traen, si no dejar vacio (doc regis libro)
+nombre: el que traigan.
+Nro Hojas: la que traigan ejemplo 100, 
+Hoja inicial: 1, ojo puedo poner 1 a 100 pero ojo si hay varios de un mismo libro ejemplo acta, para el segundo libro necesito ver la continuidad en el documento adjunto comunicación.
+clic Acptar
+ y así por el otro libro. luego salir por la puerta.
+Si olvidamos ingresar los libros, toca montar forms, eso siempre toca ingresarlo.
+
+Mod accionistas: no se ingresa.
+Mod 80 dian: no se ingresa tampoco.
+
+Por último.
+revisar que todos los modulos solicitados estén diligenciados (comparo con cert existencia cámara origen)
+
+IMPORTANTE:
+listo finalmente clic a generar label.
+eso trae la etiqueta de domi anterior y nuevo en VACIO.
+DEBO IR A mod 206, y allí manualmente escribo los datos del domi anterior y nuevo, y lo llevo al boletín.
+
+DOMICILIO ANTERIOR: CHAPARRAL
+NUEVO DOMICILIO: BELLO
+
+al igual que los nombramientos vigentes.
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               JUAN CAMILO QUINTERO OCAMPO
+Identificación:       1020456955
+Tipo de Nombramiento: DESIGNACION
+
+
+APUN ESTADONDE EN MOD 206 EN LABEL RECORDAR:
+
+al final dEL siguiente TEXTO pego mi label des Word.:
+ADEMÁS SE REGISTRARON LOS SIGUIENTES DOCUMENTOS:
+
+
+ejemplo de mi label (hacerlo en Word.)
+DOC PRIVADO FECHA, VIGENTE O HISTORÍCO, Y que pasó.
+si esta vigente, por ejemplo llevo la etiqueta de capital o nombremientos. si es histórico no.
+
+indicar renglones y página. (Renglón x - Pág x)
+ojo renglón es el orden en aparece en documento en DocuWare.
+por ejemplo ordeno por fecha.
+ejemplo de campos que debo llevar siempre :
+
+-[Renglón 6 - Pág 17] Certificado Libros NA
+-[Renglón 6 - Pág 17] Certificado Existencia y Rep Legal 
+-[Renglón 6 - Pág 17] Cert Especial Cambio Domicilio  NA
+-[Renglón 6 - Pág 17] Nuevos Datos de Contacto
+-[Renglón 2 - Pág 2] Fecha Renovación  12/12/2003 
+-[Renglón 2 - Pág 2] Dir Not y Correos 
+-[Renglón 2 - Pág 2] Fecha inicio de Labores 19 Abril 2021
+-NIT (Activo y verificado)
+-[Renglón 2 - Pág 2] Formulario Renovación vigente
+
+
+RMT-ESF
+
+
+GRABAR Y CONFIRMAR.
+
+
+Orden Trámites
+850668-12 ConstiSCCD------
+
+Mat Deysi ejemplo: 824843-12
+
+
+
+ 
+
+
+
