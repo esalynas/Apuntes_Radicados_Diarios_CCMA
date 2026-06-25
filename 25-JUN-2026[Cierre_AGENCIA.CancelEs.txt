@@ -1,0 +1,180 @@
+25-JUN-2026[Cierre_AGENCIA.CancelEst]
+Radicado:30486124 Mat 608288-97
+DAVID ANTONIO MUÑOZ QUINTERO
+
+OK
+CIERRE AGENCIA
+CANCELACION MATRICULA ESTABLECIMIENTO
+REG
+
+liquidc
+CANC ESTAB
+CANC CTE
+
+Commit:
+OK----Actualizado ESF
+OK----Cierre Agencia
+OK----Cancela Est
+OK----Label / Boletín
+ESP. CANCELACIÓN ESTABLECIMIENTO + CIERRE AGENCIA (466487-02) Mat 608288-10
+
+
+Revisión previa:
+Mat agencia= 466487-02
+Cierre ag-suc Libro 6? = si
+Actividad azar LIBRO22?:no
+Renovado?:SI 2025
+Tiene NIT:SI
+
+
+Trámite  Cierre-ag-suc.
+Pest. BOLETÍN, clic agencia e ingreso mat. (copy)
+Pest. MAT asociada. clic a la 0
+Pest. Mod Acto. clic mod 18 (gener label manual)
+y pego lo de boletín así:
+
+MEDIANTE LA CUAL SE APROBÓ EL CIERRE DE LA AGENCIA.
+
+AGENCIA....466487-02 AVIATUR TURISMO MAYA
+
+RMT-ESF
+___________________________________________
+
+EJEMPLO ESPECIAL Cierre agencia llevar al final.
+CIERRE DE AGENCIA:
+ 
+ACTO                          CANCELACION MATRICULA ESTABLECIMIENTO
+TIPO  DOCUMENTO               PRIVADO
+FECHA DOCUMENTO               Junio 16  de 2016
+DATOS INSCRIPCION             LIBRO: 15  NRO.: 62633
+FECHA INSCRIPCION             Junio 24  de 2016
+ 
+ACTO                          CIERRE AGENCIA 
+TIPO  DOCUMENTO               PRIVADO
+FECHA DOCUMENTO               Junio 16  de 2016
+DATOS INSCRIPCION             LIBRO: 6  NRO.: 1579
+FECHA INSCRIPCION             Junio 24  de 2016
+
+
+Orden Trámites
+Cierre-ag-suc-------------------------------------------OK
+Antes de cancelar cualquier est de un no mat, generar cert 02 (copy, si no se pierde) 
+Cancela-Est---------------------------------------------OK
+ESP. CANCELACIÓN ESTABLECIMIENTO + CIERRE AGENCIA-------ok
+
+
+
+
+
+
+EJEMPLO PARA EL CERTIFICADO: cert. opción 2 y al final pongo el certifica
+___________________________________________________________________________
+ 
+
+CON FUNDAMENTO EN LA MATRÍCULA E INSCRIPCIONES EFECTUADAS EN EL REGISTRO
+               MERCANTIL, LA CÁMARA DE COMERCIO CERTIFICA:
+
+                  NOMBRE, DATOS GENERALES Y MATRÍCULA
+
+Nombre:                               AVIATUR TURISMO MAYA
+Matrícula No.:                        21-466487-02
+Fecha de Matrícula:                   02 de Septiembre de 2008
+Último año renovado:                  2026
+Fecha de Renovación:                  27 de Marzo de 2026
+Activos vinculados:                   $145.585.545
+
+                               UBICACIÓN
+
+Dirección comercial:                  Calle 54  45  25
+Municipio:                            MEDELLÍN, ANTIOQUIA, COLOMBIA
+Correo electrónico:                   g_rios@aviatur.com
+Teléfono comercial 1:                 2314666
+Teléfono comercial 2:                 3154023205
+Teléfono comercial 3:                 6013817111
+
+Dirección para notificación judicial: Av 19  No. 4  62
+Municipio:                            MEDELLÍN, ANTIOQUIA, COLOMBIA
+Correo electrónico de notificación:   elizabethmorales@aviatur.com
+Teléfono para notificación 1:         3817111
+Teléfono para notificación 2:         No reportó
+Teléfono para notificación 3:         No reportó
+
+            CLASIFICACIÓN DE ACTIVIDADES ECONÓMICAS - CIIU
+
+Actividad principal código CIIU:  7911
+Actividad secundaria código CIIU: 7912
+Otras actividades código CIIU:    5511, 8230
+
+Descripción  de  la  actividad  económica reportada en el Formulario del
+Registro Único Empresarial y Social -RUES-:
+
+ACTIVIDADES DE LAS AGENCIAS DE VIAJE
+ACTIVIDADES DE OPERADORES TURÍSTICOS
+ALOJAMIENTO EN HOTELES
+ORGANIZACIÓN DE CONVENCIONES Y EVENTOS COMERCIALES
+
+                            PROPIETARIO(S)
+
+Nombre:                        AGENCIA DE VIAJES Y TURISMO AVIATUR S.A.S
+Identificación:                N 860000018-2
+Domicilio:                     BOGOTÁ D.C., CUNDINAMARCA, COLOMBIA
+Matrícula No.:                 No reportó
+Dirección:                     CRA 49 NRO 55 25
+                               MEDELLÍN, ANTIOQUIA, COLOMBIA
+Teléfono                       5765000
+
+
+ACTO:                     APERTURA DE AGENCIA
+DATOS DEL DOCUMENTO:      COMUNICACION DEL 26 DE AGOSTO DE 2008
+PROCEDENCIA:              REPRESENTANTE LEGAL
+MATRÍCULA:                466501-2 
+
+DATOS DE INSCRIPCIÓN:     REGISTRADA EN ESTA ENTIDAD EL 2 DE SEPTIEMBRE 
+                          DE 2008, EN EL LIBRO 6o., BAJO EL No.7963.
+
+NOMBRAMIENTOS:
+
+CARGO                      NOMBRE                         IDENTIFICACION
+
+ADMINISTRADOR              GILBERTO ALONSO RIOS             70.567.787
+                           BERMUDEZ                   
+                           DESIGNACION                
+
+Por  Comunicación  del  26  de agosto  de 2008, del Representante Legal,
+registrada  en  esta  Cámara el 2 de septiembre  de 2008, en el libro 6,
+bajo el número 7964
+
+                              CERTIFICA
+
+ACTO                          CANCELACION MATRICULA ESTABLECIMIENTO
+TIPO  DOCUMENTO               PRIVADO
+FECHA DOCUMENTO               Junio 16  de 2016
+DATOS INSCRIPCION             LIBRO: 15  NRO.: 62633
+FECHA INSCRIPCION             Junio 24  de 2016
+ 
+ACTO                          CIERRE AGENCIA 
+TIPO  DOCUMENTO               PRIVADO
+FECHA DOCUMENTO               Junio 16  de 2016
+DATOS INSCRIPCION             LIBRO: 6  NRO.: 1579
+FECHA INSCRIPCION             Junio 24  de 2016
+
+ESF
+
+
+
+
+
+
+
+
+
+
+
+
+
+activar matricula
+tramites / corre /activar comer o establecimiento según el caso.
+y lo mismo para inactivar.
+
+
+
