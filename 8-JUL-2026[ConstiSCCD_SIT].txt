@@ -1,0 +1,346 @@
+8-JUL-2026[ConstiSCCD_Viene]
+Radicado:30539229  Mat 851973-12
+MARICELA DEL CARMEN BERNAL GARCIA
+
+
+CONSTITUCION SOCIEDAD COMERCIAL POR CAMBIO DE DOMICILIO A MEDELLIN
+
+
+Commit:
+OK----Actualizado ESF
+OK----Constitución Cambio Domicilio.
+OK----Reformas: Nombre, Objeto
+OK----Boletín + Nombramientos
+OK----Libros
+OK----Situación Control
+OK----Label manual.
+Radicado y Mat Informado a Wilmar
+
+Corrección Abogad@:
+
+
+Revisión
+El trámite se cobra en cámara origen, no nosotros= ok
+CCMA asigna # de matri = ok
+el abogado valida que llegue todo lo que tenia
+formularios matrículas, úlrimo cert existencia= ok
+comercial l9, civil l13  esal l1, azar l22
+ojo fecha inicio labores es fechainicial de la mat en camra de origen, antes de que firme abogado.
+label abogado: decir todo lo que trajeron.
+
+
+tiene sit de ontrol o grupo? si
+si tiene, se hace manual y se arma por debajo
+
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+
+como se hace?
+mejor abrir en docuware
+generar trpamite
+pest inscripción: Acta
+Boletin sale automtático:
+saldrá: domi anterior y domi nuevo 
+sólo van los nombramiento
+
+0) VALIDACIÓN DE NIT Progress
+Validar con NIT en progresspara saber si ya estuvo con nosotros o la sociedad tiene establecimientos con nosotros.
+
+Si tiene establecimiento activo, se debe unificar ese est con la nueva mat.
+
+si si tien est activo, crear trámite actualiza propietario sobre el dueño actual.
+generar, elegir la nueva matricula donde va a quedar y generar la clave y listo.
+
+y si estaba como -97 y ya no tiene estable, ni pendientes, ni soc de hecho. Inactivar al -97
+creando trámite  cacela comerciante sin inscripción
+adicionar, salvar. listo.
+
+
+Generar trámite Constisccd
+
+1) Botón INGRESAR DATOS COMPLEMENTARIOS.
+clic datos complementarios.
+Abrir el certi de existencia que trae y comenzar a llenar.
+
+tipo id: pongo su nit
+Domicilio: pongo el nuevo
+en progress ir al campo Fecha Inicio (parte inf derecha)  y tener presente que fecha de inicio labores = fecha mat en la otra cámra, si son varios cambio de domi se debe tomar donde se inscribió por primera vez.
+
+fecha renova: pongo la que trae el cert existencia.
+
+IMPORTANTE: el comerciante debe traer nueva info de contacto dir y tel, 
+ojo correo y dir not judicial sólo se toma de la ultima renovación inscrita o mutación posterior a la renovación. del formato 3 se toma solo la dir y teléfono. nada más.
+
+Dir comercial: sale del acta de ahora, del cambio de domi, ó  la saco de lo que traiga nuevo, O PLANTILLA #3, O para que me deje avanzar puedo ingresar cualquier valor mientras ingreso el correcto.
+
+OJO estos datos: CORREO, CORREO NOT, DIR NOT: obligatoriamente sólo los tomo del formulario ultimo año renovación ejem Formulario 2026.
+
+teléfono comercial: lo saco del acta 
+
+dir jurídica: la lleno del cert exitencia o form renova.
+
+VIGENCIA: del certificado vigente
+debo llenar también
+Campo ubicación:  del form renovación vigente
+campo Sede administrativa: del form renovación vigente
+Campo Autoriza notificación.
+
+Pestaña actividades: del certi existen y la completo mejor con formularo ultimo año de renova, debe coincidir. (se pone en año el ultimo renovado.)
+
+Pestaña info financiera: según form último año renova
+salvar, 
+
+regresar pestaña datos comerciante:
+
+Clic a ingreso otra .estado actual y prote social.
+si no hay industria comercio, dejar vacio (for renova)
+grupos étnicos si los trae.
+Check.
+
+ir a módulos para correos
+mod 98. del form renovación o la muta poster a renova.
+
+mod 119 coreo judi. 
+
+
+2) DILIGENCIAR MÓDULOS.
+mod CONSTITUCION, clic a sugerido y ajusto. (nombre como en certificado)
+
+ojo se pone la fecha del registro, no la del documento del comerciante
+
+Por Documento Privado del 09 de marzo de 2026 del Accionista Único de La Estrella, inscrito(a) inicialmente en la Cámara de Comercio Aburrá Sur el 17 de marzo de 2026 y posteriormente en esta Cámara de Comercio el 07 de julio de 2026, con el No.28202 del Libro IX, se constituyó la Sociedad de naturaleza Comercial denominada LEXIOMA S.A.S
+
+
+
+mod Listado reformas.
+clic a sug, no carga nada, grabo e ingreos de nuevo y ya sale. copio sugerido y ajusto.
+
+ojo, debo llevar a listado de reformas, las reformas que están en el certificado de existencia cámara origen, pero en los datos de inscripción, le pongo los mismo de la que acabo de hacer.  
+
+por ejemplo:
+16182 del 26/12/2023 del L. I
+16182 del 26/12/2023 del L. I
+
+ojo si la reforma aplica a REFOR ESPCIALES la debo llevar , por ejemplo cambio de domi y cambia nombre al tiempo.
+
+ejemplo si tiene domi y reforma nombre:
+Reforma especiales.
+
+Acta No.001 del 28/05/2026 de Asamblea    28202 del 07/07/2026 del L.IX
+
+Por Documento Privado del 09 de marzo de 2026 del Accionista Único de La Estrella, inscrito(a) inicialmente en la Cámara de Comercio Aburrá Sur el 17 de marzo de 2026 y posteriormente en esta Cámara de Comercio el 07 de julio de 2026, con el No.28202 del Libro IX, la sociedad cambió de domicilio del municipio de La Estrella al municipio de Medellín, y cambió su denominación o razón social de RÍOS COMERCIAL E INVERSIONES S.A.S. a LEXIOMA S.A.S.
+
+ejemplo solo para cambio de Domi.
+
+Doc.Privado del 19/06/2026  Accionista      27399 del 01/07/2026 del L.IX
+
+Por Doc Pricvado del 19 de Junio de 2026 del Accionista, inscrito(a) inicialmente en la Cámara de Comercio del Chocó y posteriormente en esta Cámara de Comercio el 01 de julio de 2026, con el No.27399 del Libro IX, la sociedad cambió de domicilio del municipio de Quibdó - Chocó a la ciudad de Medellín - Antioquia.
+
+
+los otros módulos lo hacemos como una consti normal, se toma del ultimo doc vigente (estatutos o reforma), o cuidadosamente del certifica existencia que trajeron. y lo pego en el modulo correspondiente.
+
+
+Mod Vigencia: la saco del cert existe
+Mod Capital: la saco del cert existe
+Mod objeto: 
+Mod encabezado rep.
+Mod Facultades
+MOD Clase acciones:
+Mod accionistas: no se ingresa.
+Mod 80 dian: SIEMPRE INGRESAR
+
+Mod 103 Y 104 Quorum - Convoca : clic sugerido
+y en tipo de doc (Documento Privado) y fecha doc (17/04/2026) , poner de donde salió por ejemplo doc privado consti, pues toma por defecto el doc que estoy haciendo y es falso.
+
+
+Mod nombramientos : los ingreos del cert existe
+y en el texto organizo su tipo de documento (el que diga en el certifi exis de origen) ejemplo:
+
+Por Documento Privado del 09 de marzo de 2026 del Accionista Único, inscrito(a) inicialmente en la Cámara de Comercio Aburrá Sur el 17 de Marzo de 2026 y posteriormente en esta Cámara de Comercio el 7 de julio de 2026, con el No.28202 del Libro IX, se designó a: 
+
+Ojo en nombramientos (rep legal, rev fisc u otro) si viene el cert de la otra cámra como vacante, si o si debo llevarlo igual, ingreso la vacancia al estructurado. (ingresar una vacante común y corriente) y en los textos le ponemos tal cual lo nombraron Y "ojo esos nombranientos van a boletín"
+
+Mod recursos: lo que diga el cert
+
+Mod 222 Libros otras cámaras: 
+
+ojo solo ingresamos libros de máximo órgano (actas de asamblea) y libro de socios o accionistas, si traen otros diferentes a esos no los ingresamos.
+
+si trae libros, abrir el doc y actu modulo.
+clic agregar
+
+Nro : poner el numero de la insrp del doc que traen
+fecha: la que traen
+cámara: busco la de origen.
+
+tipo libro: selecciono la que traen EJ: 12
+código: si traen, si no dejar vacio (doc regis libro)
+nombre: el que traigan. EJ: ACTAS DE ASAMBLEA DE ACCIONISTAS
+
+Nro Hojas: la que traigan ejemplo 100, 
+Hoja inicial: 1, ojo puedo poner 1 a 100 pero ojo si hay varios de un mismo libro ejemplo acta, para el segundo libro necesito ver la continuidad en el documento adjunto comunicación.
+clic Acptar
+ y así por el otro libro. luego salir por la puerta.
+Si olvidamos ingresar los libros, toca montar forms, eso siempre toca ingresarlo.
+CLIS A SALIR POR LA PUERTA y grabar
+
+Por último.
+revisar que todos los modulos solicitados estén diligenciados (comparo con cert existencia cámara origen)
+
+IMPORTANTE:
+listo finalmente clic a generar label.
+eso trae la etiqueta de domi anterior y nuevo en VACIO.
+DEBO IR A mod 206, y allí manualmente escribo los datos del domi anterior y nuevo, y lo llevo al boletín.
+
+DOMICILIO ANTERIOR: QUIBDÓ
+NUEVO DOMICILIO: MEDELLÍN
+
+al igual que los nombramientos vigentes.
+
+Cargo:                REPRESENTACION LEGAL
+Nombre del Cargo:     REPRESENTANTE LEGAL
+Nombre:               JUAN CAMILO QUINTERO OCAMPO
+Identificación:       1020456955
+Tipo de Nombramiento: DESIGNACION
+
+
+APUN ESTADONDE EN MOD 206 EN LABEL RECORDAR:
+
+al final dEL siguiente TEXTO pego mi label des Word.:
+ADEMÁS SE REGISTRARON LOS SIGUIENTES DOCUMENTOS:
+
+
+ejemplo de mi label (hacerlo en Word.)
+DOC PRIVADO FECHA, VIGENTE O HISTORÍCO, Y que pasó.
+si esta vigente, por ejemplo llevo la etiqueta de capital o nombremientos. si es histórico no.
+
+indicar renglones y página. (Renglón x - Pág x)
+ojo renglón es el orden en aparece en documento en DocuWare.
+por ejemplo ordeno por fecha.
+ejemplo de campos que debo llevar siempre :
+
+-[Renglón 6 - Pág 17] Certificado Libros NA
+-[Renglón 6 - Pág 17] Certificado Existencia y Rep Legal 
+-[Renglón 6 - Pág 17] Cert Especial Cambio Domicilio  NA
+-[Renglón 6 - Pág 17] Nuevos Datos de Contacto
+-[Renglón 2 - Pág 2] Fecha Renovación  12/12/2003 
+-[Renglón 2 - Pág 2] Dir Not y Correos 
+-[Renglón 2 - Pág 2] Fecha inicio de Labores 19 Abril 2021
+-NIT (Activo y verificado)
+-[Renglón 2 - Pág 2] Formulario Renovación vigente
+
+
+RMT-ESF
+
+
+GRABAR Y CONFIRMAR.
+
+
+Orden Trámites
+851973-12 ConstiSCCD-------OK
+
+
+
+DATOS: CONTROLANTE 43979055
+
+
+
+EJEMPLO SITUACIÓN DE CONTROL SIT CONTROL
+
+LABEL:
+SITUACION DE CONTROL:
+SITUACIÓN DE CONTROL
+
+    MATRIZ: VALERA MUÑETONES ERIKA TATIANA
+    DOMICILIO: LA ESTRELLA - COLOMBIANA
+
+    CONTROLA DIRECTAMENTE A:
+
+         851973-12 LEXIOMA S.A.S.
+         DOMICILIO: MEDELLÍN - COLOMBIANA
+         Subordinada
+         PRESUPUESTO:  ARTICULO  261-NUMERAL  1  DEL CODIGO DE COMERCIO:
+         PROPIEDAD  DEL  100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE
+         LA SOCIEDAD
+
+
+
+Usuario: RMT-ESF
+
+
+
+BOLETÍN:
+
+
+SITUACION DE CONTROL: SITUACIÓN DE CONTROL
+CONTROLANTE: VALERA MUÑETONES ERIKA TATIANA
+CONTROLADA:  851973-12 LEXIOMA S.A.S.
+
+
+______________________________________________________________
+EN EL CERTIFICADO SE VE ASÍ: (En cual módulo lo llevo?)
+             SITUACIÓN(ES) DE CONTROL / GRUPO EMPRESARIAL
+
+SITUACION DE CONTROL
+
+SITUACIÓN DE CONTROL
+
+    MATRIZ: VALERA MUÑETONES ERIKA TATIANA
+    DOMICILIO: LA ESTRELLA - COLOMBIANA
+    ACTIVIDAD: 6820 Y 6810
+    FECHA DE CONFIGURACIÓN: 2026/03/17
+    DOCUMENTO: FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 12
+    DE MARZO DE 2026
+    DATOS INSCRIPCION: Libro 9 Nro. 27909 2026/07/06
+
+    CONTROLA DIRECTAMENTE A:
+
+         851973-12 LEXIOMA S.A.S.
+         DOMICILIO: MEDELLÍN - COLOMBIANA
+         Subordinada
+         PRESUPUESTO:  ARTICULO  261-NUMERAL  1  DEL CODIGO DE COMERCIO:
+         PROPIEDAD  DEL  100% DE LAS ACCIONES QUE COMPONEN EL CAPITAL DE
+         LA SOCIEDAD
+         ACTIVIDAD:  6820 Y 6810
+         FECHA DE CONFIGURACIÓN: 2026/03/17
+         DOCUMENTO: FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 12
+         DE MARZO DE 2026
+         DATOS INSCRIPCION: Libro 9 Nro. 27909 2026/07/06
+
+
+
+
+CIIU 6810
+ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS.
+
+CIIU 6820
+ACTIVIDADES INMOBILIARIAS REALIZADAS A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA.
+
+
+POR ÚLTIMO CREAR SITUACIÓN DE CONTROL QUE TENÍA
+
+Crear los trámites: 
+CREAR NO MAT-PN y no mat pj
+cómo
+CLIC AL TRAMITE, CLIC BOTON Asigna Mat o nro esal, 
+
+no mat-pn 723213 98  50543342
+
+no mat-pj 723214 97  50543343  es la sit de control.
+
+Generarlos con los datos del certidicado de existencia origen  
+
+tener presente cual es el no de libro y de inscripción del cambio de domi: eje 28202 libro 9. 
+
+B) Ir a trami/ corre/ rev sit control.
+clic a nueva sit
+(ojo la fecha config es la fecha de inscripción en la otra cámara).
+este el ejemplo de texto
+FORMATO DECLARA O REHÚSA SITUACIÓN DE CONTROL DEL 12 DE MARZO DE 2026, INSCRITO INICIALMENTE EN LA CÁMARA DE COMERCIO ABURRÁ SUR EL 17 DE MARZO DE 2026 Y POSTERIORMENTE INSCRITO EN ESTA CÁMRA DE COMERCIO.
+
+c)Finalmente TRAmi / CORREC/ ASOCIAR MAT
+PONER LOS datos de año, matricula e inscrip del cambio domi
+
+clic en adicionar e ingreso mat y guión, primero del controlante, luego controlada y listo.
+
+
