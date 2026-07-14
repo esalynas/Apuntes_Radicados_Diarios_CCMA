@@ -1,0 +1,73 @@
+14-JUL-2026[RATIFICA_Replegal]
+Radicado:30539606 Mat 385684-4
+ANGELA RIOS
+
+
+REGISTRADO
+NOMBRAMIENTO REP LEGAL PPAL - OK SIPREF
+RATIFICACION REP LEGAL SUP - OK SIPREF 
+-------------------
+
+
+
+Commit:
+OK----Actualizado ESF
+OK----Designación Rep Legal Ppl
+OK----Ratificación Rep Legal Sup
+OK----Boletín
+Ajuste al esquema NA
+
+Corrección Abogad@:
+
+
+Revisión
+Tiene aceptación?:SI
+Tiene SIPREF?:SI
+Revisor fiscal es firma?: no
+
+RATICAR:
+Inactivo y INGRESO como RATIFICACIÓN, se lleva el nuevo texto, y label y boletín como RATIFICACION
+
+Orden Trámites
+DesRemRv-SocCom----------------OK
+Ajuste Cert al esquema---------NA Contingencia
+
+
+
+
+
+Título:
+
+
+
+
+
+
+
+
+FACULTADES Y LIMITACIONES DEL REPRESENTANTE LEGAL
+
+ESQUEMA REFORMAS LISTADO
+
+Los estatutos de la Sociedad han sido reformados así: 
+
+DOCUMENTO                                  INSCRIPCION           
+Acta No.2023 02 del 01/06/2023 de Asamblea 23848 del 27/06/2023 del L.IX
+
+esquema capital:
+
+
+                           CAPITAL AUTORIZADO  
+Valor               :            $30.000.000,00
+No. de acciones     :                 30.000,00
+Valor Nominal       :                 $1.000,00
+
+                            CAPITAL SUSCRITO  
+Valor               :            $30.000.000,00
+No. de acciones     :                 30.000,00
+Valor Nominal       :                 $1.000,00
+
+                             CAPITAL PAGADO  
+Valor               :            $30.000.000,00
+No. de acciones     :                 30.000,00
+Valor Nominal       :                 $1.000,00
